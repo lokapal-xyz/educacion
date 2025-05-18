@@ -27,7 +27,7 @@ Los contratos inteligentes constituyen la columna vertebral de las DAO, automati
 
 - ​​**Desbordamientos y subdesbordamientos de enteros**
 - Se producen cuando los números superan los valores máximo o mínimo, lo que provoca un comportamiento no deseado.
-- Prevención: Utilice las bibliotecas SafeMath (integradas en Solidity 0.8+).
+- Prevención: Utilice las librerías SafeMath (integradas en Solidity 0.8+).
 
 ---
 
@@ -118,6 +118,6 @@ Los contratos inteligentes constituyen la columna vertebral de las DAO, automati
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Las DAO deben proteger proactivamente los contratos inteligentes para evitar fallos catastróficos. La reentrada, el front-running, los problemas de control de acceso y las vulnerabilidades de oráculos siguen siendo amenazas clave. Mediante prácticas de codificación segura, la implementación de auditorías y el uso de la verificación formal, las DAO pueden minimizar las vulnerabilidades y mantener la confianza en sus sistemas de gobernanza.

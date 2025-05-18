@@ -76,7 +76,7 @@ Un **enfoque híbrido** que combina automatización, control social y medidas de
 
 --
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 - La **automatización de contratos inteligentes** reduce la intervención manual y garantiza una ejecución eficiente de la gobernanza.
 - Los **bloqueos de tiempo y los mecanismos de emergencia** ayudan a equilibrar la automatización con la seguridad.

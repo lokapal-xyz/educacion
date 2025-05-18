@@ -24,8 +24,8 @@ El viaje no termina aquí; continúa con cada voto emitido, cada propuesta prese
 
 ---
 
-🔖 **¡Terminaste Perspectivas DAO!** 🔖
+🔖 **¡Has completado DAO Perspectivas!** 🔖
 
 **Y...**
 
-🔖🔖🔖 **¡Terminaste HowToDAO!** 🔖🔖🔖
+🔖🔖🔖 **¡Has completado la Guía DAO!** 🔖🔖🔖

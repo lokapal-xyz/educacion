@@ -184,6 +184,6 @@ Cada DAO requiere diferentes modelos de votación según su tamaño, necesidades
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Las DAO deberían adoptar modelos de gobernanza que se ajusten a su misión, objetivos de descentralización y niveles de participación comunitaria. Comprender estos mecanismos les permite diseñar sistemas de gobernanza justos, eficaces y sostenibles.

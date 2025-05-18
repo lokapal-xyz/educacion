@@ -74,6 +74,6 @@ Garantizar la seguridad de una DAO requiere medidas proactivas como auditorías,
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Un enfoque de seguridad integral requiere una dinámica sana y productiva entre las DAO y los investigadores de seguridad. Al integrar auditorías en el ciclo de vida del desarrollo e incentivar a los colaboradores externos a través de recompensas por errores y divulgaciones responsables, las DAO pueden fortalecer significativamente su postura de seguridad y prevenir exploits catastróficos.

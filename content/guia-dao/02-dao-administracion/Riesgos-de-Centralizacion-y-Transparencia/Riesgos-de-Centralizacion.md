@@ -59,7 +59,7 @@ La gobernanza descentralizada busca distribuir el poder de forma justa, pero los
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 - Los riesgos de descentralización existen incluso en DAO bienintencionadas. - Identificar patrones de centralización en la votación, el control administrativo y la infraestructura.
 - Monitorear las métricas de gobernanza y realizar auditorías periódicas para detectar riesgos de forma temprana.
 - Una DAO saludable distribuye el poder para evitar puntos únicos de fallo.

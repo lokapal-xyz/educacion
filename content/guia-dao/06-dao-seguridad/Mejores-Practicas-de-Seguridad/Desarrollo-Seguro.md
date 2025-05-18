@@ -5,7 +5,7 @@ title: 'Estándares de Desarrollo Seguro para Contratos DAO'
 weight: 90_000
 ---
 
-La seguridad es la base de la confianza en las DAO. Los contratos inteligentes mal redactados pueden exponerlas a exploits, ataques de gobernanza y pérdidas financieras. A continuación, se describen las mejores prácticas para el desarrollo seguro de contratos inteligentes, que abarcan auditorías de código, diseño modular, bibliotecas establecidas y protección contra vulnerabilidades comunes.
+La seguridad es la base de la confianza en las DAO. Los contratos inteligentes mal redactados pueden exponerlas a exploits, ataques de gobernanza y pérdidas financieras. A continuación, se describen las mejores prácticas para el desarrollo seguro de contratos inteligentes, que abarcan auditorías de código, diseño modular, librerías establecidas y protección contra vulnerabilidades comunes.
 
 ---
 
@@ -17,7 +17,7 @@ La seguridad es la base de la confianza en las DAO. Los contratos inteligentes m
 - Evitar llamadas externas a contratos a menos que sea absolutamente necesario.
 
 ### **Seguir patrones de seguridad establecidos**
-- Utilizar bibliotecas ampliamente probadas (p. ej., OpenZeppelin).
+- Utilizar librerías ampliamente probadas (p. ej., OpenZeppelin).
 - Implementar control de acceso con permisos "Ownable" o basados ​​en roles ("AccessControl").
 - Aplicar mecanismos de seguridad como interruptores automáticos y mecanismos de pausa de emergencia.
 
@@ -28,7 +28,7 @@ La seguridad es la base de la confianza en las DAO. Los contratos inteligentes m
 
 ## **Prácticas de Desarrollo Seguro**
 
-### **Usar Frameworks y Bibliotecas de Alta Calidad**
+### **Usar Frameworks y librerías de Alta Calidad**
 - Contratos OpenZeppelin para gobernanza, control de acceso y utilidades de seguridad.
 - Foundry o Hardhat para pruebas fuzz y análisis de seguridad avanzados.
 
@@ -59,6 +59,6 @@ La seguridad es la base de la confianza en las DAO. Los contratos inteligentes m
 
 ---
 
-## **Consideraciones finales**
+## **Reflexiones Finales**
 
-El desarrollo seguro es fundamental para las DAO. Al seguir estándares de seguridad probados, aprovechar bibliotecas auditadas y realizar pruebas rigurosas, las DAO pueden mitigar vulnerabilidades, prevenir vulnerabilidades de gobernanza y desarrollar resiliencia a largo plazo.
+El desarrollo seguro es fundamental para las DAO. Al seguir estándares de seguridad probados, aprovechar librerías auditadas y realizar pruebas rigurosas, las DAO pueden mitigar vulnerabilidades, prevenir vulnerabilidades de gobernanza y desarrollar resiliencia a largo plazo.

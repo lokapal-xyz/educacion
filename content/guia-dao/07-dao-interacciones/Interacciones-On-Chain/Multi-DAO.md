@@ -67,6 +67,6 @@ Si bien la coordinación y gobernanza multi-DAO ofrece muchas ventajas, también
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 La integración multi-DAO cobra cada vez más importancia a medida que las DAO interactúan con mayor frecuencia. Al aprovechar las estructuras federadas, la infraestructura compartida y las herramientas de votación entre DAO, las DAO pueden colaborar eficazmente manteniendo la descentralización.

@@ -52,7 +52,7 @@ Una clave comprometida puede poner en riesgo los fondos, la gobernanza y las ope
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 - **Prevenir** la vulneración de claves con almacenamiento seguro y control de acceso (véase el artículo anterior).
 - **Detectar** problemas a tiempo mediante monitorización y alertas.
 - **Recuperarse** rápidamente con copias de seguridad multifirma y procedimientos de emergencia.

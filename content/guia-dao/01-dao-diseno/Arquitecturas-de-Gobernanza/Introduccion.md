@@ -10,15 +10,15 @@ La arquitectura de gobernanza de una DAO es un aspecto crucial de su funcionalid
 Esta sección abarca los elementos clave de la arquitectura de gobernanza de una DAO:
 
 - **Diseño de Contratos Modulares vs. Monolíticos**
-Compararemos las estructuras de contratos modulares y monolíticos, analizando las ventajas y desventajas de cada enfoque en términos de flexibilidad, facilidad de mantenimiento y seguridad.
+    Compararemos las estructuras de contratos modulares y monolíticos, analizando las ventajas y desventajas de cada enfoque en términos de flexibilidad, facilidad de mantenimiento y seguridad.
 
-- **Rol de los Contratos Principales, Gestores de Acceso y Extensiones de Gobernanza**
-Esta sección profundiza en las responsabilidades de los contratos principales que gestionan las funciones esenciales de una DAO, el rol de los gestores de acceso en el control de permisos y cómo las extensiones de gobernanza pueden mejorar la funcionalidad de una DAO.
+- **Rol de los Contratos Centrales, Gestores de Acceso y Extensiones de Gobernanza**
+    Esta sección profundiza en las responsabilidades de los contratos centrales que gestionan las funciones esenciales de una DAO, el rol de los gestores de acceso en el control de permisos y cómo las extensiones de gobernanza pueden mejorar la funcionalidad de una DAO.
 
-- **Complementos e Integraciones Externas**
-Analizaremos cómo los complementos externos y las integraciones con otros protocolos o herramientas pueden mejorar la gobernanza de la DAO, proporcionando características o funcionalidades adicionales.
+- **Plug-ins Externos e Integraciones**
+    Analizaremos cómo los complementos externos y las integraciones con otros protocolos o herramientas pueden mejorar la gobernanza de una DAO, proporcionando características o funcionalidades adicionales.
 
-**Equilibrio entre simplicidad y complejidad en los mecanismos de gobernanza**
-Un desafío de diseño crucial en la gobernanza de DAO es encontrar el equilibrio adecuado entre simplicidad (facilidad de uso y adopción) y complejidad (robustez y control). Esta sección le ayudará a comprender las ventajas y desventajas del diseño de un sistema de gobernanza eficaz.
+- **Equilibrio entre Simplicidad y Complejidad en los Mecanismos de Gobernanza**
+    Un desafío de diseño crucial en la gobernanza DAO es encontrar el equilibrio adecuado entre simplicidad (facilidad de uso y adopción) y complejidad (robustez y control). Esta sección le ayudará a comprender las ventajas y desventajas del diseño de un sistema de gobernanza eficaz.
 
 Al comprender estos elementos fundamentales, esta sección le proporcionará los conocimientos necesarios para diseñar una arquitectura de gobernanza robusta y escalable que se alinee con los objetivos de su DAO.

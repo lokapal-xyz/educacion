@@ -5,7 +5,7 @@ title: 'Evolución de los Modelos de Gobernanza a lo Largo del Tiempo'
 weight: 123_000
 ---
 
-La gobernanza de las DAO ha evolucionado desde la simple votación basada en tokens hasta modelos adaptativos multicapa diseñados para abordar la escalabilidad, la equidad y la descentralización. Exploremos las fases clave de la evolución de la gobernanza, destacando innovaciones como la votación cuadrática, los modelos basados ​​en la reputación y los sistemas de gobernanza híbridos.
+La gobernanza de las DAO ha evolucionado desde la simple votación basada en tokens hasta modelos adaptativos multicapa diseñados para abordar la escalabilidad, el trato justo y la descentralización. Exploremos las fases clave de la evolución de la gobernanza, destacando innovaciones como la votación cuadrática, los modelos basados ​​en la reputación y los sistemas de gobernanza híbridos.
 
 ---
 

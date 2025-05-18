@@ -82,6 +82,6 @@ La mala gestión de la tesorería puede poner en peligro la supervivencia de la 
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Una estrategia eficaz de gestión de tesorería equilibra la sostenibilidad, la transparencia y la flexibilidad para apoyar la misión de una DAO. Mediante la implementación de presupuestos sólidos, la supervisión de la gobernanza y la mitigación de riesgos, las DAO pueden garantizar la solidez financiera a largo plazo, a la vez que mantienen la descentralización y la confianza de la comunidad.

@@ -24,7 +24,7 @@ Los sistemas de gobernanza son objetivos prioritarios para los atacantes que bus
 - Si muy pocos miembros participan, la gobernanza se vuelve vulnerable a la manipulación.
 - Los atacantes pueden aprovechar la baja participación electoral para impulsar propuestas maliciosas.
 
-- **Mitigación**: Implementar incentivos de participación, autodelegación y umbrales mínimos de quórum.
+- **Mitigación**: Implementar incentivos de participación, autodelegación y umbrales mínimos de quorum.
 
 ---
 
@@ -89,6 +89,6 @@ Los sistemas de gobernanza son objetivos prioritarios para los atacantes que bus
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Los ataques a la gobernanza pueden ser tan peligrosos como las vulnerabilidades de los contratos inteligentes, o incluso peores, ya que pueden permitir la manipulación a largo plazo y el robo de fondos. Las DAO deben diseñar modelos de gobernanza resilientes, monitorear activamente los vectores de ataque y adoptar mecanismos de defensa robustos para proteger la toma de decisiones descentralizada.

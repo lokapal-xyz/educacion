@@ -48,7 +48,7 @@ La delegación en las DAO permite a los miembros transferir su poder de voto o a
 
 ## **Mitigación de los riesgos de la delegación**
 
-Para mantener la descentralización y la equidad, las DAO deben implementar salvaguardas en sus modelos de delegación:
+Para mantener la descentralización y el trato justo, las DAO deben implementar salvaguardas en sus modelos de delegación:
 
 | **Riesgo** | **Estrategia de mitigación** |
 |---------|----------------------|

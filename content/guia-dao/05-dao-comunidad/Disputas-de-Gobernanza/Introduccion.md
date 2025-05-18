@@ -16,9 +16,9 @@ Los foros abiertos fomentan la transparencia y la inclusión, ofreciendo un espa
 Si bien una gobernanza transparente es esencial, las DAO pueden enfrentar desafíos significativos debido a la coordinación secreta y las influencias corruptoras. Esta sección examina cómo las alianzas ocultas, las tácticas de consolidación de poder y la manipulación de la gobernanza socavan los procesos colectivos de toma de decisiones.
 
 - **Bloqueos de Gobernanza**
-Los bloqueos ocurren cuando la toma de decisiones llega a un punto muerto y no se puede avanzar más. Analizaremos cómo las DAO pueden diseñar mecanismos de gobernanza para evitar o resolver los bloqueos, como mediante ajustes de quórum, procesos de mediación y facultades de toma de decisiones de emergencia.
+Los bloqueos ocurren cuando la toma de decisiones llega a un punto muerto y no se puede avanzar más. Analizaremos cómo las DAO pueden diseñar mecanismos de gobernanza para evitar o resolver los bloqueos, como mediante ajustes de quorum, procesos de mediación y facultades de toma de decisiones de emergencia.
 
 - **Resolución de Conflictos**
-Los mecanismos eficaces de resolución de conflictos son esenciales para mantener un entorno de gobernanza saludable. Analizaremos diversos enfoques para la resolución de disputas, desde la mediación hasta procesos de arbitraje más formales, y cómo construir un sistema que fomente la equidad y la confianza.
+Los mecanismos eficaces de resolución de conflictos son esenciales para mantener un entorno de gobernanza saludable. Analizaremos diversos enfoques para la resolución de disputas, desde la mediación hasta procesos de arbitraje más formales, y cómo construir un sistema que fomente el trato justo y la confianza.
 
 Al finalizar esta sección, comprenderá mejor cómo abordar y resolver disputas de gobernanza de una manera que preserve la integridad de la DAO y garantice una comunidad sana y colaborativa.

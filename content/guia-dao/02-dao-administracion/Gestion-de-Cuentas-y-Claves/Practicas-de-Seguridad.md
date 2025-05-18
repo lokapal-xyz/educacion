@@ -27,7 +27,7 @@ Una gestión adecuada de claves es fundamental para que las DAO eviten el acceso
 ## **Almacenamiento y copias de seguridad seguros**
 
 ### **Mejores prácticas**
-- Almacenar las claves privadas en monederos de hardware o soluciones de almacenamiento en frío.
+- Almacenar las claves privadas en billeteras de hardware o soluciones de almacenamiento en frío.
 - Utilizar copias de seguridad en múltiples ubicaciones (por ejemplo, divididas en varias ubicaciones seguras).
 - Cifrar las copias de seguridad y almacenarlas sin conexión (por ejemplo, en cajas de seguridad o cajas fuertes ignífugas).
 - Utilizar Shamir’s Secret Sharing (SSS) para distribuir fragmentos de clave de forma segura.
@@ -42,7 +42,7 @@ Una gestión adecuada de claves es fundamental para que las DAO eviten el acceso
 ## **Control de acceso y permisos basados ​​en roles**
 
 ### **Mejores prácticas**
-- Utilizar monederos multifirma para distribuir la autoridad de firma.
+- Utilizar billeteras multifirma para distribuir la autoridad de firma.
 - Implementar el control de acceso basado en roles (RBAC) para limitar el uso de las claves. - Exigir M de N aprobaciones para acciones de alto riesgo.
 - Auditar periódicamente quién tiene acceso y eliminar a los firmantes inactivos.
 
@@ -83,8 +83,8 @@ Una gestión adecuada de claves es fundamental para que las DAO eviten el acceso
 
 - ---
 
-## **Consideraciones Finales**
-- Utilizar monederos físicos y almacenamiento en frío para proteger las claves.
+## **Reflexiones Finales**
+- Utilizar billeteras físicos y almacenamiento en frío para proteger las claves.
 - Implementar multifirma y RBAC para el control de acceso.
 - Mantener copias de seguridad y planes de recuperación seguros.
 - Rotar las claves de forma proactiva y responder con rapidez a las amenazas.

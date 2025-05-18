@@ -8,11 +8,11 @@ weight: 33_000
 Externally Owned Accounts (EOA, cuentas de propiedad externa)
 
 
-La gestión eficaz de cuentas y claves es crucial para la seguridad y la gobernanza de las DAO. Esta sección explora los tres tipos principales de monederos utilizados en las DAO:
+La gestión eficaz de cuentas y claves es crucial para la seguridad y la gobernanza de las DAO. Esta sección explora los tres tipos principales de billeteras utilizados en las DAO:
 
-- **Cuentas de Propiedad Externa (EOA)**: Monederos simples controlados por una clave privada.
-- **Monederos Multifirma**: Requieren múltiples aprobaciones para las transacciones.
-- **Monederos de Contratos Inteligentes**: Monederos programables con funciones de seguridad avanzadas.
+- **Cuentas de Propiedad Externa (EOA)**: billeteras simples controlados por una clave privada.
+- **billeteras Multifirma**: Requieren múltiples aprobaciones para las transacciones.
+- **billeteras de Contratos Inteligentes**: billeteras programables con funciones de seguridad avanzadas.
 
 Cada tipo de monedero ofrece distintas ventajas en cuanto a seguridad, descentralización y usabilidad.
 
@@ -20,7 +20,7 @@ Cada tipo de monedero ofrece distintas ventajas en cuanto a seguridad, descentra
 
 ## **Cuentas de Propiedad Externa (EOA)**
 
-Un EOA es un monedero estándar controlado por una única clave privada, que generalmente se gestiona a través de monederos como MetaMask, Ledger o Trezor.
+Un EOA es un monedero estándar controlado por una única clave privada, que generalmente se gestiona a través de billeteras como MetaMask, Ledger o Trezor.
 
 ### **Ventajas**
 - **Simplicidad**: Fácil de configurar y usar.
@@ -61,14 +61,14 @@ Una billetera multifirma (multisig) requiere que varios firmantes aprueben las t
 - Ayuda a los comités de gobernanza a controlar las acciones administrativas con altos privilegios.
 - Se utiliza para la financiación de subvenciones y garantizar una distribución justa. ---
 
-## **Monederos de Contratos Inteligentes**
+## **billeteras de Contratos Inteligentes**
 
-Un monedero de contratos inteligentes es una cuenta programable que puede aplicar reglas de seguridad. Algunos ejemplos son Safe Modules, Argent y los Monederos Inteligentes Kernel.
+Un monedero de contratos inteligentes es una cuenta programable que puede aplicar reglas de seguridad. Algunos ejemplos son Safe Modules, Argent y los billeteras Inteligentes Kernel.
 
-### **Características de los Monederos de Contratos Inteligentes**
+### **Características de los billeteras de Contratos Inteligentes**
 - **Permisos Personalizables**: Define quién puede ejecutar ciertas acciones.
 - **Mecanismos de Recuperación de Cuenta**: Habilita la recuperación social o configuraciones multiclave.
-- **Abstracción de Gas**: Algunos monederos permiten el pago de comisiones en tokens en lugar de ETH.
+- **Abstracción de Gas**: Algunos billeteras permiten el pago de comisiones en tokens en lugar de ETH.
 
 ### **Ventajas**
 - **Seguridad Avanzada**: Puede incluir bloqueos de tiempo, límites de retiro o lógica multifirma.
@@ -88,7 +88,7 @@ Un monedero de contratos inteligentes es una cuenta programable que puede aplica
 
 ---
 
-## **Comparación: EOA vs. Multifirmas vs. Monederos de Contratos Inteligentes**
+## **Comparación: EOA vs. Multifirmas vs. billeteras de Contratos Inteligentes**
 
 | Característica | EOA | Monedero Multifirma | Monedero de Contratos Inteligentes |
 |-------------------|------|----------------|----------------------|

@@ -5,7 +5,7 @@ title: 'Mecanismos de Distribución de Tokens'
 weight: 67_000
 ---
 
-Distribuir tokens de gobernanza de forma eficaz es crucial para garantizar la equidad, la descentralización y la participación a largo plazo en una DAO. Las estrategias de distribución de tokens influyen en quién ostenta el poder, cómo se alinean los incentivos y cómo se logra una gobernanza inclusiva.
+Distribuir tokens de gobernanza de forma eficaz es crucial para garantizar el trato justo, la descentralización y la participación a largo plazo en una DAO. Las estrategias de distribución de tokens influyen en quién ostenta el poder, cómo se alinean los incentivos y cómo se logra una gobernanza inclusiva.
 
 ---
 
@@ -79,10 +79,10 @@ Las distribuciones retroactivas de tokens recompensan a los usuarios según su p
 
 ---
 
-## **Consideraciones finales**
+## **Reflexiones Finales**
 
 - **Equilibrar la descentralización y las necesidades de financiación**: Una combinación de lanzamientos justos, airdrops y asignaciones privadas puede proporcionar descentralización y recursos para el desarrollo.
 
 **Fomentar la participación a largo plazo**: Los periodos de bloqueo, las recompensas por staking y los calendarios de adquisición de derechos ayudan a evitar ventas masivas rápidas.
 
-**Garantizar la transparencia y la equidad**: Comunicar claramente los planes de distribución para generar confianza y evitar desequilibrios de poder en la gobernanza.
+**Garantizar la transparencia y el trato justo**: Comunicar claramente los planes de distribución para generar confianza y evitar desequilibrios de poder en la gobernanza.

@@ -45,7 +45,7 @@ Las DAO se basan en información basada en datos para optimizar la gobernanza, l
 
 - **Plataformas de datos en cadena**
 - Dune Analytics: paneles basados ​​en SQL para obtener información sobre los datos de las DAO.
-- Nansen: rastrea los movimientos de tesorería y el comportamiento de los monederos.
+- Nansen: rastrea los movimientos de tesorería y el comportamiento de los billeteras.
 - DeepDAO: proporciona métricas de participación en la gobernanza de las DAO.
 - Llama.xyz: gestión de tesorería y análisis de gastos.
 

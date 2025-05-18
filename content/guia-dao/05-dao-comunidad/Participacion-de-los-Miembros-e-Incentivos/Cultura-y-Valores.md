@@ -73,6 +73,6 @@ La cultura de una DAO debe adaptarse a medida que la comunidad crece, mantenién
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Una cultura sólida y bien definida genera confianza, fomenta la participación y garantiza que la gobernanza siga estando impulsada por la comunidad. Al reforzar los valores compartidos y las normas culturales, las DAO pueden crear entornos donde los miembros se sientan empoderados para contribuir significativamente.

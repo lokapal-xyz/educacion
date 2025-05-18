@@ -41,7 +41,7 @@ Los incidentes de seguridad pueden exponer fallas críticas en la gobernanza, lo
 ### **Desarrollar e implementar mejoras de seguridad**
 - Solucionar vulnerabilidades en contratos inteligentes, reglas de gobernanza o seguridad operativa.
 - Mejorar los sistemas de monitoreo y alerta para la detección temprana de amenazas.
-- Mejorar las medidas de seguridad de gobernanza, como requisitos de quórum más estrictos o retrasos.
+- Mejorar las medidas de seguridad de gobernanza, como requisitos de quorum más estrictos o retrasos.
 - Actualizar las políticas de las DAO para incorporar las mejores prácticas.
 
 ---
@@ -56,10 +56,10 @@ Para garantizar la mejora continua, las DAO deben desarrollar un manual de segur
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Un proceso post mortem sólido es fundamental para aprender de las brechas de seguridad, prevenir futuros ataques y mantener la confianza de la comunidad. Al analizar sistemáticamente los fallos, las DAO pueden construir marcos de seguridad y modelos de gobernanza más sólidos que se adapten a las amenazas en constante evolución.
 
 ---
 
-🔖 **¡Terminaste DAO Security!** 🔖
+🔖 **¡Has completado DAO Seguridad!** 🔖

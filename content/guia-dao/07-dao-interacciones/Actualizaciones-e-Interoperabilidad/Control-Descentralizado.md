@@ -28,7 +28,7 @@ Para prevenir estos riesgos, las DAO deben diseñar procesos de actualización q
 ### **Aprobaciones de Actualizaciones Impulsadas por la Gobernanza**
 - Exigir la votación en cadena para las actualizaciones, garantizando que la comunidad controle los cambios de protocolo.
 - Utilizar la votación instantánea para la señalización fuera de la cadena antes de comprometerse con la ejecución en cadena.
-- Establecer umbrales mínimos de quórum y aprobación para evitar que grupos pequeños se apropien de la gobernanza.
+- Establecer umbrales mínimos de quorum y aprobación para evitar que grupos pequeños se apropien de la gobernanza.
 
 - ---
 

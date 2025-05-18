@@ -18,6 +18,6 @@ El diseño de tokens es fundamental para la economía de una DAO. Exploraremos d
 Los tokens de gobernanza suelen asociarse con el poder de voto, pero su utilidad puede ir mucho más allá. Esta sección analizará otros usos de los tokens de gobernanza, como recompensar la participación, acceder a servicios especiales o servir como garantía en aplicaciones de finanzas descentralizadas (DeFi).
 
 - **Mecanismos de Distribución de Tokens**
-Distribuir tokens de forma justa y estratégica es clave para alinear los intereses de la comunidad. Esta sección cubrirá diversos métodos de distribución de tokens, incluyendo lanzamientos justos, airdrops y programas de incentivos, centrándose en cómo garantizar la equidad y fomentar la participación.
+Distribuir tokens de forma justa y estratégica es clave para alinear los intereses de la comunidad. Esta sección cubrirá diversos métodos de distribución de tokens, incluyendo lanzamientos justos, airdrops y programas de incentivos, centrándose en cómo garantizar el trato justo y fomentar la participación.
 
 Al finalizar esta sección, comprenderá a fondo cómo diseñar una tokenómica eficaz para su DAO, creando una economía sostenible que impulse la participación y el crecimiento, a la vez que gestiona los riesgos.

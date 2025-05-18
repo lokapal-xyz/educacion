@@ -5,19 +5,19 @@ title: 'Quorums, Umbrales de Votación y Mecanismos de Ejecución'
 weight: 50_000
 ---
 
-Para garantizar que las decisiones de gobernanza reflejen la voluntad de la comunidad, se requieren quórums y umbrales de votación bien definidos. Estos parámetros determinan cuántos participantes deben participar y qué nivel de apoyo se necesita para que una propuesta se apruebe.
+Para garantizar que las decisiones de gobernanza reflejen la voluntad de la comunidad, se requieren quorums y umbrales de votación bien definidos. Estos parámetros determinan cuántos participantes deben participar y qué nivel de apoyo se necesita para que una propuesta se apruebe.
 
 ---
 
-## **Requisitos de quórum**
+## **Requisitos de quorum**
 
-### **¿Qué es un quórum?**
-El quórum es el nivel mínimo de participación requerido para que una votación se considere válida. Sin quórum, un pequeño grupo de votantes podría aprobar propuestas sin una participación más amplia de la comunidad.
+### **¿Qué es un quorum?**
+El quorum es el nivel mínimo de participación requerido para que una votación se considere válida. Sin quorum, un pequeño grupo de votantes podría aprobar propuestas sin una participación más amplia de la comunidad.
 
-### **Tipos de quórums en las DAO**
+### **Tipos de quorums en las DAO**
 
-- **Quórum absoluto**: un número mínimo fijo de votos (p. ej., se necesitan 1000 votos independientemente de la participación total de los votantes).
-- **Quórum relativo**: un porcentaje del suministro total de tokens o del poder de gobernanza (p. ej., debe participar el 10 % de los tokens en circulación). - **Cuórum Dinámico** – Se ajusta en función de factores como la participación electoral o el tipo de propuesta, reduciendo los requisitos de cuórum cuando la participación es baja.
+- **quorum absoluto**: un número mínimo fijo de votos (p. ej., se necesitan 1000 votos independientemente de la participación total de los votantes).
+- **quorum relativo**: un porcentaje del suministro total de tokens o del poder de gobernanza (p. ej., debe participar el 10 % de los tokens en circulación). - **Cuórum Dinámico** – Se ajusta en función de factores como la participación electoral o el tipo de propuesta, reduciendo los requisitos de cuórum cuando la participación es baja.
 
 ### **Equilibrio de los Niveles de Cuórum**
 
@@ -72,9 +72,9 @@ Una vez aprobada una propuesta, debe ejecutarse de forma eficiente y segura. La 
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
-- Un buen diseño de quórums previene la manipulación de la gobernanza y fomenta la participación.
+- Un buen diseño de quorums previene la manipulación de la gobernanza y fomenta la participación.
 - Unos umbrales de votación adecuados equilibran la eficiencia con la legitimidad de las decisiones.
 - La mecánica de ejecución determina la fluidez con la que se implementan las decisiones de gobernanza.
 

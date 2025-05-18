@@ -53,9 +53,9 @@ Si una DAO pierde el control ante un actor malicioso o una multifirma comprometi
 - Si la gobernanza se ve comprometida, una multifirma de respaldo puede anular las acciones dañinas.
 - Requiere firmantes de seguridad confiables con poderes limitados.
 
-### **Ajustes de quórum y ponderación de votos**
+### **Ajustes de quorum y ponderación de votos**
 - Reducir el poder de voto de las billeteras sospechosas para prevenir futuros ataques.
-- Cambios temporales en el quórum para permitir acciones de recuperación rápidas.
+- Cambios temporales en el quorum para permitir acciones de recuperación rápidas.
 - Algunas DAO permiten una "votación instantánea" de emergencia para ajustar la configuración de gobernanza.
 
 ### **Mecanismos de protección de la tesorería**

@@ -5,17 +5,17 @@ title: 'Casos de Uso: Gestión de Tesorería, Grupos de Trabajo y Gobernanza Loc
 weight: 27_000
 ---
 
-Esta sección explora tres casos de uso clave donde las SubDAO mejoran la eficiencia y la autonomía:
+Esta sección explora tres casos de uso donde las SubDAOs mejoran la eficiencia y la autonomía:
 
 - **Gestión de Tesorería**: Supervisión financiera segura y estratégica.
-- **Grupos de Trabajo**: Gobernanza específica para cada tarea para lograr eficiencia operativa.
+- **Grupos de Trabajo**: Gobernanza con tareas específicas para lograr eficiencia operativa.
 - **Gobernanza Local**: Estructuras de gobernanza regionales o comunitarias.
 
-Cada uno de estos casos de uso demuestra la adaptabilidad de las SubDAO para gestionar desafíos complejos de gobernanza.
+Cada uno de estos casos de uso demuestra la adaptabilidad de las SubDAOs para gestionar desafíos complejos de gobernanza.
 
-- ---
+---
 
-## **Gestión de Tesorería en SubDAO**
+## **SubDAOs de Gestión de Tesorería**
 
 Gestionar la tesorería de una DAO requiere experiencia financiera, gestión de riesgos y protocolos de seguridad. Una SubDAO de Tesorería permite una supervisión especializada, a la vez que garantiza la transparencia y la rendición de cuentas.
 
@@ -30,36 +30,37 @@ Gestionar la tesorería de una DAO requiere experiencia financiera, gestión de 
 - **Distribución descentralizada de fondos**: Reduce la dependencia de puntos únicos de fallo.
 
 ### **Ejemplo: SubDAO de Tesorería de Yearn Finance**
-- Yearn utiliza monederos multifirma y presupuestos controlados por la gobernanza para distribuir fondos a los contribuyentes y mantener las operaciones.
+- Yearn utiliza billeteras multifirma y presupuestos controlados por la gobernanza para distribuir fondos a los contribuyentes y mantener las operaciones.
 
 ---
 
-## **Grupos de Trabajo como SubDAO**
+## **Grupos de Trabajo como SubDAOs**
 
-Las grandes DAO suelen requerir equipos especializados para gestionar diferentes funciones (p. ej., desarrollo, investigación, legal, marketing). Los SubDAO de Grupo de Trabajo proporcionan estructura y mantienen una gobernanza descentralizada.
+Las DAOs grandes suelen requerir equipos especializados para gestionar diferentes funciones (p. ej., desarrollo, investigación, legales, marketing). Las SubDAOs de Grupo de Trabajo proporcionan estructura y mantienen una gobernanza descentralizada.
 
-### **Cómo funciona**
-- La DAO matriz crea SubDAO de Grupo de Trabajo para gestionar tareas específicas.
-- Estos SubDAO reciben presupuestos, autoridad para tomar decisiones y objetivos claros. Operan de forma semiautónoma, pero reportan a la DAO matriz.
+### **Cómo Funciona**
+- La DAO matriz crea SubDAOs de Grupo de Trabajo para gestionar tareas específicas.
+- Estas SubDAOs reciben presupuestos, autoridad para tomar decisiones y objetivos claros. 
+- Operan de forma semiautónoma, pero reportan a la DAO matriz.
 
 ### **Beneficios**
 - **Especialización de tareas**: Los grupos centrados en la experiencia mejoran la eficiencia.
 - **Responsabilidad**: Mandatos claros previenen bloqueos en la gobernanza.
 - **Escalabilidad**: La DAO puede expandirse sin sobrecargar la gobernanza central.
 
-### **Ejemplo: SubDAO de flujo de trabajo de Gitcoin**
-- Gitcoin organiza la financiación, el desarrollo y la gobernanza en flujos de trabajo separados.
-- Cada flujo de trabajo opera con presupuestos independientes y poder de decisión.
+### **Ejemplo: SubDAO Workstream de Gitcoin**
+- Gitcoin organiza la financiación, el desarrollo y la gobernanza en Workstreams (flujos de trabajo) separados.
+- Cada Workstream opera con presupuestos independientes y poder de decisión.
 
 ---
 
-## **SubDAO de gobernanza local**
+## **SubDAOs de Gobernanza Local**
 
-Las DAO con comunidades globales pueden necesitar estructuras de gobernanza localizadas para abordar las necesidades específicas de cada región. Las SubDAO de gobernanza local permiten la gobernanza a un nivel más granular, a la vez que se mantienen alineadas con la DAO matriz.
+Las DAOs con comunidades globales pueden necesitar estructuras de gobernanza localizadas para abordar las necesidades específicas de cada región. Las SubDAOs de gobernanza local permiten la gobernanza a un nivel más granular, a la vez que se mantienen alineadas con la DAO matriz.
 
-### **Cómo funciona**
-- Una DAO matriz crea SubDAO para regiones o grupos lingüísticos específicos. Estas SubDAO gestionan iniciativas locales, la participación comunitaria y proyectos sobre el terreno.
-
+### **Cómo Funciona**
+- Una DAO matriz crea SubDAOs para regiones o grupos lingüísticos específicos. 
+- Estas SubDAO gestionan iniciativas locales, la participación comunitaria y proyectos desde el terreno.
 - Operan bajo políticas generales, pero tienen autonomía en la toma de decisiones.
 
 ### **Beneficios**
@@ -68,16 +69,16 @@ Las DAO con comunidades globales pueden necesitar estructuras de gobernanza loca
 - **Mejor asignación de recursos**: los fondos se utilizan eficazmente en los contextos locales.
 
 ### **Ejemplo: Capítulos Locales de ENS DAO**
-- ENS DAO ha explorado modelos de gobernanza regional para fomentar la participación y la adopción local.
+- ENS DAO ha explorado con modelos de gobernanza regional para fomentar la participación y la adopción local.
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
-Las SubDAO proporcionan un marco sólido para la especialización y la escalabilidad en los ecosistemas DAO. Ya sea gestionando tesorerías, coordinando grupos de trabajo o descentralizando la gobernanza geográficamente, las SubDAO permiten una mayor eficiencia, autonomía y adaptabilidad.
+Las SubDAOs proporcionan un marco sólido para la especialización y la escalabilidad en los ecosistemas DAO. Ya sea gestionando tesorerías, coordinando grupos de trabajo o descentralizando la gobernanza geográficamente, las SubDAOs permiten una mayor eficiencia, autonomía y adaptabilidad.
 
-Al aprovechar estos casos de uso, las DAO pueden evolucionar hacia organizaciones más dinámicas, descentralizadas y funcionales, manteniendo la coherencia de la gobernanza.
+Al aprovechar estos casos de uso, las DAOs pueden evolucionar hacia organizaciones más dinámicas, descentralizadas y funcionales, manteniendo la coherencia de la gobernanza.
 
 ---
 
-🔖 **¡Terminaste el diseño de la DAO!** 🔖
+🔖 **¡Has completado DAO Diseño!** 🔖

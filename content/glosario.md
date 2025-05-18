@@ -10,10 +10,19 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 
 * **Acceso (Control de):**
     * Mecanismos utilizados para determinar quién tiene permiso para realizar acciones específicas dentro de una DAO, como votar o acceder a fondos del tesoro.
+* **Acuñación de tokens (Token Minting):**
+    * Proceso mediante el cual se crean nuevos tokens y se agregan a la oferta total de un sistema.
 * **Administración descentralizada:**
     * Sistema de gobernanza en el que el poder de decisión está distribuido entre los participantes de una red, en lugar de estar concentrado en una autoridad central.
 * **Address (Dirección Blockchain):**
     * Identificador único en una red blockchain, utilizado para enviar y recibir activos digitales.
+* **Ataque Sybil:**
+    * Estrategia en la que un solo actor crea múltiples identidades falsas para obtener influencia desproporcionada en un sistema descentralizado. Puede usarse para manipular votaciones, acumular recompensas o sobrecargar recursos del sistema. Los protocolos pueden implementar medidas de resistencia a ataques Sybil mediante staking, reputación, verificación de identidad u otras técnicas.
+
+**B**
+
+* **Billetera (wallet):**  
+    * Aplicación o contrato que permite enviar, recibir y firmar transacciones en blockchain. Puede ser controlada por un usuario (EOA) o programada como contrato inteligente (smart wallet).
 
 **C**
 
@@ -39,6 +48,14 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 * **Dirección blockchain (Address):**
     * [Ver "Address (Dirección Blockchain)" en la sección A]
 
+**E**
+
+* **Envoltorio legal (Legal Wrapper):**
+    * Mecanismo mediante el cual una DAO adopta una entidad legal reconocida (como una LLC, fundación o cooperativa) con el fin de operar dentro de un marco jurídico tradicional. Esto puede facilitar la firma de contratos, la gestión de impuestos o la representación legal ante terceros.
+
+* **Exploit:**
+    * Un exploit es una explotación deliberada de una vulnerabilidad en un contrato inteligente o protocolo blockchain. Puede permitir acciones no deseadas como el robo de fondos, la manipulación de votaciones o el abuso de funciones internas.
+
 **G**
 
 * **Gas (Tarifas de):**
@@ -53,12 +70,40 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 * **Interoperabilidad:**
     * Capacidad de distintas redes blockchain y DAOs para comunicarse e interactuar entre sí.
 
+**L**
+
+* **Layer 2:**
+    * Soluciones de escalado construidas sobre una blockchain principal (como Ethereum) que permiten realizar transacciones más rápidas y económicas. Las Layer 2 procesan operaciones fuera de la cadena principal y luego consolidan los resultados en ella. Ejemplos comunes incluyen Arbitrum, Optimism y zkSync.
+
+* **Liquidity Mining (Minería de liquidez):**
+    * Estrategia DeFi en la que los usuarios aportan liquidez a un protocolo (como un AMM o un mercado de préstamos) y reciben recompensas en tokens del protocolo, además de las tarifas normales por transacción. Es una forma específica de *yield farming* centrada en recompensas protocolarias.
+
+* **Llamada a contrato (Contract Call):**
+    * Una llamada a contrato es una acción que interactúa con un contrato inteligente en la blockchain, ejecutando una función específica definida en su código. Las llamadas pueden ser iniciadas por una billetera (EOA) o por otro contrato.
+
 **P**
+
+* **Parte interesada (Stakeholder):**
+    * Una parte interesada es cualquier individuo o entidad que tiene un interés significativo en el funcionamiento, la toma de decisiones o los resultados de una DAO. Esto puede incluir a titulares de tokens, contribuidores activos, participantes en la gobernanza, proyectos aliados, o usuarios clave.
 
 * **Propuesta:**
     * Sugerencia o plan formal presentado a una DAO para consideración por parte de sus miembros.
 
+* **Provisión de liquidez:**
+    * Acción de depositar activos en un protocolo descentralizado (como un DEX o mercado de préstamos) para facilitar el intercambio o el préstamo. No siempre conlleva incentivos más allá de comisiones por uso.
+
+* **Pruebas de conocimiento cero:**
+    * Técnica criptográfica que permite demostrar que se conoce cierta información (como una contraseña o una solución) sin revelar el contenido de esa información. Se utilizan comúnmente en protocolos de privacidad, escalabilidad y verificación en blockchain.
+
+**Q**
+
+* **Quema de tokens (Token Burning):**
+    * Mecanismo que elimina tokens de circulación, generalmente enviándolos a una dirección inaccesible.
+
 **R**
+
+* **Rage Quit:**
+    * Mecanismo característico de algunos DAOs, especialmente los basados en Moloch, que permite a los miembros salir de la organización y retirar su parte proporcional de los fondos antes de que se ejecute una propuesta con la que no están de acuerdo.
 
 * **Reputación (Sistema de):**
     * Mecanismo para rastrear y evaluar las contribuciones y el comportamiento de los miembros de una DAO, incentivando la participación y la buena gobernanza.
@@ -76,6 +121,10 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 
 * **Tesoro:**
     * Conjunto de activos digitales gestionados por una DAO, utilizados para financiar sus operaciones e iniciativas.
+* **Timelock (Bloqueo temporal):**
+    * Un timelock es un mecanismo que impone un retraso programado entre la aprobación de una acción en la blockchain (como una propuesta de gobernanza) y su ejecución. Este retraso proporciona transparencia y tiempo de reacción ante posibles decisiones perjudiciales o controvertidas.
+* **Token:**
+    * Un token es una unidad digital emitida sobre una blockchain que representa algún tipo de valor, derecho o función dentro de un ecosistema. Puede ser utilizado para gobernanza, intercambio de valor, incentivos, acceso a servicios, o representación de activos.
 * **Tokenómica (Tokenomics):**
     * Estudio de la economía de un token o criptomoneda: su oferta, distribución y utilidad.
 
@@ -89,3 +138,7 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 * **Web3:**
     * Nueva generación de internet caracterizada por la descentralización, la tecnología blockchain y la propiedad digital por parte de los usuarios.
 
+**Y**
+
+* **Yield Farming (Cultivo de Rendimiento):**
+    * Estrategia de inversión en la que los usuarios depositan criptoactivos en contratos inteligentes (como pools de liquidez) a cambio de recompensas, usualmente en forma de tokens. Es una de las prácticas clave en DeFi para incentivar el uso y la liquidez.

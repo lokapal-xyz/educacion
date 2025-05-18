@@ -11,7 +11,7 @@ Los bloqueos en la gobernanza se producen cuando la toma de decisiones llega a u
 
 ## **¿Qué causa los bloqueos en la gobernanza?**
 
-- **Falta de quórum**: la participación insuficiente impide la aprobación de las propuestas.
+- **Falta de quorum**: la participación insuficiente impide la aprobación de las propuestas.
 - **Conflicto de intereses**: los desacuerdos entre las partes interesadas frenan el progreso.
 - **Reglas de gobernanza excesivamente rígidas**: el exceso de formalismos o la falta de mecanismos de resolución de disputas impiden la acción.
 - **Alta apatía de los votantes**: la participación de muy pocos miembros es insuficiente, lo que dificulta la gobernanza.
@@ -58,5 +58,5 @@ Si bien la gobernanza de la DAO debe seguir siendo descentralizada y democrátic
 
 - **Mejores prácticas para evitar bloqueos:**
 - Diseñar procedimientos de gobernanza claros que prioricen la resolución.
-- Implementar modelos de quórum y votación adaptables. - Crear mecanismos de contingencia para superar los estancamientos.
+- Implementar modelos de quorum y votación adaptables. - Crear mecanismos de contingencia para superar los estancamientos.
 - Fomentar una cultura de cooperación y compromiso dentro de la DAO.

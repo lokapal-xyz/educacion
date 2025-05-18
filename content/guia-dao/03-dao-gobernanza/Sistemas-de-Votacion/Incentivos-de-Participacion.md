@@ -63,7 +63,7 @@ Para equilibrar la participación y la seguridad, las DAO pueden combinar difere
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 - La apatía del votante se debe a los altos costos, la complejidad y la falta de compromiso.
 - Los incentivos financieros, sociales y basados ​​en procesos pueden mejorar la participación.

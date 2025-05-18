@@ -57,7 +57,7 @@ La transparencia es fundamental para la gobernanza descentralizada, ya que garan
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 - La transparencia reduce el riesgo de centralización y corrupción.
 - Garantizar una documentación clara de las funciones administrativas, la actividad de tesorería y el poder de voto. - Utilizar la gobernanza en cadena y los informes públicos para la rendición de cuentas.
 - Las auditorías periódicas ayudan a prevenir la acumulación descontrolada de poder.

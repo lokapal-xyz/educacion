@@ -5,4 +5,4 @@ title: 'DAO Diseño'
 weight: 2_000
 ---
 
-Esta sección se centra en los aspectos fundamentales de las estructuras DAO y sus principios de diseño, incluidas las arquitecturas de gobernanza, los modelos DAO y los subDAOs.
+Esta sección se centra en los aspectos fundamentales de las estructuras DAO y sus principios de diseño, incluidas las arquitecturas de gobernanza, los modelos DAO y los SubDAOs.

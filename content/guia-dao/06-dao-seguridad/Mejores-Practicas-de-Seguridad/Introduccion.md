@@ -10,7 +10,7 @@ Garantizar la seguridad de la infraestructura de una DAO es fundamental para pro
 Esta sección abarca los siguientes temas clave:
 
 - **Estándares de Desarrollo Seguro para Contratos DAO**
-El desarrollo de contratos inteligentes seguros es la base de la seguridad de una DAO. Este tema abordará las mejores prácticas para escribir código seguro, incluyendo la importancia de las auditorías de código, el diseño modular de contratos, el uso de bibliotecas consolidadas (como OpenZeppelin) y la garantía de que los contratos sean resistentes a vulnerabilidades comunes como ataques de reentrada, errores de desbordamiento y acceso no autorizado.
+El desarrollo de contratos inteligentes seguros es la base de la seguridad de una DAO. Este tema abordará las mejores prácticas para escribir código seguro, incluyendo la importancia de las auditorías de código, el diseño modular de contratos, el uso de librerías consolidadas (como OpenZeppelin) y la garantía de que los contratos sean resistentes a vulnerabilidades comunes como ataques de reentrada, errores de desbordamiento y acceso no autorizado.
 
 - **Mejores Prácticas Operativas**
 La gestión adecuada de las claves privadas y las configuraciones multifirma es crucial para mantener el control y evitar el acceso no autorizado a los fondos y mecanismos de gobernanza de la DAO. Esta sección describirá las estrategias operativas para la gestión segura de claves, cómo implementar esquemas multifirma robustos y cómo garantizar que los mecanismos de votación sean resistentes a la manipulación y el fraude.

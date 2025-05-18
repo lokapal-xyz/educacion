@@ -116,4 +116,4 @@ Las DAO tradicionales operan en una sola blockchain, lo que significa que las de
 
 ---
 
-🔖 **¡Terminaste las Interacciones DAO!** 🔖
+🔖 **¡Has completado DAO Interacciones!** 🔖

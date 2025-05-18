@@ -15,7 +15,7 @@ La centralización puede manifestarse de diversas maneras, desde la concentraci�
 
 - **Transparencia en los privilegios de administración, los controles de tesorería y la distribución del poder de voto**
 
-La transparencia es clave para evitar la acumulación de poder sin control en manos de unos pocos. Esta sección examinará cómo mantener la transparencia en los privilegios de administración, la gestión de la tesorería y la distribución del poder de voto, garantizando la equidad y la rendición de cuentas en todos los niveles de la DAO.
+La transparencia es clave para evitar la acumulación de poder sin control en manos de unos pocos. Esta sección examinará cómo mantener la transparencia en los privilegios de administración, la gestión de la tesorería y la distribución del poder de voto, garantizando el trato justo y la rendición de cuentas en todos los niveles de la DAO.
 
 - **Estrategias para la Descentralización Progresiva**
 En algunos casos, las DAO comienzan con estructuras más centralizadas para mayor eficiencia y luego se descentralizan progresivamente con el tiempo. Analizaremos estrategias para la transición hacia una mayor descentralización, manteniendo al mismo tiempo la estabilidad y la seguridad operativas.

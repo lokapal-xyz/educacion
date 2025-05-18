@@ -68,4 +68,4 @@ Las opciones de salida cumplen varios propósitos clave:
 
 ---
 
-🔖 **¡Has terminado la Gobernanza de la DAO!** 🔖
+🔖 **¡Has completado DAO Gobernanza!** 🔖

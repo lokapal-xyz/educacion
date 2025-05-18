@@ -9,8 +9,8 @@ La seguridad de las cuentas y las claves es fundamental para la integridad de un
 
 Esta sección abarca los aspectos clave de la gestión de cuentas y claves:
 
-- **Uso de EOA, Multisigs y Monederos de Contratos Inteligentes**
-Exploraremos los diferentes tipos de monederos utilizados en las DAO, incluyendo cuentas de propiedad externa (EOA), monederos multisigs y monederos de contratos inteligentes. Cada uno tiene sus propias ventajas y consideraciones para la administración de la DAO, según el nivel de seguridad y control requerido.
+- **Uso de EOA, Multisigs y billeteras de Contratos Inteligentes**
+Exploraremos los diferentes tipos de billeteras utilizados en las DAO, incluyendo cuentas de propiedad externa (EOA), billeteras multisigs y billeteras de contratos inteligentes. Cada uno tiene sus propias ventajas y consideraciones para la administración de la DAO, según el nivel de seguridad y control requerido.
 
 - **Prácticas de Seguridad para la Gestión de Claves**
 Una gestión eficaz de claves es esencial para prevenir el acceso no autorizado y los ataques. Esta sección describirá las mejores prácticas para generar, almacenar y distribuir claves de forma segura, así como estrategias para gestionar las copias de seguridad y las rotaciones de claves.

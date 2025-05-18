@@ -13,10 +13,10 @@ La seguridad de los fondos y los mecanismos de gobernanza de una DAO comienza co
 
 - **Evitar Puntos Únicos de Fallo**
 - Nunca dependa de una única clave privada para las acciones de tesorería o gobernanza.
-- Utilice monederos multifirma o criptografía de umbral (p. ej., Shamir’s Secret Sharing).
+- Utilice billeteras multifirma o criptografía de umbral (p. ej., Shamir’s Secret Sharing).
 
-- **Monederos de Hardware y Almacenamiento en Frío**
-- Almacene claves de alto valor en monederos de hardware (p. ej., Ledger, Trezor).
+- **billeteras de Hardware y Almacenamiento en Frío**
+- Almacene claves de alto valor en billeteras de hardware (p. ej., Ledger, Trezor).
 - Mantenga las reservas a largo plazo en almacenamiento en frío, desconectadas de internet.
 
 - **Control de Acceso y Segmentación de Roles**
@@ -25,7 +25,7 @@ La seguridad de los fondos y los mecanismos de gobernanza de una DAO comienza co
 
 ---
 
-## **Monederos Multifirma: Diseño e Implementación**
+## **billeteras Multifirma: Diseño e Implementación**
 
 - **¿Por Qué Usar una Multifirma?**
 - Previene puntos únicos de fallo (p. ej., claves perdidas o robadas).
@@ -48,7 +48,7 @@ La seguridad de los fondos y los mecanismos de gobernanza de una DAO comienza co
 - Use esquemas de confirmación y revelación para prevenir la participación anticipada y el soborno. - Requerir participación o votación con límite de tiempo para reducir los ataques de préstamos relámpago.
 
 - **Mitigación de ataques del 51% y tomas de control de gobernanza**
-- Establecer umbrales de quórum para evitar tomas de control con bajo número de votos.
+- Establecer umbrales de quorum para evitar tomas de control con bajo número de votos.
 - Utilizar voto delegado con representantes de confianza.
 - Habilitar poderes de veto o mecanismos de gobernanza de emergencia.
 
@@ -70,6 +70,6 @@ La seguridad de los fondos y los mecanismos de gobernanza de una DAO comienza co
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Una gestión adecuada de claves, la seguridad multifirma y la resiliencia de las votaciones son esenciales para proteger a las DAO de ataques informáticos, adquisiciones y manipulación de la gobernanza. Mediante la implementación de configuraciones multifirma robustas, mecanismos de votación seguros y una monitorización proactiva, las DAO pueden reducir significativamente los riesgos de seguridad y fortalecer la integridad de la gobernanza.

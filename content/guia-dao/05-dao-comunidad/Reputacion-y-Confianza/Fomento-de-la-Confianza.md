@@ -61,6 +61,6 @@ La confianza es la base de una DAO sana y resiliente. Sin ella, la gobernanza pu
 
 - ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Generar confianza en una DAO requiere una combinación de transparencia, gobernanza justa e incentivos basados ​​en la reputación. Al implementar mecanismos de fomento de la confianza, las DAO pueden fomentar una mayor participación, reducir los riesgos de gobernanza y crear una comunidad descentralizada más resiliente.

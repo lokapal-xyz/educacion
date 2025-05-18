@@ -74,7 +74,7 @@ Algunas DAO requieren un patrocinador de la propuesta (por ejemplo, un miembro d
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 - La presentación de propuestas debe seguir un formato estructurado para garantizar la claridad.
 - El debate comunitario es fundamental para refinar y mejorar las propuestas.

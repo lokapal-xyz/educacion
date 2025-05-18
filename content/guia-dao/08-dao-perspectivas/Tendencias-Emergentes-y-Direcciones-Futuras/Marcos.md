@@ -69,6 +69,6 @@ Estos desafíos podrían dar lugar a nuevos modelos laborales, donde surjan cont
 
 --
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Para que las DAO prosperen en el mundo real, deben equilibrar la descentralización con el cumplimiento normativo, adaptarse a la evolución de las regulaciones y desarrollar marcos que les permitan interactuar con las economías tradicionales, manteniendo al mismo tiempo su filosofía de descentralización. Los próximos años serán cruciales para determinar cómo las DAO pasarán de ser entidades experimentales de blockchain a actores económicos y legales plenamente reconocidos en la sociedad.

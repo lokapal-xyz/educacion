@@ -5,25 +5,22 @@ title: 'Estructuras de Gobernanza Multisig'
 weight: 30_000
 ---
 
-Las billeteras multifirma (multisig) desempeñan un papel fundamental en la gobernanza de las DAO, ya que garantizan que ninguna parte tenga control unilateral sobre acciones críticas. Esta sección abarca:
-
-- **Cómo funciona la multifirma**: Fundamentos de la configuración de billeteras multifirma.
-- **Beneficios de seguridad y descentralización**: Por qué las DAO dependen de la gobernanza multifirma.
-- **Consideraciones de implementación**: Factores clave al diseñar un sistema multifirma.
+Las billeteras multifirma (multisig) desempeñan un papel fundamental en la gobernanza de las DAOs, ya que garantizan que ninguna parte tenga control unilateral sobre acciones críticas. 
 
 ---
 
-## **Entendiendo las billeteras multifirma en las DAO**
+## **Entendiendo las Billeteras Multifirma en las DAOs**
 
 Una billetera multifirma requiere varias claves privadas para firmar transacciones antes de su ejecución.
 
-### **Configuraciones comunes de multifirma**
-- **M de N firmas**: Un número determinado (M) de firmantes debe aprobar una acción del total (N) asignado (por ejemplo, 3 de 5 firmantes, 6 de 9, 11 de 19). - **Esquemas de Umbral**: Algunas DAO implementan requisitos de firma dinámicos según el tipo de transacción.
-- **Aprobaciones con Bloqueo de Tiempo**: Ciertas transacciones requieren una ejecución retrasada por motivos de seguridad.
+### **Configuraciones Comunes de Multifirma**
+- **M de N firmas**: Un número determinado (M) de firmantes debe aprobar una acción del total (N) asignado (por ejemplo, 3 de 5 firmantes, 6 de 9, 11 de 19). 
+- **Umbrales de Aprobación**: Algunas DAOs implementan requisitos de firma dinámicos según el tipo de transacción.
+- **Aprobaciones con Timelocks**: Ciertas transacciones requieren una ejecución retrasada por motivos de seguridad.
 
-### **Herramientas Multifirma Populares para DAO**
-- **Gnosis Safe**: La solución multifirma en cadena más utilizada.
-- **SafeSnap**: Integra Gnosis Safe con Snapshot para la ejecución de votaciones fuera de cadena.
+### **Herramientas Multifirma Populares para DAOs**
+- **Gnosis Safe**: La solución multifirma on-chain más utilizada.
+- **SafeSnap**: Integra Gnosis Safe con Snapshot para la ejecución de votaciones off-chain.
 - **Aragon Agent**: Permite DAOs controladas por multifirma dentro del marco de Aragon.
 
 ---
@@ -34,24 +31,23 @@ La gobernanza multifirma mitiga los riesgos clave en la toma de decisiones de la
 
 - **Evita el control unilateral**: Ninguna entidad puede realizar cambios críticos por sí sola.
 - **Reduce los puntos únicos de fallo**: Protege contra claves privadas comprometidas.
-- **Mejora la transparencia**: Todas las aprobaciones son visibles en cadena. **Impulsa la toma de decisiones colectiva** – Garantiza que varios miembros de confianza validen las transacciones.
+- **Mejora la transparencia**: Todas las aprobaciones son visibles en la blockchain. 
+- **Impulsa la toma de decisiones colectiva** – Garantiza que varios miembros de confianza validen las transacciones.
 
-### **Caso práctico: El incidente de la multifirma Optimism**
+### **Caso Práctico: El incidente de la multifirma de Optimism**
 - En 2022, Optimism envió por error 20 millones de dólares en tokens OP a una multifirma incorrecta.
-
-**Consideraciones de seguridad**: La verificación adecuada del firmante y las simulaciones de transacciones son cruciales.
+- **Consideraciones de seguridad**: La verificación adecuada del firmante y las simulaciones de transacciones son cruciales.
 
 ---
 
-## **Consideraciones de implementación para las DAO**
+## **Consideraciones de Implementación Para las DAO**
 
-Las DAO deben diseñar cuidadosamente sus estructuras de gobernanza multifirma para equilibrar la seguridad, la eficiencia y la descentralización.
+Las DAOs deben diseñar cuidadosamente sus estructuras de gobernanza multifirma para equilibrar la seguridad, la eficiencia y la descentralización.
 
-### **Factores clave a considerar**
+### **Factores Clave a Considerar**
 - **¿Quiénes deberían ser firmantes?** – Los miembros de la multifirma deben ser confiables, diversos y responsables.
-
-- **¿Cuál es el umbral óptimo?** – Un umbral demasiado bajo (2 de 5) aumenta el riesgo; un umbral demasiado alto (4 de 5) puede causar retrasos. - **¿Debería ser temporal el control multifirma?** – Algunas DAO utilizan multifirma solo en las etapas iniciales y posteriormente pasan a una gobernanza totalmente descentralizada.
-
+- **¿Cuál es el umbral óptimo?** – Un umbral demasiado bajo (2 de 5) aumenta el riesgo; un umbral demasiado alto (4 de 5) puede causar retrasos. 
+- **¿Debería ser temporal el control multifirma?** – Algunas DAOs utilizan multifirma solo en las etapas iniciales y posteriormente pasan a una gobernanza totalmente descentralizada.
 - **¿Cómo gestionar emergencias?** – Se deben implementar mecanismos de recuperación de respaldo y mecanismos de seguridad.
 
 ### **Ejemplo: Transición a Multifirma de Compound**
@@ -59,6 +55,6 @@ Las DAO deben diseñar cuidadosamente sus estructuras de gobernanza multifirma p
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
-La gobernanza multifirma mejora la seguridad, la descentralización y la rendición de cuentas dentro de las DAO. Sin embargo, un diseño deficiente o una mala gestión pueden generar cuellos de botella, ineficiencias y vulnerabilidades.
+La gobernanza multifirma mejora la seguridad, la descentralización y la rendición de cuentas dentro de las DAOs. Sin embargo, un diseño deficiente o una mala gestión pueden generar cuellos de botella, ineficiencias y vulnerabilidades.

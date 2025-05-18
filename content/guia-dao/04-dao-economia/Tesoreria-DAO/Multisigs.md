@@ -7,12 +7,12 @@ weight: 62_000
 
 La seguridad de la tesorería es un aspecto fundamental de la gobernanza de las DAO, ya que garantiza la protección de los fondos contra el uso indebido, los ataques informáticos o los riesgos de centralización. Dos de las soluciones de gestión de tesorería más utilizadas en las DAO son:
 
-- **Monederos Multi-Firma (Multi-Sigs)**: Requieren múltiples aprobaciones antes de ejecutar transacciones.
+- **billeteras Multi-Firma (Multi-Sigs)**: Requieren múltiples aprobaciones antes de ejecutar transacciones.
 - **Tesorerías Controladas por Contratos Inteligentes**: Automatizan la gestión de fondos según las reglas de gobernanza.
 
 ---
 
-## **Monederos Multi-Firma: Un Enfoque Seguro y Colaborativo**
+## **billeteras Multi-Firma: Un Enfoque Seguro y Colaborativo**
 
 ### **¿Qué es un Monedero Multi-Firma?**
 Un monedero multi-firma (multi-sig) requiere múltiples aprobaciones antes de ejecutar una transacción. En lugar de que una sola persona controle los fondos, un grupo de firmantes aprueba las transacciones colectivamente.
@@ -36,7 +36,7 @@ Un monedero multi-firma (multi-sig) requiere múltiples aprobaciones antes de ej
 - Utilizar un conjunto diverso de firmantes con diferentes perfiles.
 - Implementar mecanismos de bloqueo temporal para transacciones de alto valor. - Mantiene procesos de recuperación de emergencia en caso de pérdida de claves.
 
-### **Monederos multifirma populares para DAO**
+### **billeteras multifirma populares para DAO**
 - **Gnosis Safe**: El monedero multifirma en cadena más utilizado.
 - **SafeSnap**: Integra Gnosis Safe con Snapshot para una ejecución controlada por gobernanza.
 - **Squads (en Solana)**: Solución multifirma diseñada para DAO basadas en Solana.
@@ -75,9 +75,9 @@ Una tesorería controlada por contratos inteligentes ejecuta transacciones autom
 
 ---
 
-## **Combinación de Monederos Multi-Firma y Contratos Inteligentes para Máxima Seguridad**
+## **Combinación de billeteras Multi-Firma y Contratos Inteligentes para Máxima Seguridad**
 
-Un enfoque híbrido que aprovecha tanto los monederos multi-firma como los contratos inteligentes puede ofrecer el mejor equilibrio entre seguridad, flexibilidad y automatización.
+Un enfoque híbrido que aprovecha tanto los billeteras multi-firma como los contratos inteligentes puede ofrecer el mejor equilibrio entre seguridad, flexibilidad y automatización.
 
 | **Enfoque** | **Caso de Uso** | **Ventajas** | **Desventajas** |
 |-------------|------------|---------|---------|
@@ -92,7 +92,7 @@ Un enfoque híbrido que aprovecha tanto los monederos multi-firma como los contr
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 La elección del sistema de gestión de tesorería adecuado depende del tamaño de una DAO, su tolerancia al riesgo y su modelo de gobernanza.
 

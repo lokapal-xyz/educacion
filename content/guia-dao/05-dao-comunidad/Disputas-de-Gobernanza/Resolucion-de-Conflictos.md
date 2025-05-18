@@ -61,10 +61,10 @@ Las DAO pueden implementar múltiples estrategias de resolución de conflictos, 
 - **Mejores Prácticas para una Resolución de Conflictos Efectiva:**
 - Fomentar el diálogo abierto antes de escalar las disputas.
 - Definir vías claras de escalamiento, desde la mediación informal hasta el arbitraje en cadena.
-- Utilizar tribunales descentralizados o mecanismos basados ​​en la reputación para garantizar la equidad.
+- Utilizar tribunales descentralizados o mecanismos basados ​​en la reputación para garantizar el trato justo.
 - Prevenir la manipulación de la gobernanza limitando la influencia de los grandes poseedores de tokens.
 - Equilibrar la automatización y la toma de decisiones humanas en disputas complejas.
 
 ---
 
-🔖 **¡Terminaste la Comunidad DAO!** 🔖
+🔖 **¡Has completado DAO Comunidad!** 🔖

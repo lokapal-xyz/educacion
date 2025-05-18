@@ -101,11 +101,11 @@ Una DAO podría asignar entre el 10 % y el 15 % de su tesorería a RWA con rendi
 La diversificación por sí sola no es suficiente; se deben implementar estrategias de gestión de riesgos para proteger los activos:
 
 - **Estrategias de reequilibrio**: Ajuste periódico de la asignación de la cartera para mantener los ratios objetivo.
-- **Cobertura con derivados**: Uso de opciones, futuros o protocolos de seguros (p. ej., Nexus Mutual) para mitigar los riesgos. **Controles de gobernanza dentro y fuera de la cadena**: Monederos multifirma y herramientas automatizadas de monitorización de riesgos.
+- **Cobertura con derivados**: Uso de opciones, futuros o protocolos de seguros (p. ej., Nexus Mutual) para mitigar los riesgos. **Controles de gobernanza dentro y fuera de la cadena**: billeteras multifirma y herramientas automatizadas de monitorización de riesgos.
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Las DAO deben adaptar sus estrategias de diversificación de tesorería en función de:
 - Tolerancia al riesgo

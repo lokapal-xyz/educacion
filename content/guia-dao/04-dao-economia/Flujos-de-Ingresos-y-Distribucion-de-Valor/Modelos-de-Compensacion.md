@@ -91,4 +91,4 @@ Al implementar modelos de compensación justos y adaptables, las DAO pueden atra
 
 ---
 
-🔖 **¡Terminaste con la Economía DAO!** 🔖
+🔖 **¡Has completado DAO Economía!** 🔖

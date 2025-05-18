@@ -45,7 +45,7 @@ Los mecanismos de respuesta a emergencias permiten a las DAO reaccionar rápidam
 
 ### **Propuestas de gobernanza de emergencia**
 - Las propuestas de gobernanza aceleradas permiten una toma de decisiones rápida.
-- A menudo requieren un quórum menor o una votación acelerada.
+- A menudo requieren un quorum menor o una votación acelerada.
 - Pueden autorizar correcciones de protocolo, respuestas legales o reasignaciones de tesorería.
 
 ### **Fondos de seguro y recuperación**
@@ -82,6 +82,6 @@ Las DAO deben adaptar su respuesta de emergencia en función de:
 
 - ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Los mecanismos de emergencia no deben comprometer la descentralización innecesariamente, pero deben existir para proteger a la DAO de amenazas existenciales. Al diseñar mecanismos de respuesta transparentes, bien auditados y aprobados por la comunidad, las DAO pueden garantizar tanto la resiliencia como la legitimidad en situaciones de crisis.

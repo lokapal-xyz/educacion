@@ -38,7 +38,7 @@ La delegación permite a las DAO aumentar la participación, aprovechar la exper
 ### **Delegación Cuadrática**
 - Introduce la ponderación cuadrática, donde el impacto de la delegación no es lineal (p. ej., duplicar el número de votos delegados no duplica el poder de voto).
 - Ayuda a reducir la influencia plutocrática al limitar el dominio de las grandes partes interesadas.
-- **Ejemplo de Caso de Uso:** DAO que buscan equilibrar la equidad y la influencia, evitando la concentración del poder de voto.
+- **Ejemplo de Caso de Uso:** DAO que buscan equilibrar el trato justo y la influencia, evitando la concentración del poder de voto.
 
 ### **Delegación Basada en Asuntos**
 - En lugar de la delegación general, los miembros pueden delegar votos sobre temas específicos (p. ej., seguridad, tesorería, actualizaciones de protocolo).
@@ -56,7 +56,7 @@ El voto delegado determina fundamentalmente los resultados de la gobernanza. Las
 - **Decisiones impulsadas por expertos:** Los delegados con experiencia pueden tomar decisiones de gobernanza más informadas.
 - **Riesgo de centralización:** Si un pequeño número de delegados acumula demasiado poder, la gobernanza puede volverse menos descentralizada.
 
-Las DAO deben diseñar cuidadosamente los mecanismos de delegación para equilibrar la eficiencia, la equidad y la descentralización.
+Las DAO deben diseñar cuidadosamente los mecanismos de delegación para equilibrar la eficiencia, el trato justo y la descentralización.
 
 ---
 

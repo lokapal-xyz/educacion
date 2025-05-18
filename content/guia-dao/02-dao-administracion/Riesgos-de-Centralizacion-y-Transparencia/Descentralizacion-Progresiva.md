@@ -72,7 +72,7 @@ Sin embargo, una centralización prolongada puede socavar la confianza y crear d
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 - La descentralización progresiva equilibra la eficiencia y la implicación comunitaria.
 

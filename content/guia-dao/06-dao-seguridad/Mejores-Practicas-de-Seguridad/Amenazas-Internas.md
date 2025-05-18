@@ -64,6 +64,6 @@ Las DAO pueden aprovechar herramientas de análisis, sistemas de detección de a
 
 ---
 
-## **Reflexiones finales**
+## **Reflexiones Finales**
 
 Las amenazas internas representan un riesgo grave, aunque a menudo subestimado, para las DAO, que desafía los ideales de descentralización y gobernanza sin confianza. Al fomentar una cultura de rendición de cuentas, implementar salvaguardas sólidas y perfeccionar continuamente los modelos de gobernanza, las DAO pueden fortalecer su resiliencia frente a las amenazas internas y mantener la integridad de la toma de decisiones descentralizada.
