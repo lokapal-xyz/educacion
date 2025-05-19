@@ -9,7 +9,7 @@ Los poderes de veto otorgan a ciertas personas o entidades la autoridad para blo
 
 ---
 
-## **¿Por qué las DAO implementan poderes de veto?**
+## **¿Por Qué las DAOs Implementan Poderes de Veto?**
 
 ### **Prevención de decisiones maliciosas o perjudiciales**
 - Protección contra ataques a la gobernanza (por ejemplo, propuestas maliciosas que agotan la tesorería).
@@ -23,25 +23,25 @@ Los poderes de veto otorgan a ciertas personas o entidades la autoridad para blo
 
 ### **Cumplimiento legal y regulatorio**
 - Bloquea propuestas que podrían exponer a la DAO a riesgos legales o financieros.
-- Garantiza el cumplimiento de los acuerdos fuera de la cadena (por ejemplo, asociaciones, obligaciones regulatorias).
+- Garantiza el cumplimiento de los acuerdos off-chain (por ejemplo, asociaciones, obligaciones regulatorias).
 
 ---
 
-## **¿Quién puede tener poder de veto?**
+## **¿Quién Puede Tener Poder de Veto?**
 
 ### **Consejos de gobernanza o multifirmas**
 - Un comité de miembros electos puede tener derecho de veto.
-- Se utiliza típicamente en DAO híbridas donde la toma de decisiones se delega parcialmente.
+- Se utiliza típicamente en DAOs híbridas donde la toma de decisiones se delega parcialmente.
 
 ### **Vetos basados ​​en contratos inteligentes**
-- Un mecanismo de veto preprogramado que rechaza automáticamente las propuestas que infringen las reglas predefinidas.
+- Un mecanismo de veto preprogramado que rechaza automáticamente las propuestas que infringen reglas predefinidas.
 - Garantiza una aplicación consistente sin intervención humana.
 
 ### **Equipos fundadores o colaboradores principales**
 - Algunas DAO otorgan derecho de veto a los primeros contribuyentes o fundadores del proyecto durante la fase inicial de crecimiento.
 - Esto puede proteger el proyecto, pero puede entrar en conflicto con los objetivos de descentralización.
 
-### **Mecanismos de Veto Basados ​​en Tokens**
+### **Mecanismos de veto basados ​​en tokens**
 - Una clase separada de tokens de gobernanza puede otorgar poderes de veto a partes interesadas específicas.
 - Ejemplo: Una DAO emite tokens guardianes con la única función de vetar decisiones de gobernanza.
 
@@ -73,13 +73,13 @@ Los poderes de veto otorgan a ciertas personas o entidades la autoridad para blo
 - Ejemplo: Los vetos solo pueden bloquear propuestas que infrinjan las reglas predefinidas de la DAO.
 
 ### **Mecanismos de Tiempo Limitado o de Eliminación Gradual**
-- Algunas DAO eliminan o reducen los poderes de veto a medida que la gobernanza madura.
+- Algunas DAOs eliminan o reducen los poderes de veto a medida que la gobernanza madura.
 - Ejemplo: El veto de un fundador expira después de tres años o una vez que la DAO alcanza un umbral de participación en la gobernanza.
 
-### **Anulaciones y verificaciones de la comunidad**
+### **Anulaciones y Verificaciones de la Comunidad**
 - La DAO debería contar con un mecanismo para anular las decisiones de veto.
-- Ejemplo: Si una gran mayoría de titulares de tokens no está de acuerdo con un veto, pueden revocarlo.
+- Ejemplo: Si una super mayoría de titulares de tokens no está de acuerdo con un veto, pueden revocarlo.
 
-### **Rendición de cuentas de contratos inteligentes**
-- Usar registros en cadena para rastrear y justificar cada decisión de veto.
+### **Rendición de Cuentas de Contratos Inteligentes**
+- Usar registros on-chain para rastrear y justificar cada decisión de veto.
 - Ejemplo: Resolución automatizada de disputas para garantizar que los vetos solo se apliquen a propuestas que infringen las normas.

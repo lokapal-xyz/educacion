@@ -16,11 +16,12 @@ La tesorería de una DAO es su columna vertebral financiera, ya que financia ope
 - El capital debe invertirse eficientemente mediante inversiones, staking o estrategias de rendimiento para generar retornos.
 
 ### **Transparencia y Responsabilidad**
-- El seguimiento en cadena garantiza que todos los movimientos de la tesorería sean visibles públicamente.
+- El seguimiento on-chain garantiza que todos los movimientos de la tesorería sean visibles públicamente.
 - Las decisiones de la tesorería deben regirse por políticas claras para prevenir la asignación indebida de fondos o la corrupción.
 
 ### **Flexibilidad y Mitigación de Riesgos**
-- La tesorería debe estar diversificada para reducir la exposición a la volatilidad. - Se deben mantener reservas de contingencia para gastos inesperados o caídas del mercado.
+- La tesorería debe estar diversificada para reducir la exposición a la volatilidad. 
+- Se deben mantener reservas de contingencia para gastos inesperados o caídas del mercado.
 
 ---
 
@@ -36,7 +37,7 @@ Las categorías comunes de gastos de tesorería incluyen:
 - **Reservas de Emergencia**: Fondos reservados para riesgos imprevistos.
 
 ### **Modelos de Asignación de Tesorería**
-Las DAO pueden adoptar diferentes enfoques para la asignación presupuestaria:
+Las DAOs pueden adoptar diferentes enfoques para la asignación presupuestaria:
 
 | **Modelo** | **Descripción** | **Ventajas** | **Desventajas** |
 |----------|---------------|---------|---------|
@@ -51,7 +52,8 @@ Las DAO pueden adoptar diferentes enfoques para la asignación presupuestaria:
 ### **Modelos de Gobernanza de la Tesorería**
 La gobernanza de la DAO debe definir quién puede proponer y aprobar los gastos de la tesorería.
 
-- **Gobernanza Completa de la DAO**: Las decisiones de la tesorería requieren el voto de los titulares de tokens. - **Subcomités de Tesorería**: Grupos electos gestionan las decisiones de tesorería bajo la supervisión de la DAO.
+- **Gobernanza Completa de la DAO**: Las decisiones de la tesorería requieren el voto de los titulares de tokens. 
+- **Subcomités de Tesorería**: Grupos electos gestionan las decisiones de tesorería bajo la supervisión de la DAO.
 - **Multi-Sig y Contratos Inteligentes**: Límites de gasto preaprobados con ejecución en cadena.
 
 **Ejemplo:** Una DAO podría delegar la gestión diaria de la tesorería a un comité financiero, mientras que los gastos importantes aún requieren la aprobación de la comunidad.
@@ -59,17 +61,15 @@ La gobernanza de la DAO debe definir quién puede proponer y aprobar los gastos 
 ---
 
 ### **Herramientas de Transparencia**
-Las DAO pueden usar herramientas de análisis e informes en cadena para mejorar la visibilidad de la tesorería:
+Las DAOs pueden usar herramientas de análisis e informes en cadena para mejorar la visibilidad de la tesorería:
 
 - **Paneles de Tesorería** (p. ej., DeepDAO, Dune Analytics): Seguimiento de gastos en tiempo real.
-
 - **Informes Financieros Trimestrales**: Asegurar que la comunidad comprenda las decisiones financieras.
-
-- **Transparencia de Monedero Multi-Sig**: Divulgar firmantes y procesos de aprobación.
+- **Transparencia de billetera Multi-Sig**: Divulgar firmantes y procesos de aprobación.
 
 ---
 
-## **Prevención de la mala gestión de la tesorería**
+## **Prevención de la Mala Gestión de la Tesorería**
 
 La mala gestión de la tesorería puede poner en peligro la supervivencia de la DAO. Los principales factores de riesgo incluyen:
 
@@ -77,11 +77,11 @@ La mala gestión de la tesorería puede poner en peligro la supervivencia de la 
 |----------|----------------|----------------------------|
 | **Gasto excesivo** | La tesorería se agota demasiado rápido debido a gastos insostenibles. | Implementar límites de gasto y requerir la aprobación de la comunidad. |
 | **Centralización de la tesorería** | Un grupo pequeño controla los fondos sin supervisión. | Usar billeteras multifirma y votación de la DAO. |
-| **Volatilidad del mercado** | Una tesorería con un activo volátil puede perder valor rápidamente. | Diversificar activos (por ejemplo, monedas estables, tokens con rendimiento). |
-| **Brechas de seguridad** | Las vulnerabilidades de los contratos inteligentes o los ataques a la gobernanza agotan los fondos. | Auditorías de seguridad periódicas, recompensas por errores y revisiones de control de acceso. |
+| **Volatilidad del mercado** | Una tesorería con un activo volátil puede perder valor rápidamente. | Diversificar activos (por ejemplo, stablecoins, tokens con rendimiento). |
+| **Violaciones de seguridad** | Las vulnerabilidades de los contratos inteligentes o los ataques a la gobernanza agotan los fondos. | Auditorías de seguridad periódicas, recompensas por errores y revisiones de control de acceso. |
 
 ---
 
 ## **Reflexiones Finales**
 
-Una estrategia eficaz de gestión de tesorería equilibra la sostenibilidad, la transparencia y la flexibilidad para apoyar la misión de una DAO. Mediante la implementación de presupuestos sólidos, la supervisión de la gobernanza y la mitigación de riesgos, las DAO pueden garantizar la solidez financiera a largo plazo, a la vez que mantienen la descentralización y la confianza de la comunidad.
+Una estrategia eficaz de gestión de tesorería equilibra la sostenibilidad, la transparencia y la flexibilidad para apoyar la misión de una DAO. Mediante la implementación de presupuestos sólidos, la supervisión de la gobernanza y la mitigación de riesgos, las DAOs pueden garantizar la solidez financiera a largo plazo, a la vez que mantienen la descentralización y la confianza de la comunidad.

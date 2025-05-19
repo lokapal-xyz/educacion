@@ -9,12 +9,12 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 ---
 
-## **Votación basada en tokens**
+## **Votación Basada en Tokens**
 
 ### **Cómo funciona**
 - Cada token representa un voto (1 token = 1 voto).
 - Cuantos más tokens posea un participante, mayor será su poder de voto.
-- Se utiliza en la mayoría de las DAO debido a su simplicidad y su alineación directa con la propiedad de tokens.
+- Se utiliza en la mayoría de las DAOs debido a su simplicidad y su alineación directa con la propiedad de tokens.
 
 ### **Ventajas**
 - Simple y ampliamente adoptado: fácil de implementar mediante tokens de gobernanza ERC-20.
@@ -22,7 +22,8 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 - Eficiente para decisiones de alto riesgo: la votación ponderada refleja el compromiso financiero.
 
 ### **Desventajas**
-- Riesgo plutocrático: los grandes poseedores (ballenas) pueden dominar las decisiones. - Baja participación electoral: los titulares no pueden participar en la gobernanza.
+- Riesgo plutocrático: los grandes poseedores (ballenas) pueden dominar las decisiones. 
+- Baja participación electoral: los titulares pueden no participar en la gobernanza.
 - Vulnerabilidad a la compra de votos: los tokens se pueden tomar prestados o delegar para influir.
 
 ### **Mejores casos de uso**
@@ -34,26 +35,28 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 ## **Voto cuadrático**
 
 ### **Cómo funciona**
-- Los votos no son lineales: el coste de emitir varios votos aumenta cuadráticamente.
-- Evita que una sola entidad domine las decisiones con grandes tenencias. - **Ejemplo de costo de votos:**
-- 1 voto cuesta 1 token
-- 2 votos cuestan 4 tokens (2²)
-- 3 votos cuestan 9 tokens (3²)
-- 4 votos cuestan 16 tokens (4²)
-- Y así sucesivamente...
+- Los votos no son lineales: el costo de emitir varios votos aumenta cuadráticamente.
+- Evita que una sola entidad domine las decisiones con grandes tenencias. 
+- **Ejemplo de costo de votos:**
+  - 1 voto cuesta 1 token
+  - 2 votos cuestan 4 tokens (2²)
+  - 3 votos cuestan 9 tokens (3²)
+  - 4 votos cuestan 16 tokens (4²)
+  - Y así sucesivamente...
 
 ### **Ventajas**
-- Equilibra la influencia: los grandes tenedores conservan el poder, pero con rendimientos decrecientes.
+- Equilibra la influencia: los grandes tenedores conservan poder, pero con rendimientos decrecientes.
 - Fomenta la participación diversa: los pequeños accionistas tienen una voz significativa.
 - Resultados más democráticos: ayuda a prevenir el dominio de las ballenas.
 
 ### **Desventajas**
 - Requiere verificación de identidad: sin la resistencia de Sybil, se puede manipular.
 - Implementación compleja: requiere contratos inteligentes e infraestructura adicionales.
-- Podría no funcionar bien para todas las DAO: si los contribuyentes tienen diferentes niveles de experiencia, igualar el poder de voto puede ser contraproducente.
+- Podría no funcionar bien para todas las DAOs: si los contribuyentes tienen diferentes niveles de experiencia, igualar el poder de voto puede ser contraproducente.
 
 ### **Mejores casos de uso**
-- DAO centradas en la gobernanza comunitaria. - Asignación de fondos (p. ej., subvenciones de Gitcoin).
+- DAO centradas en la gobernanza comunitaria.
+- Asignación de fondos (p. ej., subvenciones de Gitcoin).
 - Financiación de bienes públicos donde se necesita una representación más justa.
 
 ---
@@ -63,26 +66,22 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 ### **Cómo Funciona**
 - El poder de voto se acumula con el tiempo según el tiempo que un participante apoya una propuesta.
 - Fomenta el compromiso a largo plazo en lugar de picos repentinos de votación.
-
 - **Ejemplo de fórmula de convicción:**
-- Convicción = Convicción Previa × Factor de Decaimiento + Nueva Participación
+  - Convicción = Convicción Previa × Factor de Decaimiento + Nueva Participación
 
 ### **Ventajas**
-- Disuade la manipulación a corto plazo – Evita los votos de ballena de última hora.
-
-- Gobernanza continua – Los miembros pueden expresar sus preferencias dinámicamente.
-
-- Resistente a la compra de votos – Requiere compromiso a largo plazo, lo que reduce la influencia repentina.
+- Disuade la manipulación a corto plazo. Evita los votos de ballena de última hora.
+- Gobernanza continua. Los miembros pueden expresar sus preferencias dinámicamente.
+- Resistente a la compra de votos. Requiere compromiso a largo plazo, lo que reduce la influencia repentina.
 
 ### **Desventajas**
-- Toma de decisiones lenta – Requiere tiempo para que los votos acumulen influencia.
-
-- Los nuevos participantes tienen menos poder inmediato – Puede perjudicar a los recién llegados.
-
-- Podría no ser ideal para decisiones urgentes – Algunas DAO necesitan ciclos de gobernanza más rápidos.
+- Toma de decisiones lenta. Requiere tiempo para que los votos acumulen influencia.
+- Los nuevos participantes tienen menos poder inmediato. Puede perjudicar a los recién llegados.
+- Podría no ser ideal para decisiones urgentes. Algunas DAOs necesitan ciclos de gobernanza más rápidos.
 
 ### **Mejores Casos de Uso**
-- Decisiones de asignación de fondos. - DAOs impulsadas por la comunidad con incentivos a largo plazo.
+- Decisiones de asignación de fondos. 
+- DAOs impulsadas por la comunidad con incentivos a largo plazo.
 - Ecosistemas que requieren la formación gradual de consenso (p. ej., Commons Stack).
 
 ---
@@ -92,7 +91,7 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 ### **Cómo funciona**
 - Se utiliza un mecanismo de mercado predictivo junto con la votación tradicional.
 - Los participantes apuestan tokens para indicar qué propuestas merecen atención.
-- Si una propuesta supera un umbral de atención, se acelera su votación para la DAO completa.
+- Si una propuesta supera un umbral de atención, se acelera su votación completa en la DAO.
 - Al igual que un holograma recrea una representación 3D a partir de un medio 2D, este mecanismo de votación intenta proyectar la voluntad de toda la DAO a través de las acciones de un grupo más pequeño.
 
 ### **Ventajas**
@@ -106,8 +105,8 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 - Depende de buenos incentivos económicos: un diseño deficiente de los incentivos puede llevar a la manipulación.
 
 ### **Mejores casos de uso**
-- Grandes DAO que requieren una gobernanza escalable (p. ej., DAOstack).
-- DAO donde no todas las propuestas deben someterse a votación.
+- Grandes DAOs que requieren una gobernanza escalable (p. ej., DAOstack).
+- DAOs donde no todas las propuestas deben someterse a votación.
 - Proyectos que utilizan modelos de gobernanza basados ​​en predicciones.
 
 ---
@@ -136,7 +135,7 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 ---
 
-## **Voto por orden de preferencia**
+## **Voto por Orden de Preferencia**
 
 ### **Cómo funciona**
 - Los votantes clasifican múltiples opciones por orden de preferencia.
@@ -169,7 +168,7 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 ---
 
-## **Elegir el mecanismo de votación adecuado para su DAO**
+## **Elegir el Mecanismo de Votación Adecuado Para su DAO**
 
 Cada DAO requiere diferentes modelos de votación según su tamaño, necesidades de gobernanza y participación de la comunidad.
 
@@ -180,10 +179,5 @@ Cada DAO requiere diferentes modelos de votación según su tamaño, necesidades
 | **Voto por convicción** | Compromiso a largo plazo | Ciclos de decisión lentos |
 | **Consenso holográfico** | Priorización de propuestas | Implementación compleja |
 | **Voto delegado** | Participación pasiva en la gobernanza | Riesgos de centralización |
-| **Voto por Orden de Preferencia** | Decisiones con múltiples opciones | Complejidad computacional |
+| **Voto por orden de preferencia** | Decisiones con múltiples opciones | Complejidad computacional |
 
----
-
-## **Reflexiones Finales**
-
-Las DAO deberían adoptar modelos de gobernanza que se ajusten a su misión, objetivos de descentralización y niveles de participación comunitaria. Comprender estos mecanismos les permite diseñar sistemas de gobernanza justos, eficaces y sostenibles.

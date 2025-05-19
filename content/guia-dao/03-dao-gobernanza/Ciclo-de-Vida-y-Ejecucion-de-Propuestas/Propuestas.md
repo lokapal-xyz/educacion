@@ -5,7 +5,7 @@ title: 'Presentación, Discusión y Refinamiento de Propuestas'
 weight: 49_000
 ---
 
-Un proceso de propuesta estructurado es esencial para una gobernanza eficaz de la DAO. Un sistema bien definido garantiza que las ideas se examinen exhaustivamente, se refinen con las aportaciones de la comunidad y se ajusten a los objetivos de la DAO antes de someterse a votación.
+Un proceso de propuesta estructurado es esencial para una gobernanza DAO eficaz. Un sistema bien definido garantiza que las ideas se examinen exhaustivamente, se refinen con los aportes de la comunidad y se ajusten a los objetivos de la DAO antes de someterse a votación.
 
 ---
 
@@ -20,34 +20,33 @@ Las propuestas suelen ser presentadas por miembros de la DAO, contribuyentes pri
 Una plantilla de propuesta estándar suele incluir:
 
 - **Título**: un nombre claro y conciso para la propuesta.
-- **Resumen**: una descripción general del propósito de la propuesta. - **Motivación**: Por qué es necesaria la propuesta.
+- **Resumen**: una descripción general del propósito de la propuesta. 
+- **Motivación**: Por qué es necesaria la propuesta.
 - **Especificación**: Plan detallado de implementación, incluyendo consideraciones técnicas y financieras.
 - **Riesgos y mitigación**: Riesgos potenciales y cómo se abordarán.
 - **Próximos pasos**: Acciones necesarias para la implementación en caso de aprobación.
 
-Las DAO pueden exigir que las propuestas se sometan a una evaluación inicial por parte de los administradores de gobernanza, moderadores o comités para garantizar que cumplan con los criterios básicos de presentación.
+Las DAOs pueden exigir que las propuestas se sometan a una evaluación inicial por parte de los administradores de gobernanza, moderadores o comités para garantizar que cumplan con los criterios básicos de presentación.
 
 ---
 
-## **Discusión y comentarios de la comunidad**
+## **Discusión y Comentarios de la Comunidad**
 
 Una vez enviada una propuesta, entra en una fase de discusión donde la comunidad puede debatir sus méritos, ofrecer comentarios y sugerir mejoras.
 
-### **Importancia de la discusión**
+### **Importancia de la Discusión**
 
 - **Aumenta la calidad de la propuesta**: Los comentarios de la comunidad ayudan a refinar las propuestas poco claras o incompletas.
-
 - **Genera consenso**: Fomenta la alineación temprana, reduciendo la oposición durante la votación.
-
 - **Identifica consecuencias imprevistas**: Detecta posibles fallas antes de la ejecución.
 
 ### **Canales de Discusión Comunes**
 
-- **Foros de Gobernanza**: Plataformas como Discourse, Commonwealth o foros dedicados a las DAO.
+- **Foros de Gobernanza**: Plataformas como Discourse, Commonwealth o foros dedicados a las DAOs.
 - **Redes Sociales y Chats**: Discusiones en Discord, Telegram o Twitter.
 - **Convocatorias Comunitarias**: Sesiones en vivo donde los proponentes presentan sus ideas y responden preguntas.
 
-Las DAO suelen establecer periodos mínimos de discusión (por ejemplo, de 7 a 14 días) para garantizar una revisión adecuada antes de proceder a la votación.
+Las DAOs suelen establecer periodos mínimos de discusión (por ejemplo, de 7 a 14 días) para garantizar una revisión adecuada antes de proceder a la votación.
 
 ---
 
@@ -58,7 +57,7 @@ Según los comentarios de la comunidad, una propuesta puede someterse a revision
 - Aclarar las secciones poco claras según las inquietudes de la comunidad.
 - Ajustar los detalles de implementación para que se ajusten a las restricciones de viabilidad.
 - Modificar parámetros como la asignación presupuestaria o las estructuras de gobernanza.
-- Volver a enviar la propuesta si cambios importantes requieren otra ronda de discusión. Algunas DAO utilizan votos de señal (votos no vinculantes) durante la etapa de refinamiento para evaluar la opinión de la comunidad antes de una votación formal.
+- Volver a enviar la propuesta si hay cambios importantes que requieren otra ronda de discusión. Algunas DAOs utilizan votos de señal (votos no vinculantes) durante la etapa de refinamiento para evaluar la opinión de la comunidad antes de una votación formal.
 
 ---
 
@@ -70,7 +69,7 @@ Antes de pasar a votación, una propuesta sigue estos pasos:
 - **Asignación del periodo de votación:** según las reglas de gobernanza de la DAO.
 - **Anuncio de la votación:** se realiza a través de los canales oficiales de la DAO para maximizar el conocimiento y la participación.
 
-Algunas DAO requieren un patrocinador de la propuesta (por ejemplo, un miembro del comité de gobernanza o un titular de tokens con una cantidad límite) para que la propuesta sea sometida a votación formalmente.
+Algunas DAOs requieren un patrocinador de la propuesta (por ejemplo, un miembro del comité de gobernanza o un titular de tokens con una cantidad límite) para que la propuesta sea sometida a votación formalmente.
 
 ---
 
@@ -78,6 +77,7 @@ Algunas DAO requieren un patrocinador de la propuesta (por ejemplo, un miembro d
 
 - La presentación de propuestas debe seguir un formato estructurado para garantizar la claridad.
 - El debate comunitario es fundamental para refinar y mejorar las propuestas.
-- La iteración y la retroalimentación ayudan a alinear las propuestas con los objetivos de la DAO antes de la votación. Unas directrices de gobernanza claras garantizan la transparencia y la participación en el ciclo de vida de las propuestas.
+- La iteración y la retroalimentación ayudan a alinear las propuestas con los objetivos de la DAO antes de la votación. 
+- Unas directrices de gobernanza claras garantizan la transparencia y la participación en el ciclo de vida de las propuestas.
 
-Un proceso de propuestas bien estructurado fomenta una mejor toma de decisiones, una mayor participación y una mayor legitimidad de gobernanza en las DAO.
+Un proceso de propuestas bien estructurado fomenta una mejor toma de decisiones, una mayor participación y una mayor legitimidad de gobernanza en las DAOs.

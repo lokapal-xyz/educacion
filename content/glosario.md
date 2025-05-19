@@ -23,6 +23,8 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 
 * **Billetera (wallet):**  
     * Aplicación o contrato que permite enviar, recibir y firmar transacciones en blockchain. Puede ser controlada por un usuario (EOA) o programada como contrato inteligente (smart wallet).
+* **Billetera de hardware:**
+    * Dispositivo físico que almacena claves privadas de forma segura, aislándolas de dispositivos conectados a internet. Se utiliza para firmar transacciones sin exponer las claves al riesgo de malware o hackeos. Las billeteras de hardware ofrecen una capa extra de seguridad frente a billeteras en línea o móviles.
 
 **C**
 
@@ -55,6 +57,11 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 
 * **Exploit:**
     * Un exploit es una explotación deliberada de una vulnerabilidad en un contrato inteligente o protocolo blockchain. Puede permitir acciones no deseadas como el robo de fondos, la manipulación de votaciones o el abuso de funciones internas.
+
+**F**
+
+* **Fork (bifurcación):**
+    * Proceso mediante el cual una comunidad o equipo divide el código fuente o la gobernanza de un protocolo en dos caminos separados. En el contexto de DAOs, una bifurcación de gobernanza ocurre cuando una parte de los miembros se separa para crear una nueva organización con reglas o prioridades distintas. Puede ser una bifurcación de software (como un nuevo contrato inteligente) o de gobernanza (como una división social o política dentro de la DAO).
 
 **G**
 
@@ -110,10 +117,14 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 
 **S**
 
+* **Slashing (penalización):**
+    * Mecanismo mediante el cual se castiga a los validadores, delegados u otros participantes en un protocolo por comportamientos maliciosos o negligentes. La penalización implica la pérdida parcial o total de los tokens en staking. Es común en protocolos de prueba de participación (PoS) o en sistemas de gobernanza con staking de seguridad. Su propósito es alinear incentivos y desincentivar comportamientos deshonestos.
 * **Smart contract (Contrato inteligente):**
     * [Ver "Contrato inteligente" en la sección C]
 * **Snapshot:**
     * Método para registrar saldos de tokens en un bloque específico, utilizado en votaciones, airdrops y otras funciones.
+* **Stablecoin (moneda estable):**
+    * Criptoactivo diseñado para mantener un valor estable, usualmente vinculado a una moneda fiduciaria como el dólar estadounidense. Las stablecoins permiten transacciones rápidas y predecibles sin la volatilidad típica de otros tokens.
 * **SubDAO:**
     * DAO más pequeña y enfocada que opera dentro de una DAO más grande, con objetivos o responsabilidades específicas.
 

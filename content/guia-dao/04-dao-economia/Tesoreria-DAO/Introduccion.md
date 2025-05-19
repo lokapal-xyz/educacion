@@ -10,12 +10,12 @@ La tesorería de una DAO es uno de los aspectos más cruciales de cualquier orga
 Esta sección abarca aspectos clave de la gestión de la tesorería de una DAO:
 
 - **Estrategias de Gestión de Tesorería**
-Una gestión eficaz de la tesorería es vital para garantizar que los fondos de una DAO se utilicen de forma inteligente. Exploraremos estrategias para gestionar las finanzas de una DAO, desde la elaboración de presupuestos y la inversión hasta el seguimiento de los gastos y la transparencia financiera dentro de la comunidad.
+    Una gestión eficaz de la tesorería es vital para garantizar que los fondos de una DAO se utilicen de forma inteligente. Exploraremos estrategias para gestionar las finanzas de una DAO, desde la elaboración de presupuestos y la inversión hasta el seguimiento de los gastos y la transparencia financiera dentro de la comunidad.
 
-- **Tesorerías Multi-Firma y Controladas por Contratos Inteligentes**
-Las billeteras multi-firma y los contratos inteligentes ofrecen una forma segura y transparente de gestionar los fondos de una DAO. Analizaremos las ventajas de usar estas tecnologías para garantizar que ninguna entidad tenga el control total de la tesorería, así como cómo implementarlas en su DAO.
+- **Tesorerías Multisig y Controladas por Contratos Inteligentes**
+    Las billeteras multi-firma y los contratos inteligentes ofrecen una forma segura y transparente de gestionar los fondos de una DAO. Analizaremos las ventajas de usar estas tecnologías para garantizar que ninguna entidad tenga el control total de la tesorería, así como cómo implementarlas en su DAO.
 
-- **Estrategias de diversificación para mitigar riesgos financieros**
-La diversificación ayuda a reducir los riesgos financieros al distribuir las inversiones entre diferentes activos o estrategias. Exploraremos diversas tácticas de diversificación que las DAO pueden utilizar para protegerse de la volatilidad y garantizar la estabilidad a largo plazo de la tesorería.
+- **Estrategias de Diversificación para Mitigar Riesgos Financieros**
+    La diversificación ayuda a reducir los riesgos financieros al distribuir las inversiones entre diferentes activos o estrategias. Exploraremos diversas tácticas de diversificación que las DAOs pueden utilizar para protegerse de la volatilidad y garantizar la estabilidad a largo plazo de la tesorería.
 
 Al finalizar esta sección, comprenderá claramente cómo gestionar la tesorería de una DAO de manera eficiente, mitigar los riesgos financieros y garantizar que los fondos de la organización estén seguros y alineados con sus objetivos.

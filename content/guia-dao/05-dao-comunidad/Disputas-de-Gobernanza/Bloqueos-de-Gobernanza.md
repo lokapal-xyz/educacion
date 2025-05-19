@@ -9,7 +9,7 @@ Los bloqueos en la gobernanza se producen cuando la toma de decisiones llega a u
 
 ---
 
-## **¿Qué causa los bloqueos en la gobernanza?**
+## **¿Qué Causa los Bloqueos en la Gobernanza?**
 
 - **Falta de quorum**: la participación insuficiente impide la aprobación de las propuestas.
 - **Conflicto de intereses**: los desacuerdos entre las partes interesadas frenan el progreso.
@@ -18,29 +18,28 @@ Los bloqueos en la gobernanza se producen cuando la toma de decisiones llega a u
 
 ---
 
-## **Riesgos de los bloqueos en la gobernanza**
+## **Riesgos de los Bloqueos en la Gobernanza**
 
-- **Parálisis operativa**: la DAO no puede tomar decisiones esenciales, lo que retrasa el progreso. - **Frustración y Salida de Miembros**: Los bloqueos prolongados reducen la participación y aumentan la pérdida de miembros.
-
-- **Riesgos de Explotación**: Agentes maliciosos pueden aprovechar el estancamiento de la gobernanza para impulsar propuestas que les beneficien.
-
+- **Parálisis operativa**: la DAO no puede tomar decisiones esenciales, lo que retrasa el progreso. 
+- **Frustración y Salida de Miembros**: Los bloqueos prolongados reducen la participación y aumentan la pérdida de miembros.
+- **Riesgos de Explotación**: Agentes maliciosos pueden aprovechar el estancamiento de la gobernanza para impulsar propuestas que los beneficien.
 - **Pérdida de Credibilidad**: Una DAO que no pueda resolver disputas podría tener dificultades para atraer contribuyentes e inversores.
 
-- **Ejemplo:** Las DAO DeFi que tienen dificultades con las votaciones de asignación de tesorería se han enfrentado a fallos de gobernanza, lo que ha provocado la pérdida de fondos y la inactividad de las comunidades.
+- **Ejemplo:** Las DAOs DeFi que tienen dificultades con las votaciones de asignación de tesorería se han enfrentado a fallos de gobernanza, lo que ha provocado la pérdida de fondos y la inactividad de las comunidades.
 
 ---
 
 ## **Estrategias para Prevenir Bloqueos de Gobernanza**
 
-### **Ajustes de Cuórum**
-- **Umbrales de Cuórum flexibles** según el tipo de propuesta y la urgencia.
-
-- **Requisitos de Cuórum dinámicos** que se adaptan en función de los niveles históricos de participación.
+### **Ajustes de Quorum**
+- **Umbrales de quorum flexibles** según el tipo de propuesta y la urgencia.
+- **Requisitos de quorum dinámicos** que se adaptan en función de los niveles históricos de participación.
 
 ---
 
 ### **Mediación y Resolución de Disputas**
-- **Nombrar mediadores neutrales** para facilitar las negociaciones entre facciones opuestas. - **Utilizar marcos de resolución de disputas** que prioricen el consenso sobre la división.
+- **Nombrar mediadores neutrales** para facilitar las negociaciones entre facciones opuestas. 
+- **Utilizar marcos de resolución de disputas** que prioricen el consenso sobre la división.
 - **Utilizar tribunales descentralizados** (p. ej., Kleros) para resolver problemas de gobernanza controvertidos.
 
 ---
@@ -57,6 +56,7 @@ Los bloqueos en la gobernanza se producen cuando la toma de decisiones llega a u
 Si bien la gobernanza de la DAO debe seguir siendo descentralizada y democrática, una rigidez excesiva puede generar ineficiencias y bloqueos. Encontrar un equilibrio entre la transparencia en la toma de decisiones y las estructuras de gobernanza adaptables es clave para la sostenibilidad a largo plazo.
 
 - **Mejores prácticas para evitar bloqueos:**
-- Diseñar procedimientos de gobernanza claros que prioricen la resolución.
-- Implementar modelos de quorum y votación adaptables. - Crear mecanismos de contingencia para superar los estancamientos.
-- Fomentar una cultura de cooperación y compromiso dentro de la DAO.
+  - Diseñar procedimientos de gobernanza claros que prioricen la resolución.
+  - Implementar modelos de quorum y votación adaptables. 
+  - Crear mecanismos de contingencia para superar los estancamientos.
+  - Fomentar una cultura de cooperación y compromiso dentro de la DAO.
