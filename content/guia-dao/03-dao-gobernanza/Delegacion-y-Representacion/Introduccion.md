@@ -7,7 +7,7 @@ weight: 52_000
 
 En la gobernanza de las DAOs, la delegación y la representación permiten una toma de decisiones más flexible, permitiendo a los participantes confiar a otros su poder de voto. Sin embargo, esto presenta oportunidades y riesgos en términos de descentralización, rendición de cuentas y dinámicas de gobernanza.
 
-Esta sección abarca los conceptos clave de delegación y representación en las DAOs:
+Esta sección abarca los siguientes conceptos:
 
 - **Modelos de Votación Delegada**
     Los modelos de voto delegado, como la democracia líquida, permiten a los participantes delegar su poder de voto a representantes de confianza. Exploraremos diferentes sistemas de delegación, sus mecanismos y cómo pueden impactar la participación y la toma de decisiones dentro de la DAO.

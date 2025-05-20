@@ -7,7 +7,7 @@ weight: 14_000
 
 La arquitectura de gobernanza de una DAO es un aspecto crucial de su funcionalidad, ya que define cómo se toman las decisiones, quién tiene la autoridad y cómo se ejecutan. El diseño de los contratos inteligentes subyacentes desempeña un papel crucial en la configuración de estos mecanismos de gobernanza.
 
-Esta sección abarca los elementos clave de la arquitectura de gobernanza de una DAO:
+Esta sección abarca los siguientes elementos:
 
 - **Diseño de Contratos Modulares vs. Monolíticos**
     Compararemos las estructuras de contratos modulares y monolíticos, analizando las ventajas y desventajas de cada enfoque en términos de flexibilidad, facilidad de mantenimiento y seguridad.

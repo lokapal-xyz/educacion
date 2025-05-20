@@ -17,7 +17,8 @@ Los contratos centrales constituyen la columna vertebral de una DAO y gestionan 
 - **Mecanismo de Votación**: Define cómo se crean, votan y ejecutan las propuestas.
 - **Lógica de Tokens**: Gestiona los tokens de gobernanza, incluyendo la acuñación, la quema, el staking y la delegación.
 
-### **Consideraciones Clave para los Contratos Centrales:**
+### **Consideraciones para los Contratos Centrales:**
+
 - **Seguridad e inmutabilidad**: Dado que estos contratos gestionan funciones críticas de las DAOs, suelen estar diseñados para ser inmutables o actualizables mediante mecanismos cuidadosamente controlados.
 - **Minimalismo**: Muchas DAOs mantienen los contratos centrales lo más simples posible para reducir las superficies de ataque y garantizar su longevidad.
 - **Interoperabilidad**: Los contratos centrales deben contemplar la interacción con servicios externos, como herramientas de votación off-chain o puentes para la gobernanza entre cadenas.
@@ -84,7 +85,7 @@ Una arquitectura DAO eficaz distribuye las responsabilidades en múltiples capas
 
 Al separar la gobernanza en estos componentes, las DAOs reducen el riesgo, aumentan la flexibilidad y permiten la sostenibilidad a largo plazo.
 
---
+---
 
 ## **Reflexiones Finales**
 

@@ -1,27 +1,27 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Análisis Post Mortem'
+title: 'Análisis Post-Mortem'
 weight: 103_000
 ---
 
-Cuando se produce una brecha de seguridad, una DAO debe aprender del incidente para prevenir futuros ataques. Un análisis post mortem es un proceso estructurado para investigar fallos de seguridad, comprender sus causas raíz y mejorar la gobernanza y los protocolos de seguridad.
+Cuando se produce una brecha de seguridad, una DAO debe aprender del incidente para prevenir futuros ataques. Un análisis post-mortem es un proceso estructurado para investigar fallos de seguridad, comprender sus causas raíz y mejorar la gobernanza y los protocolos de seguridad.
 
 ---
 
-## **¿Por qué es importante el análisis post mortem?**
+## **¿Por Qué es Importante el Análisis Post-Mortem?**
 
-Los incidentes de seguridad pueden exponer fallas críticas en la gobernanza, los contratos inteligentes o la seguridad operativa. Sin una revisión adecuada, las DAO corren el riesgo de repetir los mismos errores. Las DAO se basan en la confianza, por lo que, tras un incidente de seguridad, una comunicación clara y transparente es esencial para mantener la credibilidad.
+Los incidentes de seguridad pueden exponer fallas críticas en la gobernanza, los contratos inteligentes o la seguridad operativa. Sin una revisión adecuada, las DAOs corren el riesgo de repetir los mismos errores. Las DAOs se basan en la confianza, por lo que, tras un incidente de seguridad, una comunicación clara y transparente es esencial para mantener la credibilidad.
 
-- **Beneficios clave del análisis post mortem:**
-- Previene la recurrencia de vulnerabilidades al identificar las causas raíz.
-- Genera confianza en la comunidad al demostrar transparencia y responsabilidad.
-- Mejora la gobernanza y las políticas de seguridad mediante recomendaciones prácticas.
-- Fortalece la resiliencia de las DAO al garantizar una mejor respuesta ante incidentes en el futuro.
+- **Beneficios clave del análisis post-mortem:**
+  - Previene la recurrencia de vulnerabilidades al identificar las causas raíz.
+  - Genera confianza en la comunidad al demostrar transparencia y responsabilidad.
+  - Mejora la gobernanza y las políticas de seguridad mediante recomendaciones prácticas.
+  - Fortalece la resiliencia de las DAOs al garantizar una mejor respuesta ante incidentes en el futuro.
 
 ---
 
-## **Pasos Clave en el Análisis Post-mortem**
+## **Pasos Clave en el Análisis Post-Mortem**
 
 ### **Documentar la Cronología del Incidente**
 - ¿Qué ocurrió? Describa la brecha de seguridad y su impacto.
@@ -41,16 +41,16 @@ Los incidentes de seguridad pueden exponer fallas críticas en la gobernanza, lo
 ### **Desarrollar e implementar mejoras de seguridad**
 - Solucionar vulnerabilidades en contratos inteligentes, reglas de gobernanza o seguridad operativa.
 - Mejorar los sistemas de monitoreo y alerta para la detección temprana de amenazas.
-- Mejorar las medidas de seguridad de gobernanza, como requisitos de quorum más estrictos o retrasos.
-- Actualizar las políticas de las DAO para incorporar las mejores prácticas.
+- Mejorar las medidas de seguridad de gobernanza, como requisitos de quorum más estrictos o demoras en la ejecución.
+- Actualizar las políticas de las DAOs para incorporar las mejores prácticas.
 
 ---
 
-## **Creación de un manual de seguridad para las DAO**
+## **Creación de un Manual de Seguridad Para las DAOs**
 
-Para garantizar la mejora continua, las DAO deben desarrollar un manual de seguridad que incluya:
+Para garantizar la mejora continua, las DAOs deben desarrollar un manual de seguridad que incluya:
 - Protocolos de respuesta a incidentes para diferentes escenarios de ataque.
-- Lista de verificación para análisis e informes post mortem.
+- Lista de verificación para análisis e informes post-mortem.
 - Directrices de seguridad para contratos inteligentes y procesos de gobernanza.
 - Auditorías de seguridad y evaluaciones de riesgos periódicas.
 
@@ -58,7 +58,7 @@ Para garantizar la mejora continua, las DAO deben desarrollar un manual de segur
 
 ## **Reflexiones Finales**
 
-Un proceso post mortem sólido es fundamental para aprender de las brechas de seguridad, prevenir futuros ataques y mantener la confianza de la comunidad. Al analizar sistemáticamente los fallos, las DAO pueden construir marcos de seguridad y modelos de gobernanza más sólidos que se adapten a las amenazas en constante evolución.
+Un proceso post-mortem sólido es fundamental para aprender de las violaciones de seguridad, prevenir futuros ataques y mantener la confianza de la comunidad. Al analizar sistemáticamente los fallos, las DAOs pueden construir marcos de seguridad y modelos de gobernanza más sólidos que se adapten a las amenazas en constante evolución.
 
 ---
 

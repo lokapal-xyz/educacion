@@ -7,7 +7,7 @@ weight: 83_000
 
 Las disputas son parte natural de cualquier sistema de gobernanza, incluidas las DAOs. La forma en que una DAO gestiona los desacuerdos, ya sean entre miembros de la comunidad o sobre decisiones, puede tener un impacto significativo en su estabilidad y éxito a largo plazo.
 
-Esta sección abarca los siguientes aspectos clave de las disputas de gobernanza:
+Esta sección abarca los siguientes aspectos:
 
 - **Foro Abierto de Debate y Cooperación**
     Los foros abiertos fomentan la transparencia y la inclusión, ofreciendo un espacio para que los miembros de la comunidad expresen sus preocupaciones y participen en debates constructivos. Exploraremos la importancia de las discusiones abiertas para resolver disputas, garantizando que todas las voces sean escuchadas y consideradas en el proceso de toma de decisiones.

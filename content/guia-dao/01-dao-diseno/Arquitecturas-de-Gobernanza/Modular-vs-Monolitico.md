@@ -11,7 +11,7 @@ Al diseñar la arquitectura de contratos inteligentes de una DAO, una de las dec
 
 ## Entendiendo los Dos Enfoques
 
-### **Diseño Monolítico de Contratos **
+### **Diseño Monolítico de Contratos**
 Una estructura monolítica de contratos integra todas las funcionalidades principales de una DAO en un único contrato inteligente o en un conjunto de contratos estrechamente acoplados.
 
 #### **Beneficios:**

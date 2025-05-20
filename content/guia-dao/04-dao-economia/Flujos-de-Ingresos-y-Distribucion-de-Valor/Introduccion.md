@@ -7,7 +7,7 @@ weight: 68_000
 
 Un modelo económico sostenible es esencial para la longevidad y el éxito de una DAO. Generar ingresos consistentes y distribuir el valor de forma justa entre las partes interesadas garantiza que la DAO pueda mantener sus operaciones, incentivar la participación y financiar sus proyectos.
 
-Esta sección explora los siguientes temas clave:
+Esta sección explora los siguientes temas:
 
 - **Modelos de Financiación Sostenible para las DAOs**
     La financiación es crucial para las operaciones y el crecimiento de cualquier DAO. Exploraremos diferentes maneras en que las DAOs pueden obtener financiación, desde contribuciones de la comunidad hasta capital riesgo y más. También analizaremos cómo equilibrar las necesidades de financiación a corto plazo con la sostenibilidad a largo plazo.

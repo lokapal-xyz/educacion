@@ -7,7 +7,7 @@ weight: 32_000
 
 La seguridad de las cuentas y claves es fundamental para la integridad de una DAO. Una mala gestión de claves puede provocar graves fallos de seguridad, por lo que comprender cómo gestionarlas de forma segura es crucial para mantener las operaciones y la fiabilidad de la DAO.
 
-Esta sección abarca los aspectos clave de la gestión de cuentas y claves:
+Esta sección abarca los siguientes aspectos:
 
 - **Uso de EOAs, Multisigs y Billeteras de Contratos Inteligentes**
     Exploraremos los diferentes tipos de billeteras utilizados en las DAOs, incluyendo cuentas de propiedad externa (EOA), billeteras multisigs y billeteras de contratos inteligentes. Cada uno tiene sus propias ventajas y consideraciones para la administración de una DAO, según el nivel de seguridad y control requerido.

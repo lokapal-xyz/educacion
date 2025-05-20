@@ -7,7 +7,7 @@ weight: 60_000
 
 La tesorería de una DAO es uno de los aspectos más cruciales de cualquier organización descentralizada. Representa los recursos financieros colectivos de la DAO y su gestión impacta directamente en la sostenibilidad y el éxito de la organización. Una gestión adecuada de la tesorería garantiza que los fondos se gestionen de forma responsable y alineada con los objetivos a largo plazo de la DAO.
 
-Esta sección abarca aspectos clave de la gestión de la tesorería de una DAO:
+Esta sección abarca aspectos:
 
 - **Estrategias de Gestión de Tesorería**
     Una gestión eficaz de la tesorería es vital para garantizar que los fondos de una DAO se utilicen de forma inteligente. Exploraremos estrategias para gestionar las finanzas de una DAO, desde la elaboración de presupuestos y la inversión hasta el seguimiento de los gastos y la transparencia financiera dentro de la comunidad.

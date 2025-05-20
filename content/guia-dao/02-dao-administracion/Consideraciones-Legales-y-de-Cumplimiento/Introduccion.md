@@ -7,7 +7,7 @@ weight: 40_000
 
 Desenvolverse en el panorama legal es uno de los desafíos más complejos para las DAOs. A medida que las organizaciones descentralizadas interactúan más con los sistemas financieros y legales más amplios, comprender y abordar los requisitos legales y regulatorios es esencial.
 
-Esta sección abarca los siguientes temas clave:
+Esta sección abarca los siguientes temas:
 
 - **Panorama Jurídico y Respuesta Gubernamental**
     El entorno regulatorio que rodea a las DAOs está evolucionando, y los diferentes gobiernos adoptan enfoques diversos para su reconocimiento y regulación. Exploraremos el estado actual de las regulaciones que pueden afectar a las DAOs, cómo los gobiernos están respondiendo a su crecimiento y las ambigüedades legales que aún existen en torno a la gobernanza descentralizada.

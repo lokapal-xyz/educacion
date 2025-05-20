@@ -5,15 +5,15 @@ title: 'Estándares de Desarrollo Seguro para Contratos DAO'
 weight: 90_000
 ---
 
-La seguridad es la base de la confianza en las DAO. Los contratos inteligentes mal redactados pueden exponerlas a exploits, ataques de gobernanza y pérdidas financieras. A continuación, se describen las mejores prácticas para el desarrollo seguro de contratos inteligentes, que abarcan auditorías de código, diseño modular, librerías establecidas y protección contra vulnerabilidades comunes.
+La seguridad es la base de la confianza en las DAOs. Los contratos inteligentes mal redactados pueden exponerlas a exploits, ataques de gobernanza y pérdidas financieras. A continuación, se describen las mejores prácticas para el desarrollo seguro de contratos inteligentes, que abarcan auditorías de código, diseño modular, librerías establecidas y protección contra vulnerabilidades comunes.
 
 ---
 
-## **Principios clave para el desarrollo seguro de contratos inteligentes**
+## **Principios Clave Para el Desarrollo Seguro de Sontratos Inteligentes**
 
 ### **Minimizar la superficie de ataque**
 - Mantener los contratos lo más simples y modulares posible.
-- Reducir la complejidad innecesaria en la cadena.
+- Reducir la complejidad on-chain innecesaria.
 - Evitar llamadas externas a contratos a menos que sea absolutamente necesario.
 
 ### **Seguir patrones de seguridad establecidos**
@@ -22,20 +22,21 @@ La seguridad es la base de la confianza en las DAO. Los contratos inteligentes m
 - Aplicar mecanismos de seguridad como interruptores automáticos y mecanismos de pausa de emergencia.
 
 ### **Priorizar la actualizabilidad y la seguridad de la gobernanza**
-- Si se utilizan contratos actualizables, garantizar controles administrativos estrictos. - Documentar y restringir las acciones de gobernanza para evitar actualizaciones maliciosas.
+- Si se utilizan contratos actualizables, garantizar controles administrativos estrictos. 
+- Documentar y restringir las acciones de gobernanza para evitar actualizaciones maliciosas.
 
 ---
 
 ## **Prácticas de Desarrollo Seguro**
 
-### **Usar Frameworks y librerías de Alta Calidad**
+### **Usar Frameworks y Librerías de Alta Calidad**
 - Contratos OpenZeppelin para gobernanza, control de acceso y utilidades de seguridad.
-- Foundry o Hardhat para pruebas fuzz y análisis de seguridad avanzados.
+- Foundry o Hardhat para testeo fuzz y análisis de seguridad avanzados.
 
-### **Implementar Pruebas y Revisiones de Seguridad Exhaustivas**
-- Pruebas unitarias para funciones individuales del contrato.
-- Pruebas basadas en propiedades para casos extremos y entradas inesperadas.
-- Pruebas fuzz para simular vectores de ataque aleatorios.
+### **Implementar Tests y Revisiones de Seguridad Exhaustivas**
+- Tests unitarios para funciones individuales del contrato.
+- Tests basados en propiedades para casos extremos y entradas inesperadas.
+- Tests fuzz para simular vectores de ataque aleatorios.
 
 ### **Diseño de Contrato Modular y Actualizable**
 - Utilizar patrones de proxy (p. ej., UUPS o Proxy Transparente) con controles de administración restringidos.
@@ -45,20 +46,21 @@ La seguridad es la base de la confianza en las DAO. Los contratos inteligentes m
 
 ## **Auditoría y Verificación Formal**
 
-- **Revisiones Internas**: Realizar revisiones por pares antes de implementar el código. - **Auditorías de terceros**: Contrate auditores profesionales para revisiones de seguridad independientes.
+- **Revisiones Internas**: Realizar revisiones por pares antes de implementar el código. 
+- **Auditorías de terceros**: Contrate auditores profesionales para revisiones de seguridad independientes.
 - **Verificación formal**: Utilice pruebas matemáticas (p. ej., Certora, Echidna) para funciones críticas.
 
 ---
 
-## **Mejores prácticas de seguridad para implementaciones de DAO**
+## **Mejores Prácticas de Seguridad Para Implementaciones de DAOs**
 
 - Utilice multifirmas para controles de administración (p. ej., Gnosis Safe).
-- Implemente bloqueos de tiempo para cambios importantes en la gobernanza.
-- Supervise la actividad sospechosa (p. ej., detección de anomalías en la cadena).
+- Implemente timelocks para cambios importantes en la gobernanza.
+- Supervise la actividad sospechosa (p. ej., detección de anomalías on-chain).
 - Contar con un plan de respuesta ante emergencias (p. ej., recompensas por errores, divulgación de información confidencial).
 
 ---
 
 ## **Reflexiones Finales**
 
-El desarrollo seguro es fundamental para las DAO. Al seguir estándares de seguridad probados, aprovechar librerías auditadas y realizar pruebas rigurosas, las DAO pueden mitigar vulnerabilidades, prevenir vulnerabilidades de gobernanza y desarrollar resiliencia a largo plazo.
+El desarrollo seguro es fundamental para las DAOs. Al seguir estándares de seguridad probados, aprovechar librerías auditadas y realizar pruebas rigurosas, las DAOs pueden mitigar vulnerabilidades, prevenir exploits de gobernanza y desarrollar resiliencia a largo plazo.

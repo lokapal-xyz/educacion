@@ -7,7 +7,7 @@ weight: 78_000
 
 La reputación y la confianza son elementos fundamentales de cualquier DAO, ya que impulsan la participación de la comunidad, la colaboración y la ejecución eficaz de la gobernanza. Establecer mecanismos para la reputación y la confianza garantiza que las decisiones las tomen quienes han demostrado competencia, integridad y compromiso con los objetivos de la DAO.
 
-Esta sección abarca los siguientes temas clave:
+Esta sección abarca los siguientes temas:
 
 - **El Rol de la Reputación Social y la Interacción Off-Chain**
     La reputación en una DAO no se determina únicamente por la actividad on-chain; la interacción off-chain también desempeña un papel fundamental. Exploraremos cómo se construye la reputación social mediante la participación en debates, las contribuciones a proyectos y la participación de la comunidad. Estas actividades ayudan a establecer la confiabilidad e influencia de los miembros dentro de la DAO.

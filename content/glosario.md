@@ -47,6 +47,8 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
     * Proceso mediante el cual un miembro de una DAO asigna su poder de voto a otro miembro o entidad, permitiendo una gobernanza más eficiente.
 * **DeFi (Finanzas Descentralizadas):**
     * Aplicaciones y servicios financieros construidos sobre tecnología blockchain.
+*  **Despliegue (deployment):**
+    * Proceso de publicar e implementar un contrato inteligente en una red blockchain. Una vez desplegado, el contrato queda disponible para ser ejecutado por usuarios u otros contratos.
 * **Dirección blockchain (Address):**
     * [Ver "Address (Dirección Blockchain)" en la sección A]
 
@@ -59,6 +61,9 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
     * Un exploit es una explotación deliberada de una vulnerabilidad en un contrato inteligente o protocolo blockchain. Puede permitir acciones no deseadas como el robo de fondos, la manipulación de votaciones o el abuso de funciones internas.
 
 **F**
+
+* **Frase Semilla:**
+    * Conjunto de palabras, generalmente 12 o 24, que permite recuperar el acceso a una billetera cripto. Es una representación legible de la clave privada maestra. Debe guardarse en un lugar seguro y nunca compartirse. Quien tenga acceso a la frase semilla puede controlar todos los activos de la billetera.
 
 * **Fork (bifurcación):**
     * Proceso mediante el cual una comunidad o equipo divide el código fuente o la gobernanza de un protocolo en dos caminos separados. En el contexto de DAOs, una bifurcación de gobernanza ocurre cuando una parte de los miembros se separa para crear una nueva organización con reglas o prioridades distintas. Puede ser una bifurcación de software (como un nuevo contrato inteligente) o de gobernanza (como una división social o política dentro de la DAO).
@@ -111,9 +116,12 @@ Este glosario proporciona definiciones de términos clave relacionados con las O
 
 * **Rage Quit:**
     * Mecanismo característico de algunos DAOs, especialmente los basados en Moloch, que permite a los miembros salir de la organización y retirar su parte proporcional de los fondos antes de que se ejecute una propuesta con la que no están de acuerdo.
-
+* **Red Principal (mainnet):**
+    * Red blockchain pública y completamente operativa donde las transacciones tienen valor real. Es el entorno “en vivo” en el que se ejecutan contratos inteligentes y se almacenan activos digitales.
 * **Reputación (Sistema de):**
     * Mecanismo para rastrear y evaluar las contribuciones y el comportamiento de los miembros de una DAO, incentivando la participación y la buena gobernanza.
+* **Rug Pull:**
+    * Un rug pull es un tipo de estafa de salida en la que los desarrolladores u operadores de un proyecto retiran de forma abrupta los fondos o la liquidez de un contrato inteligente o tesorería, dejando a los usuarios con activos sin valor. Es común en proyectos sin auditorías o con equipos anónimos, especialmente en el ámbito DeFi.
 
 **S**
 

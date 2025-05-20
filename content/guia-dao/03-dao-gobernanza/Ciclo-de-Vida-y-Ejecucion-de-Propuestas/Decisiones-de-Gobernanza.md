@@ -27,7 +27,7 @@ Sin automatización, pueden producirse cuellos de botella en la gobernanza. Esto
 ### **Ejecución Basada en Contratos Inteligentes**
 - Las propuestas aprobadas se ejecutan automáticamente mediante contratos inteligentes.
 - Ejemplo: Una propuesta de tesorería para distribuir fondos se ejecuta inmediatamente después de ser votada.
-- Beneficios Clave: Ejecución inmutable y transparente, sin necesidad de confianza.
+- Beneficios Clave: Ejecución inmutable y transparente, sin requisitos de confianza.
 
 ### **Contratos Governor**
 - Marcos como el Governor de OpenZeppelin permiten la ejecución de propuestas en cadena.
@@ -65,7 +65,7 @@ Incluso con la automatización, las DAOs deben garantizar que las decisiones off
 
 ## **Equilibrio Entre Automatización y Seguridad**
 
-- La **ejecución totalmente automatizada** garantiza una gobernanza sin necesidad de confianza, pero presenta riesgos si se cuelan errores o propuestas maliciosas.
+- La **ejecución totalmente automatizada** garantiza una gobernanza sin requisitos de confianza, pero presenta riesgos si se cuelan errores o propuestas maliciosas.
 - Los **mecanismos de supervisión humana** pueden proporcionar seguridad, pero presentan riesgos de centralización.
 
 Un **enfoque híbrido** que combina automatización, control social y medidas de seguridad suele ser el modelo más eficaz.

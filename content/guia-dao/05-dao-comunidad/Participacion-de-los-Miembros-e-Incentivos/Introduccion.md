@@ -7,7 +7,7 @@ weight: 73_000
 
 Construir una comunidad próspera y comprometida es esencial para el éxito de cualquier DAO. La participación, la retención y la adhesión a los valores de la DAO crean un ecosistema dinámico que fomenta la colaboración y el crecimiento.
 
-Esta sección explora los siguientes temas clave:
+Esta sección explora los siguientes temas:
 
 - **Canales de Comunicación**
     Una comunicación clara y transparente es esencial para fomentar la participación, abordar inquietudes y generar confianza en la comunidad. Esta sección explorará la importancia de establecer canales de diálogo accesibles y abiertos, que permitan a los miembros expresar sus ideas, expresar inquietudes y colaborar eficazmente.

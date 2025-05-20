@@ -7,7 +7,7 @@ weight: 56_000
 
 Si bien la descentralización y el consenso son clave para la gobernanza de las DAOs, a veces se necesita una acción rápida o un mecanismo de salvaguardia para protegerlas de posibles daños. Aquí es donde entran en juego los poderes de veto y las medidas de emergencia, que proporcionan una capa adicional de resiliencia y seguridad.
 
-Esta sección abarca los elementos críticos de los poderes de veto y las medidas de emergencia en la gobernanza de las DAOs:
+Esta sección abarca los elementos:
 
 - **Implementación de Mecanismos de Respuesta a Emergencias**
     Los mecanismos de respuesta a emergencias permiten a las DAOs actuar con rapidez ante amenazas o crisis imprevistas, como una brecha de seguridad o un ataque a la gobernanza. Analizaremos cómo diseñar estos sistemas para equilibrar la capacidad de respuesta y el respeto por los principios fundamentales de la DAO.

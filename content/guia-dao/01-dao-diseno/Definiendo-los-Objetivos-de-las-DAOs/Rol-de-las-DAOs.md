@@ -9,7 +9,7 @@ Las DAOs no existen de forma aislada. Forman parte de un ecosistema descentraliz
 
 ---
 
-## Cómo Interactúan las DAO con el Ecosistema más Amplio
+## Cómo Interactúan las DAOs con el Ecosistema más Amplio
 
 ### **Redes Blockchain Como Base**
 Las DAOs se basan en redes blockchain para su seguridad, transparencia y automatización. La elección de la blockchain afecta a todo, desde los costes de gobernanza (tarifas de gas) hasta la interoperabilidad con otras aplicaciones descentralizadas (dApps). La mayoría de las DAO operan en Ethereum o soluciones de Layer 2, pero cadenas alternativas como Solana, Polkadot y Cosmos ofrecen diferentes ventajas y desventajas en cuanto a escalabilidad y descentralización.

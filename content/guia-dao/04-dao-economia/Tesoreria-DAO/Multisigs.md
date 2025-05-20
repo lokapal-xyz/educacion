@@ -50,7 +50,7 @@ Una tesorería controlada por contratos inteligentes ejecuta transacciones autom
 - **Ejemplo:** Una DAO puede crear un contrato de adquisición de derechos que libera fondos a los contribuyentes con el tiempo, evitando el uso indebido.
 
 ### **Beneficios de las Tesorerías Controladas por Contratos Inteligentes**
-- **Ejecución totalmente sin necesidad de confianza**: Las reglas de gobernanza aplican directamente las políticas de gasto.
+- **Ejecución totalmente sin requisitos de confianza**: Las reglas de gobernanza aplican directamente las políticas de gasto.
 - **Distribución programable de fondos**: Automatiza subvenciones, salarios y pagos.
 - **Elimina errores humanos y retrasos**: No requiere aprobaciones manuales para transacciones rutinarias.
 - **Transparente y auditable**: Cualquiera puede inspeccionar la lógica del contrato inteligente en la blockchain.
@@ -79,7 +79,7 @@ Un enfoque híbrido que aprovecha tanto los billeteras multi-firma como los cont
 | **Enfoque** | **Caso de Uso** | **Ventajas** | **Desventajas** |
 |-------------|------------|---------|---------|
 | **Solo Multisig** | Gestión manual de tesorería | Alta seguridad, adaptable | Requiere ejecución manual |
-| **Solo Contratos Inteligentes** | Tesorería totalmente automatizada | Ejecución sin necesidad de confianza | Menor flexibilidad, posibles riesgos para los contratos inteligentes |
+| **Solo Contratos Inteligentes** | Tesorería totalmente automatizada | Ejecución sin requisitos de confianza | Menor flexibilidad, posibles riesgos para los contratos inteligentes |
 | **Híbrido (Multisig + Contratos Inteligentes)** | Automatización controlada por la gobernanza | Combina seguridad y automatización | Configuración más compleja |
 
 - **Ejemplo de modelo híbrido:**

@@ -18,7 +18,7 @@ La votación es un mecanismo fundamental de gobernanza DAO que determina mucho, 
 
 ### **Ventajas**
 - A prueba de manipulaciones: los resultados se almacenan permanentemente en la blockchain, lo que garantiza la transparencia.
-- Ejecución sin necesidad de confianza: los contratos inteligentes ejecutan las decisiones sin intermediarios.
+- Ejecución sin requisitos de confianza: los contratos inteligentes ejecutan las decisiones sin intermediarios.
 - Registro inmutable: evita disputas sobre el historial de votaciones o la manipulación.
 
 ### **Desventajas**
@@ -87,7 +87,7 @@ Dado que ningún sistema es perfecto, muchas DAOs utilizan modelos de gobernanza
 
 **Delegación de Votos**
   - Los participantes votan off-chain, pero delegan la ejecución final a actores on-chain confiables.
-  - Reduce los costos, manteniendo cierto grado de cumplimiento sin necesidad de confianza.
+  - Reduce los costos, manteniendo cierto grado de cumplimiento sin requisitos de confianza.
 
 ---
 

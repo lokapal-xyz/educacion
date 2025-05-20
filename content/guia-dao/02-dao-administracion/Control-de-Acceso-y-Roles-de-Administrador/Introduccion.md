@@ -7,7 +7,7 @@ weight: 28_000
 
 Un control de acceso eficaz y la gestión de roles son fundamentales para garantizar la seguridad y el correcto funcionamiento de una DAO. Asignar, gestionar y revocar permisos administrativos adecuadamente ayuda a proteger a la DAO de acciones no autorizadas, a la vez que permite que las personas adecuadas realicen funciones críticas.
 
-Esta sección explora los aspectos clave del control de acceso y los roles de administrador dentro de una DAO:
+Esta sección explora los siguientes aspectos:
 
 - **Asignación, Gestión y Revocación de Permisos Administrativos**
     Abordaremos las mejores prácticas para asignar roles, gestionar permisos administrativos y revocar el acceso cuando sea necesario. Garantizar que solo los participantes de confianza tengan control administrativo es fundamental para la integridad y la seguridad de la DAO.
