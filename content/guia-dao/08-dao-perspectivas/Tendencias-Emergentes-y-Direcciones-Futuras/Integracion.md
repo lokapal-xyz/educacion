@@ -54,3 +54,7 @@ A medida que las DAOs evolucionan, integran tecnologías de vanguardia para mejo
 - **Identidad descentralizada y credenciales verificables**
   - Tokens soulbound (SBT) para una gobernanza basada en la reputación (por ejemplo, poder de voto basado en las contribuciones).
   - Credenciales verificables (VC) para mecanismos de gobernanza sin tokens.
+
+---
+
+🔖 **¡Has completado DAO Perspectivas!** 🔖
