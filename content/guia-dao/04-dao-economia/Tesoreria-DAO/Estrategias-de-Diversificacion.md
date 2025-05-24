@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Estrategias de Diversificación para Mitigar Riesgos Financieros'
+title: 'Estrategias de diversificación para mitigar riesgos financieros'
 weight: 63_000
 ---
 
@@ -9,7 +9,7 @@ Una diversificación eficaz de la tesorería es fundamental para la estabilidad 
 
 ---
 
-## **¿Por Qué es Importante la Diversificación Para las Tesorerías de las DAOs?**
+## **¿Por qué es importante la diversificación para las tesorerías de las DAOs?**
 
 ### **Riesgos de una tesorería no diversificada**
 - **Sobreexposición a un solo activo**: Mantener solo un token nativo puede generar pérdidas graves en caídas del mercado.
@@ -24,9 +24,9 @@ Una diversificación eficaz de la tesorería es fundamental para la estabilidad 
 
 ---
 
-## **Estrategias de Diversificación Para DAOs**
+## **Estrategias de diversificación para DAOs**
 
-### **Diversificación de activos: Invertir en múltiples tipos de tokens**
+### **Diversificación de activos: invertir en múltiples tipos de tokens**
 Invertir en una combinación de stablecoins, criptomonedas de primera línea y tokens nativos evita la dependencia excesiva de un solo activo.
 
 - **Stablecoins (p. ej., USDC, DAI, USDT)**: protegen contra la volatilidad y garantizan la liquidez operativa.
@@ -42,15 +42,15 @@ Invertir en una combinación de stablecoins, criptomonedas de primera línea y t
 
 ---
 
-### **Asignaciones Estratégicas de Tesorería**
+### **Asignaciones estratégicas de tesorería**
 En lugar de mantener activos pasivamente, las DAOs pueden implementar estrategias de asignación de tesorería para optimizar el crecimiento y la seguridad.
 
-| **Estrategia** | **Propósito** | **Ejemplos de Activos** |
+| **Estrategia** | **Propósito** | **Ejemplos de activos** |
 |-------------|------------|----------------|
-| **Reservas de Liquidez** | Cubrir gastos a corto plazo | Stablecoins (USDC, DAI) |
-| **Tenencias a Largo Plazo** | Proteger el valor, reducir la inflación | ETH, BTC, tokens de índice |
-| **Activos que Generan Ingresos** | Obtener rendimiento de fondos inactivos | stETH, aDAI, tokens respaldados por RWAs |
-| **Capital de Riesgo** | Invertir en el crecimiento del ecosistema | Subvenciones, capital semilla, inversiones en protocolos |
+| **Reservas de liquidez** | Cubrir gastos a corto plazo | Stablecoins (USDC, DAI) |
+| **Tenencias a largo plazo** | Proteger el valor, reducir la inflación | ETH, BTC, tokens de índice |
+| **Activos que generan ingresos** | Obtener rendimiento de fondos inactivos | stETH, aDAI, tokens respaldados por RWAs |
+| **Capital de riesgo** | Invertir en el crecimiento del ecosistema | Subvenciones, capital semilla, inversiones en protocolos |
 
 - **Ejemplo:**
     Una DAO puede asignar:
@@ -61,7 +61,7 @@ En lugar de mantener activos pasivamente, las DAOs pueden implementar estrategia
 
 ---
 
-### **Diversificación entre Protocolos**
+### **Diversificación entre protocolos**
 Depender de un único protocolo DeFi aumenta los riesgos de los contratos inteligentes. Las DAOs deberían distribuir los activos entre múltiples plataformas para minimizar la dependencia.
 
 - **Diversificación de stablecoins**: Mantener DAI, USDC y USDT reduce la exposición al fallo de una sola stablecoin.
@@ -78,7 +78,7 @@ Esto reduce el riesgo de los contratos inteligentes a la vez que mantiene las op
 
 ---
 
-### **Diversificación de Activos Reales (RWA)**
+### **Diversificación de activos reales (RWA)**
 La integración de activos reales (RWAs) en la gestión de tesorería puede proporcionar rentabilidades de baja correlación y protección contra la inflación.
 
 - **Ejemplos de RWAs:**
@@ -91,7 +91,7 @@ Una DAO podría asignar entre el 10 % y el 15 % de su tesorería a RWAs con rend
 
 ---
 
-### **Técnicas de Mitigación de Riesgos**
+### **Técnicas de mitigación de riesgos**
 
 La diversificación por sí sola no es suficiente; se deben implementar estrategias de gestión de riesgos para proteger los activos:
 
@@ -101,7 +101,7 @@ La diversificación por sí sola no es suficiente; se deben implementar estrateg
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 Las DAOs deben adaptar sus estrategias de diversificación de tesorería en función de:
 - Tolerancia al riesgo

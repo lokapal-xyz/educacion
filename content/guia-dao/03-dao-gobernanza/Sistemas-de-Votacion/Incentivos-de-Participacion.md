@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Incentivos de Participación y Soluciones a la Apatía de los Votantes'
+title: 'Incentivos de participación y soluciones a la apatía de los votantes'
 weight: 47_000
 ---
 
@@ -9,7 +9,7 @@ La participación en la gobernanza es fundamental para garantizar la descentrali
 
 ---
 
-## **Comprendiendo la Apatía de los Cotantes en las DAOs**
+## **Comprendiendo la apatía de los votantes en las DAOs**
 
 ### **¿Por qué los miembros de las DAOs evitan votar?**
 
@@ -23,7 +23,7 @@ Sin soluciones proactivas, la apatía de los votantes puede generar riesgos de c
 
 ---
 
-## **Estrategias para Incentivar la Participación**
+## **Estrategias para incentivar la participación**
 
 ### **Incentivos financieros**
 
@@ -42,25 +42,25 @@ Sin soluciones proactivas, la apatía de los votantes puede generar riesgos de c
 
 ---
 
-### **Incentivos Sociales y de Reputación**
+### **Incentivos sociales y de reputación**
 
-- **Gobernanza Basada en la Reputación**: Recompensa a los votantes activos con mejores privilegios.
-- **Tabla de Clasificación y Gamificación**: Muestra a los votantes activos en los paneles de la comunidad.
-- **Reconocimiento Comunitario**: Destaca a los miembros activos a través de boletines informativos o redes sociales.
+- **Gobernanza basada en la reputación**: Recompensa a los votantes activos con mejores privilegios.
+- **Tabla de clasificación y gamificación**: Muestra a los votantes activos en los paneles de la comunidad.
+- **Reconocimiento comunitario**: Destaca a los miembros activos a través de boletines informativos o redes sociales.
 
 ---
 
-## **Soluciones Híbridas: Combinando Incentivos para la Participación a Largo Plazo**
+## **Soluciones híbridas: combinando incentivos para la participación a largo plazo**
 
 Para equilibrar la participación y la seguridad, las DAOs pueden combinar diferentes modelos de incentivos:
 
-- **Incentivos Financieros + Sociales**: Recompensa a los votantes activos con tokens y reconocimiento social.
-- **Votación Off-Chain + On-Chain**: Utiliza la votación off-chain para propuestas menores y la votación on-chain para acciones de gobernanza importantes. 
-- **Delegación + Voto Directo**: Permite la delegación, pero fomenta el voto directo para decisiones importantes.
+- **Incentivos financieros + sociales**: Recompensa a los votantes activos con tokens y reconocimiento social.
+- **Votación off-chain + on-chain**: Utiliza la votación off-chain para propuestas menores y la votación on-chain para acciones de gobernanza importantes. 
+- **Delegación + voto directo**: Permite la delegación, pero fomenta el voto directo para decisiones importantes.
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 - La apatía del votante se debe a los altos costos, la complejidad y la falta de compromiso.
 - Los incentivos financieros, sociales y basados ​​en procesos pueden mejorar la participación.

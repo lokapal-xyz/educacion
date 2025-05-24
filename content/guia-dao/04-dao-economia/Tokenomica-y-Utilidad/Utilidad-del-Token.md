@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Utilidad del Token de Gobernanza más Allá de la Votación'
+title: 'Utilidad del token de gobernanza más allá de la votación'
 weight: 66_000
 ---
 
@@ -14,7 +14,7 @@ Exploremos casos de uso alternativos que hacen que los tokens de gobernanza sean
 
 ---
 
-## **Tokens de Gobernanza como Mecanismos de Incentivo**
+## **Tokens de gobernanza como mecanismos de incentivo**
 
 La participación en la gobernanza suele ser baja debido a la apatía de los votantes y a los altos costos de oportunidad. Las DAOs pueden aumentar la participación recompensando a los contribuyentes activos.
 
@@ -31,7 +31,7 @@ La participación en la gobernanza suele ser baja debido a la apatía de los vot
 
 ---
 
-## **Tokens de Gobernanza como Claves de Acceso**
+## **Tokens de gobernanza como claves de acceso**
 
 Las DAOs pueden usar tokens de gobernanza para restringir el acceso a funciones o servicios exclusivos.
 
@@ -48,35 +48,35 @@ Las DAOs pueden usar tokens de gobernanza para restringir el acceso a funciones 
 
 ---
 
-## **Tokens de Gobernanza en DeFi y Gestión de Tesorería**
+## **Tokens de gobernanza en DeFi y gestión de tesorería**
 
 Los tokens de gobernanza pueden integrarse en los ecosistemas DeFi para aplicaciones financieras.
 
-### **Uso de Tokens de Gobernanza como Garantía**
+### **Uso de tokens de gobernanza como garantía**
 - Algunas DAOs permiten el uso de tokens de gobernanza como garantía para préstamos o la acuñación de stablecoins.
 - Aumenta la utilidad del token sin requerir liquidación.
 - **Riesgos:** Los tokens de gobernanza con garantía pueden presentar riesgos de liquidación durante caídas de precios.
 
 ---
 
-### **Incentivos de Liquidez y Gestión de Tesorería**
+### **Incentivos de liquidez y gestión de tesorería**
 - Las DAOs utilizan tokens de gobernanza para incentivar a los proveedores de liquidez.
 - Algunas DAOs emiten bonos o recompras para gestionar activos de tesorería. 
 - **Riesgos:** La dependencia excesiva de los incentivos de liquidez puede provocar ventas masivas una vez que las recompensas disminuyen.
 
 ---
 
-## **Tokens de Gobernanza en la Coordinación entre DAOs**
+## **Tokens de gobernanza en la coordinación entre DAOs**
 
 Algunos tokens de gobernanza se utilizan para la toma de decisiones y las colaboraciones entre DAOs.
 
-### **Gobernanza y Colaboraciones Multi-DAO**
+### **Gobernanza y colaboraciones multi-DAO**
 - Las DAOs pueden hacer staking de tokens de gobernanza en otras DAOs para alinear intereses.
 - Se utilizan en modelos de gobernanza federada donde varias DAOs se coordinan para alcanzar objetivos comunes.
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 Los tokens de gobernanza pueden servir para mucho más que simplemente votar. Los tokens pueden:
 - **Impulsar la participación** mediante el staking y recompensas basadas en contribuciones.

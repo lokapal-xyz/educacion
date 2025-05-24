@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Ciclo de Vida y Ejecución de Propuestas'
+title: 'Ciclo de vida y ejecución de propuestas'
 weight: 10_000
 ---
 

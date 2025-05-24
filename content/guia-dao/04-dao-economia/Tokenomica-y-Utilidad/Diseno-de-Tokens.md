@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Diseño de Tokens, Modelos de Suministro y Mecanismos de Staking'
+title: 'Diseño de tokens, modelos de suministro y mecanismos de staking'
 weight: 65_000
 ---
 
@@ -9,12 +9,12 @@ Un diseño de token bien estructurado es la columna vertebral de la economía de
 
 ---
 
-## **Principios de Diseño de Tokens**
+## **Principios de diseño de tokens**
 
-### **El Rol de los Tokens en las DAOs**
+### **El rol de los tokens en las DAOs**
 
 Los tokens de las DAOs cumplen múltiples funciones más allá de la gobernanza:
-- **Almacenamiento de Valor**: Representan una parte del valor del ecosistema.
+- **Almacenamiento de valor**: Representan una parte del valor del ecosistema.
 - **Utilidad**: Otorgan acceso a funciones, recompensas y facilitan la toma de decisiones.
 - **Incentivos**: Alinean los intereses de los participantes con el éxito de la DAO. 
 - **Seguridad**: Previene ataques de gobernanza al exigir un compromiso económico (p. ej., staking).
@@ -28,7 +28,7 @@ Los factores clave en el diseño de tokens incluyen:
 
 ---
 
-## **Modelos de Suministro de Tokens**
+## **Modelos de suministro de tokens**
 
 ### **Tokens de suministro fijo**
 - El suministro total se establece en el lanzamiento. No se acuñan nuevos tokens.
@@ -40,7 +40,7 @@ Los factores clave en el diseño de tokens incluyen:
 
 ---
 
-### **Tokens Inflacionarios**
+### **Tokens inflacionarios**
 - Se acuñan nuevos tokens continuamente.
 - Ayuda a financiar el desarrollo, las recompensas por staking y el crecimiento del ecosistema.
 - Fomenta la participación continua en lugar de la retención.
@@ -50,20 +50,20 @@ Los factores clave en el diseño de tokens incluyen:
 
 ---
 
-### **Tokens Deflacionarios**
+### **Tokens deflacionarios**
 - La oferta de tokens disminuye con el tiempo mediante mecanismos de quema.
 - Crea escasez artificial, lo que aumenta el valor a largo plazo.
 - **Riesgos:** Si la deflación es demasiado agresiva, puede desincentivar el gasto y la participación.
 
 ---
 
-### **Modelos Híbridos**
+### **Modelos híbridos**
 - Algunas DAOs combinan inflación y deflación para equilibrar los incentivos.
 - Algunos ejemplos incluyen la recompra de tokens, la acuñación dinámica y las recompensas basadas en staking.
 
 ---
 
-## **Mecanismos e Incentivos de Staking**
+## **Mecanismos e incentivos de staking**
 
 El staking bloquea los tokens en contratos inteligentes, lo que incentiva a los titulares a apoyar la gobernanza, la seguridad o las operaciones de la red.
 
@@ -82,25 +82,25 @@ El staking bloquea los tokens en contratos inteligentes, lo que incentiva a los 
 
 ---
 
-### **Staking de Seguridad (Modelos Basados ​​en Slashing)**
+### **Staking de seguridad (modelos basados ​​en slashing)**
 - Los stakers arriesgan sus fondos si actúan maliciosamente.
 - Común en redes basadas en validadores como Ethereum.
 - **Riesgos:** Las penalizaciones por slashing pueden desincentivar la participación si son demasiado severas.
 
 ---
 
-## **Diseño de Mecanismos de Staking para DAOs**
+## **Diseño de mecanismos de staking para DAOs**
 
 Un diseño de staking eficaz garantiza recompensas justas, incentivos de participación y seguridad.
 
-### **Consideraciones Clave de Diseño**
-- **Equilibrar Recompensas e Inflación**: Evitar emisiones excesivas que diluyan el valor.
-- **Períodos de Bloqueo**: Restricciones temporales para prevenir ataques de gobernanza flash.
-- **Penalizaciones por Slashing y Salida**: Evitar a actores maliciosos y garantizar una participación justa.
+### **Principales consideraciones de diseño**
+- **Equilibrar recompensas e inflación**: Evitar emisiones excesivas que diluyan el valor.
+- **Períodos de bloqueo**: Restricciones temporales para prevenir ataques de gobernanza flash.
+- **Penalizaciones por slashing y salida**: Evitar a actores maliciosos y garantizar una participación justa.
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 La elección del modelo de suministro de tokens y los mecanismos de staking determinan la salud a largo plazo de una DAO.
 

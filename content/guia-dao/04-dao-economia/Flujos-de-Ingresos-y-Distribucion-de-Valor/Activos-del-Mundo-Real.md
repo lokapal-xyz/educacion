@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Integración con Activos del Mundo Real'
+title: 'Integración con activos del mundo real'
 weight: 70_000
 ---
 
@@ -9,7 +9,7 @@ Las DAOs van más allá de los ecosistemas puramente digitales. También interac
 
 ---
 
-## **¿Por Qué las DAOs se Integran con RWAs?**
+## **¿Por qué las DAOs se integran con RWAs?**
 
 Si bien las DAOs se centran tradicionalmente en la gobernanza on-chain y los activos digitales, la integración en el mundo real amplía sus capacidades en:
 - Tokenizar activos físicos y financieros (p. ej., bienes raíces, materias primas, derechos de propiedad intelectual).
@@ -21,7 +21,7 @@ Al integrar activos reales (RWAs), las DAOs pueden aumentar su impacto, atraer a
 
 ---
 
-## **Tokenización de Activos Reales**
+## **Tokenización de activos reales**
 
 ### **Cómo funciona la tokenización**
 La tokenización convierte activos reales en representaciones basadas en blockchain, lo que permite a las DAOs:
@@ -43,7 +43,7 @@ Las DAOs pueden gestionar activos tokenizados mediante contratos inteligentes, t
 
 ---
 
-## **Consideraciones Legales y Regulatorias**
+## **Consideraciones legales y regulatorias**
 
 ### **Marcos legales para la propiedad de activos**
 Un desafío al tokenizar activos reales es garantizar su exigibilidad legal:
@@ -60,7 +60,7 @@ Un desafío al tokenizar activos reales es garantizar su exigibilidad legal:
 
 ---
 
-## **Gobernanza y Gestión de Activos**
+## **Gobernanza y gestión de activos**
 
 ### **Modelos de tesorería y custodia**
 Las DAOs que gestionan RWAs deben decidir quién tiene el control legal y técnico sobre los activos:
@@ -75,11 +75,11 @@ La gestión de tesorería basada en contratos inteligentes garantiza la descentr
 
 ---
 
-## **Conectando los Mundos dentro y fuera de la cadena**
+## **Conectando los mundos dentro y fuera de la cadena**
 
 Para integrar completamente los RWAs, las DAOs necesitan mecanismos robustos que conecten la gobernanza de la blockchain con las operaciones del mundo real:
 - **Oráculos** (p. ej., Chainlink, Pyth) → Verificación on-chain de los datos de activos off-chain.
-- **Acuerdos legales + Contratos inteligentes** → Automatizar el cumplimiento normativo mediante la gobernanza basada en blockchain.
+- **Acuerdos legales + contratos inteligentes** → Automatizar el cumplimiento normativo mediante la gobernanza basada en blockchain.
 - **Custodia multifirma y descentralizada** → Garantizar la gestión segura de activos.
 
 - **Visión futura:** Con el tiempo, los marcos legales podrían evolucionar para permitir la gobernanza on-chain completa de activos del mundo real, reduciendo la dependencia de los intermediarios tradicionales.

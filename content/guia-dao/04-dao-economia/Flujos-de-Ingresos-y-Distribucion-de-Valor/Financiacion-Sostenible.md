@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Modelos de Financiación Sostenibles para las DAOs'
+title: 'Modelos de financiación sostenibles para las DAOs'
 weight: 69_000
 ---
 
@@ -9,7 +9,7 @@ Las DAOs requieren financiación sostenible para operar, crecer y recompensar a 
 
 ---
 
-## **¿Por Qué es Importante la Financiación Sostenible?**
+## **¿Por qué es importante la financiación sostenible?**
 
 La capacidad de una DAO para autofinanciarse afecta directamente su longevidad, gobernanza e independencia. Estrategias de financiación deficientes pueden llevar a:
 
@@ -25,11 +25,11 @@ Por el contrario, un modelo de financiación equilibrado permite:
 
 ---
 
-## **Fuentes Principales de Financiación Para las DAOs**
+## **Fuentes principales de financiación para las DAOs**
 
 Las DAOs pueden utilizar una combinación de fuentes de ingresos para mantener su salud financiera.
 
-### **Reservas de Tesorería y Tenencia de Tokens**
+### **Reservas de tesorería y tenencia de tokens**
 - Las DAOs suelen comenzar con una tesorería financiada con tokens nativos (p. ej., tokens de gobernanza).
 - Depender excesivamente de un solo activo puede ser arriesgado debido a la volatilidad del mercado.
 
@@ -37,7 +37,7 @@ Las DAOs pueden utilizar una combinación de fuentes de ingresos para mantener s
 
 ---
 
-### **Tarifas de Protocolo y Servicios de Generación de Ingresos**
+### **Tarifas de protocolo y servicios de generación de ingresos**
 Muchas DAOs implementan mecanismos de ingresos on-chain como:
 
 - Tasas de transacción (p. ej., Uniswap se lleva un porcentaje de las operaciones).
@@ -48,7 +48,7 @@ Muchas DAOs implementan mecanismos de ingresos on-chain como:
 
 ---
 
-### **Subvenciones y Donaciones de la Comunidad**
+### **Subvenciones y donaciones de la comunidad**
 Algunas DAOs se sustentan mediante:
 
 - Financiación colectiva comunitaria a través de Gitcoin o Juicebox.
@@ -58,7 +58,7 @@ Algunas DAOs se sustentan mediante:
 
 ---
 
-### **Capital de Riesgo e Inversiones Estratégicas**
+### **Capital de riesgo e inversiones estratégicas**
 Algunas DAOs recaudan fondos de empresas de capital riesgo o inversores privados antes de su lanzamiento público.
 
 - Rondas de financiación inicial con asignación de tokens a los primeros inversores.
@@ -68,7 +68,7 @@ Algunas DAOs recaudan fondos de empresas de capital riesgo o inversores privados
 
 ---
 
-### **Inversiones Propiedad de la DAO y Estrategias de Rendimiento**
+### **Inversiones propiedad de la DAO y estrategias de rendimiento**
 Las DAOs pueden invertir fondos de tesorería para generar rendimiento mediante:
 
 - Minería de liquidez y staking para obtener ingresos pasivos. 
@@ -79,7 +79,7 @@ Las DAOs pueden invertir fondos de tesorería para generar rendimiento mediante:
 
 ---
 
-## **Equilibrio Entre Liquidez a Corto Plazo y Sostenibilidad a Largo Plazo**
+## **Equilibrio entre liquidez a corto plazo y sostenibilidad a largo plazo**
 
 Para mantener la solvencia mientras planifican el futuro, las DAOs deben encontrar un equilibrio entre:
 

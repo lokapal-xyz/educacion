@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Delegación y Representación'
+title: 'Delegación y representación'
 weight: 11_000
 ---
 

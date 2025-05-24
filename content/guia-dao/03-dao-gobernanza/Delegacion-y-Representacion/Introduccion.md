@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Delegación y Representación: Introducción'
+title: 'Delegación y representación: introducción'
 weight: 52_000
 ---
 
@@ -9,13 +9,13 @@ En la gobernanza de las DAOs, la delegación y la representación permiten una t
 
 Esta sección abarca los siguientes conceptos:
 
-- **Modelos de Votación Delegada**
+- **Modelos de votación delegada**
     Los modelos de voto delegado, como la democracia líquida, permiten a los participantes delegar su poder de voto a representantes de confianza. Exploraremos diferentes sistemas de delegación, sus mecanismos y cómo pueden impactar la participación y la toma de decisiones dentro de la DAO.
 
-- **Estructuras de Gobernanza Representativa**
+- **Estructuras de gobernanza representativa**
     Las estructuras de gobernanza representativa implican la elección o el nombramiento de representantes que toman decisiones en nombre de otros. Analizaremos los beneficios y desafíos de usar la gobernanza representativa en las DAOs y cómo estos sistemas pueden estructurarse para equilibrar el poder y la rendición de cuentas.
 
-- **Riesgos y Beneficios de la Delegación**
+- **Riesgos y beneficios de la delegación**
     La delegación puede aumentar la eficiencia y aportar experiencia, pero también conlleva riesgos como la centralización del poder o la falta de rendición de cuentas. Exploraremos las posibles ventajas y desventajas de la delegación, y cómo mitigar los riesgos manteniendo la descentralización.
 
 Al finalizar esta sección, comprenderá claramente cómo integrar eficazmente la delegación y la representación en su modelo de gobernanza DAO, junto con las ventajas y desventajas que esto implica.

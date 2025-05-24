@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Votación On-Chain vs Off-Chain'
+title: 'Votación on-chain vs off-chain'
 weight: 46_000
 ---
 
@@ -9,7 +9,7 @@ La votación es un mecanismo fundamental de gobernanza DAO que determina mucho, 
 
 ---
 
-## **¿Qué es la Votación On-Chain?**
+## **¿Qué es la votación on-chain?**
 
 ### **Cómo funciona**
 - Los votos se registran directamente en la blockchain como transacciones.
@@ -33,7 +33,7 @@ La votación es un mecanismo fundamental de gobernanza DAO que determina mucho, 
 
 ---
 
-## **¿Qué es la Votación Off-Chain?**
+## **¿Qué es la votación off-chain?**
 
 ### **Cómo funciona**
 - Las votaciones no se registran en la blockchain, sino que se realizan a través de plataformas externas (p. ej., Snapshot, encuestas de Discord, Formularios de Google).
@@ -57,9 +57,9 @@ La votación es un mecanismo fundamental de gobernanza DAO que determina mucho, 
 
 ---
 
-## **Comparación de la Votación On-Chain y Off-Chain**
+## **Comparación de la votación on-chain y off-chain**
 
-| **Característica** | **Votación On-Chain** | **Votación Off-Chain** |
+| **Característica** | **Votación on-chain** | **Votación off-chain** |
 |--------------------|--------------------|--------------------|
 | **Seguridad** | Alta (ejecución inmutable y confiable) | Media (depende de la integridad de la plataforma) |
 | **Transparencia** | Completa (resultados visibles en la blockchain) | Parcial (depende de verificación externa) |
@@ -70,28 +70,28 @@ La votación es un mecanismo fundamental de gobernanza DAO que determina mucho, 
 
 Ambos tipos de votación tienen sus ventajas y desventajas. Muchas DAOs los combinan para equilibrar la seguridad y la participación. ---
 
-## **Enfoques Híbridos: Combinando Votación On-Chain y Off-Chain**
+## **Enfoques híbridos: combinando votación on-chain y off-chain**
 
 Dado que ningún sistema es perfecto, muchas DAOs utilizan modelos de gobernanza híbridos:
 
-### **Ejemplos de Enfoques**
-- **Señalización Off-Chain → Ejecución On-Chain**
+### **Ejemplos de enfoques**
+- **Señalización off-chain → ejecución on-chain**
   - Paso 1: Los miembros de la DAO votan off-chain (p. ej., Snapshot).
   - Paso 2: Si una propuesta se aprueba, una multifirma o consejo la ejecuta on-chain.
   - Ejemplo: MakerDAO, Gobernanza de Gitcoin.
 
-- **Modelos Híbridos Basados ​​en Umbrales**
+- **Modelos híbridos basados ​​en umbrales**
   - Las decisiones pequeñas (p. ej., subvenciones menores) se toman off-chain para mayor rapidez.
   - Las decisiones importantes (p. ej., retiros de tesorería) requieren ejecución on-chain.
   - Ejemplo: Optimism DAO, Gobernanza de ENS.
 
-**Delegación de Votos**
+**Delegación de votos**
   - Los participantes votan off-chain, pero delegan la ejecución final a actores on-chain confiables.
   - Reduce los costos, manteniendo cierto grado de cumplimiento sin requisitos de confianza.
 
 ---
 
-## **Cómo Elegir el Enfoque Adecuado Para su DAO**
+## **Cómo elegir el enfoque adecuado para su DAO**
 
 - Si la seguridad es la prioridad, utiliza el voto on-chain para decisiones clave.
 - Si la participación es más importante, utiliza el voto off-chain para fomentar la interacción.

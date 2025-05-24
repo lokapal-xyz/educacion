@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'El Rol de los Poderes de Veto y sus Limitaciones'
+title: 'El rol de los poderes de veto y sus limitaciones'
 weight: 58_000
 ---
 
@@ -9,7 +9,7 @@ Los poderes de veto otorgan a ciertas personas o entidades la autoridad para blo
 
 ---
 
-## **¿Por Qué las DAOs Implementan Poderes de Veto?**
+## **¿Por qué las DAOs implementan poderes de veto?**
 
 ### **Prevención de decisiones maliciosas o perjudiciales**
 - Protección contra ataques a la gobernanza (por ejemplo, propuestas maliciosas que agotan la tesorería).
@@ -27,7 +27,7 @@ Los poderes de veto otorgan a ciertas personas o entidades la autoridad para blo
 
 ---
 
-## **¿Quién Puede Tener Poder de Veto?**
+## **¿Quién puede tener poder de veto?**
 
 ### **Consejos de gobernanza o multifirmas**
 - Un comité de miembros electos puede tener derecho de veto.
@@ -47,39 +47,39 @@ Los poderes de veto otorgan a ciertas personas o entidades la autoridad para blo
 
 ---
 
-## **Riesgos y Limitaciones de los Poderes de Veto**
+## **Riesgos y limitaciones de los poderes de veto**
 
-### **Preocupaciones de Centralización**
+### **Preocupaciones de centralización**
 - Si un grupo pequeño tiene poder de veto, puede socavar la gobernanza de la comunidad.
 - Pueden surgir conflictos de intereses si quienes tienen poder de veto priorizan sus propios intereses sobre el bienestar de la DAO.
 
-### **Uso Indebido o Abuso de Poder**
+### **Uso indebido o abuso de poder**
 - Un titular de poder de veto podría bloquear propuestas beneficiosas debido a prejuicios personales o motivaciones políticas.
 - Ejemplo: Un consejo bloquea una propuesta de diversificación de la tesorería para mantener el control sobre los fondos.
 
-### **Reducción de la Participación Comunitaria**
+### **Reducción de la participación comunitaria**
 - Si los miembros consideran que sus votos pueden ser anulados, podrían desvincularse. Esto puede aumentar la apatía de los votantes y reducir la participación general en la gobernanza.
 
-### **Asuntos Regulatorios y Legales**
+### **Asuntos regulatorios y legales**
 - Algunos reguladores pueden considerar a los titulares de veto como tomadores de decisiones centrales, lo que hace que la DAO sea legalmente responsable.
 - Ejemplo: Una DAO con fundadores con derecho a veto podría considerarse una entidad corporativa en lugar de una organización descentralizada.
 
 ---
 
-## **Diseño de Sistemas de Veto Equilibrados**
+## **Diseño de sistemas de veto equilibrados**
 
-### **Uso Transparente y Limitado**
+### **Uso transparente y limitado**
 - Definir claramente cuándo y cómo se pueden ejercer los poderes de veto.
 - Ejemplo: Los vetos solo pueden bloquear propuestas que infrinjan las reglas predefinidas de la DAO.
 
-### **Mecanismos de Tiempo Limitado o de Eliminación Gradual**
+### **Mecanismos de tiempo limitado o de eliminación gradual**
 - Algunas DAOs eliminan o reducen los poderes de veto a medida que la gobernanza madura.
 - Ejemplo: El veto de un fundador expira después de tres años o una vez que la DAO alcanza un umbral de participación en la gobernanza.
 
-### **Anulaciones y Verificaciones de la Comunidad**
+### **Anulaciones y verificaciones de la comunidad**
 - La DAO debería contar con un mecanismo para anular las decisiones de veto.
 - Ejemplo: Si una super mayoría de titulares de tokens no está de acuerdo con un veto, pueden revocarlo.
 
-### **Rendición de Cuentas de Contratos Inteligentes**
+### **Rendición de cuentas de contratos inteligentes**
 - Usar registros on-chain para rastrear y justificar cada decisión de veto.
 - Ejemplo: Resolución automatizada de disputas para garantizar que los vetos solo se apliquen a propuestas que infringen las normas.

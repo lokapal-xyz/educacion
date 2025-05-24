@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Modelos de Compensación para los Contribuyentes de las DAOs'
+title: 'Modelos de compensación para los contribuyentes de las DAOs'
 weight: 71_000
 ---
 
@@ -9,7 +9,7 @@ Remunerar de forma justa a los colaboradores es esencial para atraer y retener t
 
 ---
 
-## **Salarios fijos: Estabilidad para los colaboradores principales**
+## **Salarios fijos: estabilidad para los colaboradores principales**
 
 Algunas DAOs ofrecen salarios fijos a los miembros principales del equipo que se encargan de tareas esenciales de operaciones, desarrollo o gobernanza. Estos pagos pueden realizarse en stablecoins, tokens de gobernanza o una combinación de ambos.
 
@@ -23,7 +23,7 @@ Algunas DAOs ofrecen salarios fijos a los miembros principales del equipo que se
 
 ---
 
-## **Compensación Basada en Tokens: Alineación de incentivos**
+## **Compensación basada en tokens: alineación de incentivos**
 
 Muchas DAOs pagan a sus contribuyentes con tokens de gobernanza nativos para alinear los incentivos con el éxito a largo plazo. Estos pagos pueden incluir calendarios de adquisición de derechos o períodos de bloqueo para desalentar la venta inmediata.
 
@@ -37,7 +37,7 @@ Muchas DAOs pagan a sus contribuyentes con tokens de gobernanza nativos para ali
 
 ---
 
-## **Recompensas y Subvenciones: Pago por tareas específicas**
+## **Recompensas y subvenciones: pago por tareas específicas**
 
 Las DAOs suelen utilizar recompensas y subvenciones para compensar a los colaboradores por tareas puntuales, como corrección de errores, investigación o iniciativas comunitarias. Estas recompensas suelen establecerse antes de que se complete el trabajo.
 
@@ -51,7 +51,7 @@ Las DAOs suelen utilizar recompensas y subvenciones para compensar a los colabor
 
 ---
 
-## **Incentivos Basados ​​en el Rendimiento: Recompensar la creación de valor**
+## **Incentivos basados ​​en el rendimiento: recompensar la creación de valor**
 
 Algunas DAOs implementan una compensación basada en el rendimiento, donde los colaboradores obtienen recompensas según KPI, hitos del proyecto o votos de la comunidad.
 
@@ -65,7 +65,7 @@ Algunas DAOs implementan una compensación basada en el rendimiento, donde los c
 
 ---
 
-## **Reparto de Ingresos: Compensación basada en las ganancias**
+## **Reparto de ingresos: compensación basada en las ganancias**
 
 Algunas DAOs compensan a los contribuyentes mediante modelos de reparto de ingresos, donde un porcentaje de las ganancias del protocolo se distribuye entre los participantes activos.
 
@@ -79,7 +79,7 @@ Algunas DAOs compensan a los contribuyentes mediante modelos de reparto de ingre
 
 ---
 
-## **Mejores Prácticas Para la Compensación de los Contribuyentes de la DAO**
+## **Mejores prácticas para la compensación de los contribuyentes de la DAO**
 
 - **Equilibrar la estabilidad y los incentivos**: Combinar salarios estables, recompensas en tokens e incentivos por rendimiento crea un modelo sostenible.
 

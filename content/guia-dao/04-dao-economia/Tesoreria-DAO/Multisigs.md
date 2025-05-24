@@ -1,20 +1,20 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Tesorerías Multisig y Controladas por Contratos Inteligentes'
+title: 'Tesorerías multisig y controladas por contratos inteligentes'
 weight: 62_000
 ---
 
 La seguridad de la tesorería es un aspecto fundamental de la gobernanza de las DAOs, ya que garantiza la protección de los fondos contra el uso indebido, los ataques informáticos o los riesgos de centralización. Dos de las soluciones de gestión de tesorería más utilizadas en las DAOs son:
 
-- **Billeteras Multi-Firma (Multi-Sigs)**: Requieren múltiples aprobaciones antes de ejecutar transacciones.
-- **Tesorerías Controladas por Contratos Inteligentes**: Automatizan la gestión de fondos según las reglas de gobernanza.
+- **Billeteras multifirma (multisigs)**: Requieren múltiples aprobaciones antes de ejecutar transacciones.
+- **Tesorerías controladas por contratos inteligentes**: Automatizan la gestión de fondos según las reglas de gobernanza.
 
 ---
 
-## **Billeteras Multisig: Un Enfoque Seguro y Colaborativo**
+## **Billeteras multisig: un enfoque seguro y colaborativo**
 
-### **¿Qué es una billetera Multisig?**
+### **¿Qué es una billetera multisig?**
 Una multisig requiere múltiples aprobaciones antes de ejecutar una transacción. En lugar de que una sola persona controle los fondos, un grupo de firmantes aprueba las transacciones colectivamente.
 
 - **Ejemplo:** Un multi-sig 5/9 significa que, de los 9 firmantes designados, al menos 5 deben aprobar una transacción antes de su ejecución.
@@ -42,14 +42,14 @@ Una multisig requiere múltiples aprobaciones antes de ejecutar una transacción
 
 ---
 
-## **Tesorerías Controladas por Contratos Inteligentes: Automatización de las Finanzas de las DAOs**
+## **Tesorerías controladas por contratos inteligentes: automatización de las finanzas de las DAOs**
 
-### **¿Qué es una Tesorería Controlada por Contratos Inteligentes?**
+### **¿Qué es una tesorería controlada por contratos inteligentes?**
 Una tesorería controlada por contratos inteligentes ejecuta transacciones automáticamente según reglas predefinidas, sin intervención humana.
 
 - **Ejemplo:** Una DAO puede crear un contrato de adquisición de derechos que libera fondos a los contribuyentes con el tiempo, evitando el uso indebido.
 
-### **Beneficios de las Tesorerías Controladas por Contratos Inteligentes**
+### **Beneficios de las tesorerías controladas por contratos inteligentes**
 - **Ejecución totalmente sin requisitos de confianza**: Las reglas de gobernanza aplican directamente las políticas de gasto.
 - **Distribución programable de fondos**: Automatiza subvenciones, salarios y pagos.
 - **Elimina errores humanos y retrasos**: No requiere aprobaciones manuales para transacciones rutinarias.
@@ -72,15 +72,15 @@ Una tesorería controlada por contratos inteligentes ejecuta transacciones autom
 
 ---
 
-## **Combinación de Billeteras Multisig y Contratos Inteligentes para Máxima Seguridad**
+## **Combinación de billeteras multisig y contratos inteligentes para máxima seguridad**
 
 Un enfoque híbrido que aprovecha tanto los billeteras multi-firma como los contratos inteligentes puede ofrecer el mejor equilibrio entre seguridad, flexibilidad y automatización.
 
-| **Enfoque** | **Caso de Uso** | **Ventajas** | **Desventajas** |
+| **Enfoque** | **Caso de uso** | **Ventajas** | **Desventajas** |
 |-------------|------------|---------|---------|
-| **Solo Multisig** | Gestión manual de tesorería | Alta seguridad, adaptable | Requiere ejecución manual |
-| **Solo Contratos Inteligentes** | Tesorería totalmente automatizada | Ejecución sin requisitos de confianza | Menor flexibilidad, posibles riesgos para los contratos inteligentes |
-| **Híbrido (Multisig + Contratos Inteligentes)** | Automatización controlada por la gobernanza | Combina seguridad y automatización | Configuración más compleja |
+| **Solo multisig** | Gestión manual de tesorería | Alta seguridad, adaptable | Requiere ejecución manual |
+| **Solo contratos inteligentes** | Tesorería totalmente automatizada | Ejecución sin requisitos de confianza | Menor flexibilidad, posibles riesgos para los contratos inteligentes |
+| **Híbrido (multisig + contratos inteligentes)** | Automatización controlada por la gobernanza | Combina seguridad y automatización | Configuración más compleja |
 
 - **Ejemplo de modelo híbrido:**
   - Usar una billetera multifirma para aprobar actualizaciones de los contratos inteligentes de tesorería.
@@ -89,7 +89,7 @@ Un enfoque híbrido que aprovecha tanto los billeteras multi-firma como los cont
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 La elección del sistema de gestión de tesorería adecuado depende del tamaño de una DAO, su tolerancia al riesgo y su modelo de gobernanza.
 

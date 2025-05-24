@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Mecanismos de Distribución de Tokens'
+title: 'Mecanismos de distribución de tokens'
 weight: 67_000
 ---
 
@@ -9,7 +9,7 @@ Distribuir tokens de gobernanza de forma eficaz es crucial para garantizar el tr
 
 ---
 
-## **Lanzamiento Justo: Acceso Igualitario para Todos los Participantes**
+## **Lanzamiento justo: acceso igualitario para todos los participantes**
 
 Un lanzamiento justo es un método de distribución de tokens en el que ninguna entidad (equipo, inversores o miembros internos) obtiene acceso preferencial. Los tokens están disponibles para todos al mismo tiempo, generalmente mediante minería, staking o venta pública.
 
@@ -23,7 +23,7 @@ Un lanzamiento justo es un método de distribución de tokens en el que ninguna 
 
 ---
 
-## **Airdrops: Recompensando a los Primeros Usuarios e Impulsando la Adopción**
+## **Airdrops: recompensando a los primeros usuarios e impulsando la adopción**
 
 Los airdrops consisten en distribuir tokens gratuitos a ciertos usuarios según criterios específicos, como el uso temprano del protocolo o la participación de la comunidad.
 
@@ -37,7 +37,7 @@ Los airdrops consisten en distribuir tokens gratuitos a ciertos usuarios según 
 
 ---
 
-## **Minería de Liquidez y Programas de Incentivos**
+## **Minería de liquidez y programas de incentivos**
 
 La minería de liquidez recompensa a los usuarios que aportan liquidez a un protocolo con tokens de gobernanza. Otros programas de incentivos pueden incluir recompensas por staking, programas de referidos o incentivos de yield farming.
 
@@ -51,7 +51,7 @@ La minería de liquidez recompensa a los usuarios que aportan liquidez a un prot
 
 ---
 
-## **Preventas y Asignaciones Privadas: Financiamiento del Desarrollo**
+## **Preventas y asignaciones privadas: financiamiento del desarrollo**
 
 Algunas DAOs asignan una parte de sus tokens a inversores iniciales, contribuyentes principales y socios estratégicos para financiar el desarrollo.
 
@@ -65,7 +65,7 @@ Algunas DAOs asignan una parte de sus tokens a inversores iniciales, contribuyen
 
 ---
 
-## **Distribución Retroactiva: Reconocimiento de Contribuciones Pasadas**
+## **Distribución retroactiva: reconocimiento de contribuciones pasadas**
 
 Las distribuciones retroactivas de tokens recompensan a los usuarios según su participación previa, lo que garantiza que quienes contribuyeron antes de la existencia de los tokens sean reconocidos.
 
@@ -79,7 +79,7 @@ Las distribuciones retroactivas de tokens recompensan a los usuarios según su p
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 - **Equilibrar la descentralización y las necesidades de financiación**: Una combinación de lanzamientos justos, airdrops y asignaciones privadas puede proporcionar descentralización y recursos para el desarrollo.
 

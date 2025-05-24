@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Tipos de Mecanismos de Votación'
+title: 'Tipos de mecanismos de votación'
 weight: 45_000
 ---
 
@@ -9,7 +9,7 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 ---
 
-## **Votación Basada en Tokens**
+## **Votación basada en tokens**
 
 ### **Cómo funciona**
 - Cada token representa un voto (1 token = 1 voto).
@@ -61,9 +61,9 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 ---
 
-## **Voto por Convicción**
+## **Voto por convicción**
 
-### **Cómo Funciona**
+### **Cómo funciona**
 - El poder de voto se acumula con el tiempo según el tiempo que un participante apoya una propuesta.
 - Fomenta el compromiso a largo plazo en lugar de picos repentinos de votación.
 - **Ejemplo de fórmula de convicción:**
@@ -79,14 +79,14 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 - Los nuevos participantes tienen menos poder inmediato. Puede perjudicar a los recién llegados.
 - Podría no ser ideal para decisiones urgentes. Algunas DAOs necesitan ciclos de gobernanza más rápidos.
 
-### **Mejores Casos de Uso**
+### **Mejores casos de uso**
 - Decisiones de asignación de fondos. 
 - DAOs impulsadas por la comunidad con incentivos a largo plazo.
 - Ecosistemas que requieren la formación gradual de consenso (p. ej., Commons Stack).
 
 ---
 
-## **Consenso Holográfico**
+## **Consenso holográfico**
 
 ### **Cómo funciona**
 - Se utiliza un mecanismo de mercado predictivo junto con la votación tradicional.
@@ -111,9 +111,9 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 ---
 
-## **Voto Delegado (Democracia Líquida)**
+## **Voto delegado (democracia líquida)**
 
-### **Cómo Funciona**
+### **Cómo funciona**
 - Los participantes delegan su poder de voto a representantes de confianza.
 - Los delegados pueden votar directamente o delegar la delegación.
 - Los poseedores de tokens pueden revocar o cambiar la delegación en cualquier momento.
@@ -135,7 +135,7 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 ---
 
-## **Voto por Orden de Preferencia**
+## **Voto por orden de preferencia**
 
 ### **Cómo funciona**
 - Los votantes clasifican múltiples opciones por orden de preferencia.
@@ -143,7 +143,7 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 - **Ejemplo de voto por orden de preferencia**
 
-| Opción candidata | Ronda 1 | Ronda 2 | Ronda 3 | Ronda 4 |
+| **Opción candidata** | **Ronda 1** | **Ronda 2** | **Ronda 3** | **Ronda 4** |
 |------------|------------|---------|---------|---------|
 | Estrategia de rendimiento DeFi | 28% | 30% | 38% | **52%** |
 | Inversión en proyectos NFT | 15% | 15% | ~~X~~ | ~~X~~ |
@@ -168,7 +168,7 @@ La votación es la base de la gobernanza descentralizada, ya que permite a las p
 
 ---
 
-## **Elegir el Mecanismo de Votación Adecuado Para su DAO**
+## **Elegir el mecanismo de votación adecuado para su DAO**
 
 Cada DAO requiere diferentes modelos de votación según su tamaño, necesidades de gobernanza y participación de la comunidad.
 

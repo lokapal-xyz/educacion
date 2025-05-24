@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Tesorería DAO: Introducción'
+title: 'Tesorería DAO: introducción'
 weight: 60_000
 ---
 
@@ -9,13 +9,13 @@ La tesorería de una DAO es uno de los aspectos más cruciales de cualquier orga
 
 Esta sección abarca aspectos:
 
-- **Estrategias de Gestión de Tesorería**
+- **Estrategias de gestión de tesorería**
     Una gestión eficaz de la tesorería es vital para garantizar que los fondos de una DAO se utilicen de forma inteligente. Exploraremos estrategias para gestionar las finanzas de una DAO, desde la elaboración de presupuestos y la inversión hasta el seguimiento de los gastos y la transparencia financiera dentro de la comunidad.
 
-- **Tesorerías Multisig y Controladas por Contratos Inteligentes**
+- **Tesorerías multisig y controladas por contratos inteligentes**
     Las billeteras multi-firma y los contratos inteligentes ofrecen una forma segura y transparente de gestionar los fondos de una DAO. Analizaremos las ventajas de usar estas tecnologías para garantizar que ninguna entidad tenga el control total de la tesorería, así como cómo implementarlas en su DAO.
 
-- **Estrategias de Diversificación para Mitigar Riesgos Financieros**
+- **Estrategias de diversificación para mitigar riesgos financieros**
     La diversificación ayuda a reducir los riesgos financieros al distribuir las inversiones entre diferentes activos o estrategias. Exploraremos diversas tácticas de diversificación que las DAOs pueden utilizar para protegerse de la volatilidad y garantizar la estabilidad a largo plazo de la tesorería.
 
 Al finalizar esta sección, comprenderá claramente cómo gestionar la tesorería de una DAO de manera eficiente, mitigar los riesgos financieros y garantizar que los fondos de la organización estén seguros y alineados con sus objetivos.

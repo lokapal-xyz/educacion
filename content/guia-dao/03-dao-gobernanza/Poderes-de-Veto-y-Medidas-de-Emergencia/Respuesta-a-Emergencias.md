@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Implementación de Mecanismos de Respuesta a Emergencias'
+title: 'Implementación de mecanismos de respuesta a emergencias'
 weight: 57_000
 ---
 
@@ -9,7 +9,7 @@ Los mecanismos de respuesta a emergencias permiten a las DAOs reaccionar rápida
 
 ---
 
-## **La Necesidad de Respuesta a Emergencias en las DAOs**
+## **La necesidad de respuesta a emergencias en las DAOs**
 
 ### **Tipos de escenarios de emergencia**
 
@@ -26,7 +26,7 @@ Los mecanismos de respuesta a emergencias permiten a las DAOs reaccionar rápida
 
 ---
 
-## **Mecanismos Clave de Respuesta a Emergencias**
+## **Principales mecanismos de respuesta a emergencias**
 
 ### **Pausas temporales de la gobernanza**
 - Uso de contratos inteligentes que pausen las operaciones de las DAOs para evitar daños mayores.
@@ -39,8 +39,8 @@ Los mecanismos de respuesta a emergencias permiten a las DAOs reaccionar rápida
 - Riesgo: La dependencia excesiva de un grupo pequeño puede generar problemas de centralización.
 
 ### **Interruptores de seguridad y disyuntores**
-- **Kill Switch (Interruptor de seguridad)**: Permite desactivar funciones específicas de contratos inteligentes en caso de emergencia.
-- **Circuit Breaker (Disyuntor)**: Ralentiza o limita las transacciones grandes para evitar exploits.
+- **Kill switch (interruptor de seguridad)**: Permite desactivar funciones específicas de contratos inteligentes en caso de emergencia.
+- **Circuit breaker (disyuntor)**: Ralentiza o limita las transacciones grandes para evitar exploits.
 - Ejemplo: Una DAO establece un límite de retiro por bloque para evitar el vaciado de la tesorería en caso de un ataque.
 
 ### **Propuestas de gobernanza de emergencia**
@@ -54,24 +54,24 @@ Los mecanismos de respuesta a emergencias permiten a las DAOs reaccionar rápida
 
 ---
 
-## **Garantizando la Rendición de Cuentas y la Supervisión**
+## **Garantizando la rendición de cuentas y la supervisión**
 
-### **Transparencia en las Acciones de Emergencia**
+### **Transparencia en las acciones de emergencia**
 - Todas las acciones de emergencia deben registrarse en la blockchain o mediante registros de gobernanza.
 - Las DAOs pueden implementar informes posteriores a incidentes que expliquen las decisiones de emergencia.
 - Ejemplo: Una DAO proporciona un análisis post-mortem público después de usar un interruptor de seguridad.
 
-### **Controles y Contrapesos**
+### **Controles y contrapesos**
 - La aprobación multinivel para acciones de emergencia reduce el riesgo de abuso.
 - Ejemplo: Una ejecución con límite de tiempo donde las facultades de emergencia requieren la ratificación de la comunidad después de su activación.
 
-### **Supervisión Comunitaria**
+### **Supervisión comunitaria**
 - Las DAOs pueden elegir a los miembros de respuesta a emergencias con límites de mandato definidos.
 - Las auditorías periódicas de los mecanismos de emergencia garantizan que sigan siendo adecuados para su propósito.
 
 ---
 
-## **Diseño de una Estrategia de Emergencia Específica Eara la DAO**
+## **Diseño de una estrategia de emergencia específica para una DAO**
 
 Las DAOs deben adaptar su respuesta de emergencia en función de:
 
@@ -82,6 +82,6 @@ Las DAOs deben adaptar su respuesta de emergencia en función de:
 
 - ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 Los mecanismos de emergencia no deben comprometer la descentralización innecesariamente, pero deben existir para proteger a la DAO de amenazas existenciales. Al diseñar mecanismos de respuesta transparentes, bien auditados y aprobados por la comunidad, las DAOs pueden garantizar tanto la resiliencia como la legitimidad en situaciones de crisis.

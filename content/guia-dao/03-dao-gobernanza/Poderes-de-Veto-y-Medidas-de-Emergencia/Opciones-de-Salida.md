@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Opciones de Salida'
+title: 'Opciones de salida'
 weight: 59_000
 ---
 
@@ -9,7 +9,7 @@ Los miembros de una DAO podrían necesitar una forma estructurada de salir de la
 
 ---
 
-## **¿Por Qué Son Importantes las Opciones de Salida?**
+## **¿Por qué son importantes las opciones de salida?**
 
 Las opciones de salida cumplen varios propósitos clave:
 - **Prevenir la participación forzada**: los miembros tienen una forma de irse si están totalmente en desacuerdo con las decisiones de gobernanza.
@@ -19,9 +19,9 @@ Las opciones de salida cumplen varios propósitos clave:
 
 ---
 
-## **Mecanismos Clave de Salida**
+## **Principales mecanismos de salida**
 
-### **Mecanismos de Rage-Quit**
+### **Mecanismos de rage-quit**
 - Los miembros pueden retirarse con su parte de la tesorería si no están de acuerdo con las decisiones.
 - Generalmente se aplica antes de que se ejecute una propuesta, lo que permite a los miembros disidentes optar por no participar.
 - Ayuda a proteger a los tenedores minoritarios de tokens de ser forzados a tomar decisiones a las que se oponen.
@@ -30,7 +30,7 @@ Las opciones de salida cumplen varios propósitos clave:
 
 ---
 
-### **Forks (Bifurcaciones) de Gobernanza**
+### **Forks (bifurcaciones) de gobernanza**
 - Cuando ocurren divisiones ideológicas importantes, una DAO puede bifurcarse en dos entidades separadas.
 - Los miembros pueden elegir qué versión de la DAO seguir, similar a las bifurcaciones duras de blockchain.
 - Las bifurcaciones permiten que visiones de gobernanza radicalmente diferentes coexistan sin conflicto directo.
@@ -39,7 +39,7 @@ Las opciones de salida cumplen varios propósitos clave:
 
 ---
 
-### **Recompra de Tokens y Subastas de Salida**
+### **Recompra de tokens y subastas de salida**
 - Las DAOs pueden implementar programas de recompra, lo que permite a los miembros vender tokens a la tesorería a una tasa predeterminada.
 - Las subastas de salida permiten a los miembros vender su participación en un mercado abierto, garantizando un precio justo.
 - Previene las ventas de pánico y estabiliza el valor del token durante las salidas masivas.
@@ -48,7 +48,7 @@ Las opciones de salida cumplen varios propósitos clave:
 
 ---
 
-### **Períodos de Adquisición y Bloqueo**
+### **Períodos de adquisición y bloqueo**
 - Para evitar salidas masivas abruptas, las DAOs pueden implementar mecanismos de retiro gradual.
 - La adquisición de derechos garantiza que los contribuyentes se mantengan activos durante un período mínimo antes de reclamar recompensas.
 - Los períodos de bloqueo previenen ataques de gobernanza donde actores maliciosos se unen, votan y se retiran inmediatamente.
@@ -57,7 +57,7 @@ Las opciones de salida cumplen varios propósitos clave:
 
 ---
 
-## **Diseño de una Estrategia de Salida Saludable**
+## **Diseño de una estrategia de salida saludable**
 
 - **Mejores prácticas para los mecanismos de salida:**
   - Garantizar una distribución justa de los activos de tesorería tras la salida.

@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Presentación, Discusión y Refinamiento de Propuestas'
+title: 'Presentación, discusión y refinamiento de propuestas'
 weight: 49_000
 ---
 
@@ -9,13 +9,13 @@ Un proceso de propuesta estructurado es esencial para una gobernanza DAO eficaz.
 
 ---
 
-## **Presentación de Propuestas**
+## **Presentación de propuestas**
 
 Las propuestas suelen ser presentadas por miembros de la DAO, contribuyentes principales o delegados de gobernanza. El proceso de presentación varía según la DAO, pero suele incluir:
 
-- **Plantilla de Propuesta**: un formato estructurado que garantiza la claridad y la integridad.
-- **Criterios de Elegibilidad**: requisitos para quienes pueden presentar propuestas (p. ej., tenencia mínima de tokens, rol de gobernanza).
-- **Plataforma de Presentación**: las plataformas comunes incluyen foros en la cadena, portales de gobernanza y foros de discusión fuera de la cadena.
+- **Plantilla de propuesta**: un formato estructurado que garantiza la claridad y la integridad.
+- **Criterios de elegibilidad**: requisitos para quienes pueden presentar propuestas (p. ej., tenencia mínima de tokens, rol de gobernanza).
+- **Plataforma de presentación**: las plataformas comunes incluyen foros en la cadena, portales de gobernanza y foros de discusión fuera de la cadena.
 
 Una plantilla de propuesta estándar suele incluir:
 
@@ -30,27 +30,27 @@ Las DAOs pueden exigir que las propuestas se sometan a una evaluación inicial p
 
 ---
 
-## **Discusión y Comentarios de la Comunidad**
+## **Discusión y comentarios de la comunidad**
 
 Una vez enviada una propuesta, entra en una fase de discusión donde la comunidad puede debatir sus méritos, ofrecer comentarios y sugerir mejoras.
 
-### **Importancia de la Discusión**
+### **Importancia de la discusión**
 
 - **Aumenta la calidad de la propuesta**: Los comentarios de la comunidad ayudan a refinar las propuestas poco claras o incompletas.
 - **Genera consenso**: Fomenta la alineación temprana, reduciendo la oposición durante la votación.
 - **Identifica consecuencias imprevistas**: Detecta posibles fallas antes de la ejecución.
 
-### **Canales de Discusión Comunes**
+### **Canales de discusión comunes**
 
-- **Foros de Gobernanza**: Plataformas como Discourse, Commonwealth o foros dedicados a las DAOs.
-- **Redes Sociales y Chats**: Discusiones en Discord, Telegram o Twitter.
-- **Convocatorias Comunitarias**: Sesiones en vivo donde los proponentes presentan sus ideas y responden preguntas.
+- **Foros de gobernanza**: Plataformas como Discourse, Commonwealth o foros dedicados a las DAOs.
+- **Redes sociales y chats**: Discusiones en Discord, Telegram o Twitter.
+- **Convocatorias comunitarias**: Sesiones en vivo donde los proponentes presentan sus ideas y responden preguntas.
 
 Las DAOs suelen establecer periodos mínimos de discusión (por ejemplo, de 7 a 14 días) para garantizar una revisión adecuada antes de proceder a la votación.
 
 ---
 
-## **Refinamiento e Iteración de la Propuesta**
+## **Refinamiento e iteración de la propuesta**
 
 Según los comentarios de la comunidad, una propuesta puede someterse a revisiones antes de proceder a una votación formal. El refinamiento puede implicar:
 
@@ -73,7 +73,7 @@ Algunas DAOs requieren un patrocinador de la propuesta (por ejemplo, un miembro 
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 - La presentación de propuestas debe seguir un formato estructurado para garantizar la claridad.
 - El debate comunitario es fundamental para refinar y mejorar las propuestas.

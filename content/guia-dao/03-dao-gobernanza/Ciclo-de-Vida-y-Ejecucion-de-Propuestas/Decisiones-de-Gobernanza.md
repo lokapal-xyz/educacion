@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Automatización y Ejecución de Decisiones de Gobernanza'
+title: 'Automatización y ejecución de decisiones de gobernanza'
 weight: 51_000
 ---
 
@@ -9,7 +9,7 @@ Una gobernanza eficaz requiere no solo mecanismos de votación bien diseñados, 
 
 ---
 
-## **¿Por Qué automatizar la Ejecución de la Gobernanza?**
+## **¿Por qué automatizar la ejecución de la gobernanza?**
 
 La automatización minimiza los riesgos asociados a la intervención manual, como:
 
@@ -22,9 +22,9 @@ Sin automatización, pueden producirse cuellos de botella en la gobernanza. Esto
 
 ---
 
-## **Mecanismos de Automatización en Cadena**
+## **Mecanismos on-chain de automatización**
 
-### **Ejecución Basada en Contratos Inteligentes**
+### **Ejecución basada en contratos inteligentes**
 - Las propuestas aprobadas se ejecutan automáticamente mediante contratos inteligentes.
 - Ejemplo: Una propuesta de tesorería para distribuir fondos se ejecuta inmediatamente después de ser votada.
 - Beneficios Clave: Ejecución inmutable y transparente, sin requisitos de confianza.
@@ -36,34 +36,34 @@ Sin automatización, pueden producirse cuellos de botella en la gobernanza. Esto
   - Una vez aprobada, el contrato ejecuta acciones predefinidas (p. ej., transferencias de fondos, actualizaciones de contrato).
   - La ejecución es transparente y se registra en la cadena.
 
-### **Timelocks para Seguridad**
+### **Timelocks para seguridad**
 - Los contratos con timelocks introducen un periodo de gracia antes de la ejecución, lo que permite a la comunidad reaccionar si es necesario.
 - Se utilizan para acciones críticas de gobernanza (p. ej., actualizaciones de protocolo, movimientos de tesorería).
 - Ayuda a prevenir ataques de gobernanza donde propuestas maliciosas se aprueban inesperadamente.
 
 ---
 
-## **Aplicación de Decisiones de Gobernanza**
+## **Aplicación de decisiones de gobernanza**
 
 Incluso con la automatización, las DAOs deben garantizar que las decisiones off-chain e híbridas se apliquen eficazmente.
 
-### **Aplicación Social y Legal**
+### **Aplicación social y legal**
 - No todas las acciones de gobernanza pueden aplicarse mediante contratos inteligentes (p. ej., decisiones de contratación, asociaciones).
 - Las DAO utilizan mecanismos basados ​​en la reputación y acuerdos legales para exigir responsabilidades a los actores.
 - Ejemplo: Una decisión de gobernanza para eliminar a un colaborador principal debe aplicarse mediante acuerdos off-chain o permisos controlados por multifirma.
 
-### **Aplicación de Multifirma**
+### **Aplicación de multifirma**
 - Algunas DAOs utilizan billeteras multifirma (p. ej., Gnosis Safe) para ejecutar propuestas manualmente, pero de forma descentralizada.
 - Las multifirmas requieren un umbral de firmantes para aprobar las transacciones, lo que garantiza el control colectivo sobre la ejecución.
 - Contrapartida: Proporciona seguridad, pero depende de firmantes de confianza.
 
-### **Intervención de Emergencia y Mecanismos de Seguridad**
+### **Intervención de emergencia y mecanismos de seguridad**
 - Algunas DAOs implementan funciones de pausa de emergencia para evitar ejecuciones maliciosas o involuntarias.
 - Ejemplo: Un consejo de seguridad puede pausar temporalmente la ejecución si se descubre una vulnerabilidad en una propuesta de gobernanza.
 
 --
 
-## **Equilibrio Entre Automatización y Seguridad**
+## **Equilibrio entre automatización y seguridad**
 
 - La **ejecución totalmente automatizada** garantiza una gobernanza sin requisitos de confianza, pero presenta riesgos si se cuelan errores o propuestas maliciosas.
 - Los **mecanismos de supervisión humana** pueden proporcionar seguridad, pero presentan riesgos de centralización.
@@ -72,7 +72,7 @@ Un **enfoque híbrido** que combina automatización, control social y medidas de
 
 --
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 - La **automatización de contratos inteligentes** reduce la intervención manual y garantiza una ejecución eficiente de la gobernanza.
 - Los **bloqueos de tiempo y los mecanismos de emergencia** ayudan a equilibrar la automatización con la seguridad.

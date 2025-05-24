@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Poderes de Veto y Medidas de Emergencia'
+title: 'Poderes de veto y medidas de emergencia'
 weight: 12_000
 ---
 

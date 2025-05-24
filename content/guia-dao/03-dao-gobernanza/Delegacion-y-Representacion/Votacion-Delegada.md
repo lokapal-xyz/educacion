@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Modelos de Votación Delegada'
+title: 'Modelos de votación delegada'
 weight: 53_000
 ---
 
@@ -9,7 +9,7 @@ La gobernanza descentralizada suele presentar dificultades debido a la baja part
 
 ---
 
-## **¿Por Qué Usar el Voto Delegado?**
+## **¿Por qué usar el voto delegado?**
 
 Si bien los mecanismos de voto directo garantizan la participación de todos los miembros, también pueden generar dificultades de participación:
 
@@ -21,33 +21,33 @@ La delegación permite a las DAOs aumentar la participación, aprovechar la expe
 
 ---
 
-## **Tipos de Modelos de Voto Delegado**
+## **Tipos de modelos de voto delegado**
 
-### **Democracia Líquida (Delegación Flexible)**
+### **Democracia líquida (delegación flexible)**
 - Los participantes pueden delegar su poder de voto a un representante de confianza (delegado).
 - Los delegados pueden delegar sus votos, creando cadenas fluidas de delegación.
 - Delegación Reversible: Los participantes pueden revocar la delegación en cualquier momento y votar directamente.
-- **Ejemplo de Uso:** DAOs que buscan un modelo de gobernanza dinámico y adaptable sin representantes fijos.
+- **Ejemplo de uso:** DAOs que buscan un modelo de gobernanza dinámico y adaptable sin representantes fijos.
 
-### **Democracia Representativa (Delegación Fija)**
+### **Democracia representativa (delegación fija)**
 - Los miembros eligen representantes que votan en asuntos de gobernanza en su nombre.
 - Normalmente estructurada con límites de mandato o elecciones regulares.
 - Más estructurada que la democracia líquida, lo que reduce la complejidad de la delegación.
-- **Ejemplo de Uso:** DAOs con consejos o juntas directivas que gestionan la toma de decisiones en nombre de la comunidad en general.
+- **Ejemplo de uso:** DAOs con consejos o juntas directivas que gestionan la toma de decisiones en nombre de la comunidad en general.
 
-### **Delegación Cuadrática**
+### **Delegación cuadrática**
 - Introduce la ponderación cuadrática, donde el impacto de la delegación no es lineal (p. ej., duplicar el número de votos delegados no duplica el poder de voto).
 - Ayuda a reducir la influencia plutocrática al limitar el dominio de las grandes partes interesadas.
-- **Ejemplo de Uso:** DAOs que buscan equilibrar el trato justo y la influencia, evitando la concentración del poder de voto.
+- **Ejemplo de uso:** DAOs que buscan equilibrar el trato justo y la influencia, evitando la concentración del poder de voto.
 
-### **Delegación por Asuntos**
+### **Delegación por asuntos**
 - En lugar de la delegación general, los miembros pueden delegar votos sobre temas específicos (p. ej., seguridad, tesorería, actualizaciones de protocolo).
 - Permite a los participantes de la gobernanza confiar en expertos en la materia sin otorgarles control total.
-- **Ejemplo de Uso:** Una DAO donde diferentes grupos de trabajo o expertos en el dominio se especializan en áreas clave de gobernanza.
+- **Ejemplo de uso:** Una DAO donde diferentes grupos de trabajo o expertos en el dominio se especializan en áreas clave de gobernanza.
 
 ---
 
-## **Impacto en la Gobernanza de la DAO**
+## **Impacto en la gobernanza de la DAO**
 
 El voto delegado moldea fuertemente los resultados de la gobernanza. Las implicaciones clave incluyen:
 
@@ -60,7 +60,7 @@ Las DAOs deben diseñar cuidadosamente los mecanismos de delegación para equili
 
 ---
 
-## **Diseño de un Sistema de Votación Delegada**
+## **Diseño de un sistema de votación delegada**
 
 Al implementar la votación delegada, las DAOs deben considerar:
 

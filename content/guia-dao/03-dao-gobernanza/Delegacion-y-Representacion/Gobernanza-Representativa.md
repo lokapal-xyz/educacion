@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Estructuras de Gobernanza Representativa'
+title: 'Estructuras de gobernanza representativa'
 weight: 54_000
 ---
 
@@ -9,7 +9,7 @@ Las DAOs suelen enfrentar desafíos de gobernanza relacionados con la escalabili
 
 ---
 
-## **¿Por Qué Usar la Gobernanza Representativa?**
+## **¿Por qué usar la gobernanza representativa?**
 
 Si bien la democracia directa permite que todos los miembros voten en cada decisión, puede resultar poco práctica a medida que una DAO crece. La gobernanza representativa ofrece:
 
@@ -22,24 +22,24 @@ Sin embargo, la delegación del poder de decisión requiere sólidas medidas de 
 
 ---
 
-## **Tipos de Modelos de Gobernanza Representativa**
+## **Tipos de modelos de gobernanza representativa**
 
-### **Gobernanza Basada en el Consejo**
+### **Gobernanza basada en el consejo**
 - Un pequeño grupo de miembros electos o designados gobierna en nombre de la DAO en su conjunto.
 - Los miembros del consejo tienen mandatos fijos y responsabilidades claras (p. ej., gestión de tesorería, evaluación de propuestas).
 - **Ventajas:** Aumenta la eficiencia y la velocidad de la toma de decisiones.
 - **Desventajas:** Riesgo de concentración de poder si la rendición de cuentas es deficiente.
-- **Ejemplo de Uso:** DAOs que gestionan actualizaciones de protocolo, asignación de fondos o cumplimiento legal.
+- **Ejemplo de uso:** DAOs que gestionan actualizaciones de protocolo, asignación de fondos o cumplimiento legal.
 
 
-### **Gobernanza Multicameral (Estructuras Bicamerales o Multicapa)**
+### **Gobernanza multicameral (estructuras bicamerales o multicapa)**
 - La gobernanza se divide en varios grupos con roles diferenciados.
 - Una cámara (p. ej., titulares de tokens) propone iniciativas, mientras que otra (p. ej., representantes electos) las aprueba o perfecciona.
 - **Ventajas:** Reduce el riesgo de decisiones apresuradas o desinformadas. 
 - **Desventajas:** Puede generar complejidad burocrática.
 - **Ejemplo de uso:** DAOs con comités de tesorería, consejos de seguridad o juntas de revisión de propuestas.
 
-### **Modelo de Gremio o Grupo de Trabajo**
+### **Modelo de gremio o grupo de trabajo**
 - La toma de decisiones se distribuye entre subgrupos especializados (p. ej., gremio de tesorería, gremio de seguridad, gremio de gobernanza).
 - Los miembros de cada gremio se centran en áreas específicas de especialización.
 - **Ventajas:** Fomenta la especialización y la resolución eficiente de problemas.
@@ -48,7 +48,7 @@ Sin embargo, la delegación del poder de decisión requiere sólidas medidas de 
 
 ---
 
-## **Equilibrio Entre Poder y Rendición de Cuentas**
+## **Equilibrio entre poder y rendición de cuentas**
 
 Para evitar la centralización del poder, las DAOs que implementan la gobernanza representativa deben garantizar:
 
@@ -60,7 +60,7 @@ Para evitar la centralización del poder, las DAOs que implementan la gobernanza
 
 ---
 
-## **Desafíos Comunes y Estrategias de Mitigación**
+## **Desafíos comunes y estrategias de mitigación**
 
 | **Desafío** | **Estrategia de mitigación** |
 |--------------|----------------------|

@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Tokenómica y Utilidad'
+title: 'Tokenómica y utilidad'
 weight: 14_000
 ---
 
