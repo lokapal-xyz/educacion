@@ -15,20 +15,20 @@ Las DAOs son nuevas y cambian constantemente. Explorar múltiples perspectivas n
 
 ---
 
-## Aspectos Clave de las Perspectivas de las DAOs
+## Aspectos clave de las perspectivas de las DAOs
 
-- **Historia y Evolución:**
+- **Historia y evolución:**
   * Analizar cómo surgieron las DAOs y cómo han cambiado.
   * Comprender los eventos clave que las moldearon.
   * Aprender lecciones importantes para el futuro.
 
-- **Investigación y Análisis de Datos:**
+- **Investigación y análisis de datos:**
   * Leer artículos e informes de expertos.
   * Aprender sobre las mejores prácticas de quienes trabajan con DAOs.
   * Usar datos para medir el rendimiento de una DAO.
   * Analizar aspectos como el número de votantes y la gestión de la tesorería.
 
-- **Tendencias Emergentes y Direcciones futuras:**
+- **Tendencias emergentes y direcciones futuras:**
   * Analizar nuevas ideas y tecnologías en el ámbito de las DAOs. 
   * Reflexionando sobre cómo las DAOs podrían cambiar en el futuro.
   * Participación activa para mejorar la integración de las DAOs con la sociedad.

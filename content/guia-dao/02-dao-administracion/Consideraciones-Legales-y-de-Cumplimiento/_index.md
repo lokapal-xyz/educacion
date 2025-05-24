@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Consideraciones Legales y de Cumplimiento'
+title: 'Consideraciones legales y de cumplimiento'
 weight: 8_000
 ---
 

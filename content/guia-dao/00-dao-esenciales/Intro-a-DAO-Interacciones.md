@@ -15,23 +15,23 @@ weight: 8_000
 
 ---
 
-## Aspectos clave de las interacciones de las DAO
+## Aspectos clave de las interacciones de las DAOs
 
-* **Interacciones On-chain:**
+* **Interacciones on-chain:**
   * Son acciones que ocurren directamente en la blockchain.
   * **Ejecuciones de contratos inteligentes:** El código de la DAO cumpliendo su función.
   * **Propuestas de gobernanza:** Votar y realizar cambios en la blockchain.
   * **Transacciones de tesorería:** Mover fondos dentro de la DAO.
   * Este es el núcleo del funcionamiento de la DAO.
 
-* **Interacciones Off-chain:**
+* **Interacciones off-chain:**
   * Son acciones que ocurren fuera de la blockchain.
   * **Discusiones de la comunidad:** Compartir ideas en foros o grupos de chat. 
   * **Gobernanza off-chain:** Uso de herramientas externas a la blockchain para la toma de decisiones.
   * **Integraciones con sistemas tradicionales:** Conectando a la DAO a servicios o sitios web habituales.
   * Así es como la DAO interactúa con el mundo exterior.
 
-* **Actualizaciones e Interoperabilidad:**
+* **Actualizaciones e interoperabilidad:**
   * Las DAOs necesitan evolucionar y crecer.
   * **Actualizaciones:** Mejorando el código de la DAO.
   * **Interoperabilidad:** Funcionamiento de la DAO con diferentes blockchains y herramientas.

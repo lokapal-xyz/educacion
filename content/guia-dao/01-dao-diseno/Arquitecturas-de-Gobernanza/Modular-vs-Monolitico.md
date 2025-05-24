@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Diseño de Contratos Modulares vs. Monolíticos'
+title: 'Diseño de contratos modulares vs. monolíticos'
 weight: 15_000
 ---
 
@@ -9,9 +9,9 @@ Al diseñar la arquitectura de contratos inteligentes de una DAO, una de las dec
 
 ---
 
-## Entendiendo los Dos Enfoques
+## Entendiendo los dos enfoques
 
-### **Diseño Monolítico de Contratos**
+### **Diseño monolítico de contratos**
 Una estructura monolítica de contratos integra todas las funcionalidades principales de una DAO en un único contrato inteligente o en un conjunto de contratos estrechamente acoplados.
 
 #### **Beneficios:**
@@ -26,7 +26,7 @@ Una estructura monolítica de contratos integra todas las funcionalidades princi
 
 ---
 
-### **Diseño de Contrato Modular**
+### **Diseño de contrato modular**
 Un enfoque modular divide la lógica de gobernanza en múltiples contratos inteligentes independientes o semi-independientes que interactúan entre sí. Estos módulos pueden incluir contratos centrales, capas de control de acceso, mecanismos de votación, gestión de tesorería y extensiones de gobernanza.
 
 #### **Beneficios:**
@@ -43,21 +43,21 @@ Un enfoque modular divide la lógica de gobernanza en múltiples contratos intel
 
 ---
 
-## Eligiendo el Enfoque Adecuado
+## Eligiendo el enfoque adecuado
 
-### Cuándo Elegir un Diseño Monolítico:
+### Cuándo elegir un diseño monolítico:
 - Si la DAO tiene necesidades de gobernanza simples que no requieren cambios frecuentes.
 - Si minimizar las tarifas de gas es una prioridad.
 - Si la organización prefiere una estructura altamente determinista y fácil de auditar.
 
-### Cuándo Elegir un Diseño Modular:
+### Cuándo elegir un diseño modular:
 - Si la DAO prevé que los mecanismos de gobernanza evolucionen con el tiempo.
 - Si el aislamiento de seguridad es una prioridad para reducir el riesgo sistémico.
 - Si la DAO necesita componibilidad con otros marcos de gobernanza o integraciones externas.
 
 ---
 
-## Enfoques Híbridos
+## Enfoques híbridos
 Muchas DAOs modernas utilizan un enfoque híbrido, donde las funcionalidades centrales permanecen monolíticas para simplificar, mientras que las extensiones de gobernanza y las funciones avanzadas siguen una estructura modular. Algunos ejemplos incluyen:
 - Mantener la gestión de votación y tesorería separada para facilitar las actualizaciones.
 - Usar contratos proxy para facilitar la actualización, manteniendo un núcleo simple.
@@ -65,5 +65,5 @@ Muchas DAOs modernas utilizan un enfoque híbrido, donde las funcionalidades cen
 
 ---
 
-## Reflexiones Finales
+## Reflexiones finales
 La elección entre un diseño de contrato modular y monolítico depende de las necesidades de gobernanza de una DAO, su tolerancia al riesgo y su adaptabilidad a largo plazo. Mientras que las estructuras monolíticas ofrecen simplicidad y menores costos, los diseños modulares brindan flexibilidad y compartimentación de la seguridad. En la práctica, muchas DAOs consideran que un enfoque híbrido funciona mejor, ya que equilibra las fortalezas de ambos modelos.

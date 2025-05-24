@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Librerías de Utilidades'
+title: 'Librerías de utilidades'
 weight: 21_000
 ---
 
@@ -9,9 +9,9 @@ Al crear una DAO, aprovechar las librerías de utilidades puede reducir signific
 
 ---
 
-## **¿Por Qué Usar Librerías de Utilidades?**
+## **¿Por qué usar librerías de utilidades?**
 
-### **Ventajas de los Componentes Prediseñados**
+### **Ventajas de los componentes prediseñados**
 - **Seguridad**: Librerías como OpenZeppelin se auditan rigurosamente, lo que reduce el riesgo de vulnerabilidades.
 - **Eficiencia**: Los desarrolladores pueden implementar funciones de gobernanza rápidamente sin tener que reinventar la lógica central.
 - **Interoperabilidad**: Las librerías estandarizadas garantizan la compatibilidad con otros marcos y herramientas de gobernanza.
@@ -21,18 +21,18 @@ Sin embargo, confiar en las librerías de utilidades implica aceptar sus limitac
 
 ---
 
-## **librerías de Utilidades Clave para DAOs**
+## **librerías de utilidades clave para DAOs**
 
-### **Contratos de Gobernanza de OpenZeppelin**
+### **Contratos de gobernanza de OpenZeppelin**
 El contrato de Gobernador de OpenZeppelin proporciona un marco seguro y modular para la gobernanza basada en tokens. Admite diversas configuraciones de gobernanza, incluyendo:
 
 - **Mecanismos de creación y votación de propuestas** (p. ej., mayoría simple, basado en quorum).
 - **Delegación del poder de voto basada en tokens** (compatible con tokens ERC20/ERC721/ERC1155).
 - **Bloqueos temporales para la ejecución de propuestas** (que previenen acciones maliciosas inmediatas).
 
-**Características Adicionales:**
+**Características adicionales:**
 
-- **Extensiones del Gobernador**: Compatibilidad con votación off-chain (Snapshot), ajustes de quorum y votación optimizada por gas.
+- **Extensiones Governor**: Compatibilidad con votación off-chain (Snapshot), ajustes de quorum y votación optimizada por gas.
 - **Governor Timelock**: Impide la ejecución inmediata de propuestas, dando a los miembros tiempo para reaccionar.
 
 *Caso de uso:* Muchas DAOs, como Uniswap y Compound, se basan en modelos basados ​​en Governor para la gobernanza on-chain.
@@ -49,7 +49,7 @@ El control de acceso es fundamental para gestionar permisos y restringir accione
 
 ---
 
-### **Contratos Actualizables de OpenZeppelin**
+### **Contratos actualizables de OpenZeppelin**
 Muchas DAOs requieren actualizaciones de contratos con el tiempo. OpenZeppelin proporciona patrones de actualización basados ​​en proxies, lo que permite a las DAOs:
 
 - Implementar proxies mínimos para la clonación de contratos con un consumo eficiente de gas.
@@ -71,7 +71,7 @@ Snapshot es un mecanismo de votación off-chain ampliamente utilizado en DAOs qu
 
 ---
 
-### **OZ Defender** (Automatización de Seguridad Opcional)
+### **OZ Defender (automatización de seguridad opcional)**
 Para DAOs que requieren medidas de seguridad automatizadas, OpenZeppelin Defender ofrece:
 
 - **Ejecución automatizada de propuestas** mediante controles multifirma o timelock.
@@ -82,7 +82,7 @@ Para DAOs que requieren medidas de seguridad automatizadas, OpenZeppelin Defende
 
 ---
 
-## **Elegir las Librerías de Utilidades Adecuadas Para su DAO**
+## **Elegir las librerías de utilidades adecuadas para su DAO**
 
 | **Requisitos de la DAO** | **Librería recomendada** |
 |--------------------|----------------------|
@@ -94,6 +94,6 @@ Para DAOs que requieren medidas de seguridad automatizadas, OpenZeppelin Defende
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 Las librerías de utilidades optimizan el desarrollo de las DAOs, facilitando la implementación segura y eficiente de mecanismos de gobernanza. Al aprovechar estas librerías, las DAOs pueden centrarse en la innovación en la gobernanza en lugar de reinventar componentes fundamentales.

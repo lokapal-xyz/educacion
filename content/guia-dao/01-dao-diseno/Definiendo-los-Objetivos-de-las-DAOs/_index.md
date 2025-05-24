@@ -1,7 +1,7 @@
 ---
 date: '2025-03-01T16:55:34-03:00'
 draft: false
-title: 'Definiendo los Objetivos de las DAOs'
+title: 'Definiendo los objetivos de las DAOs'
 weight: 1_000
 ---
 

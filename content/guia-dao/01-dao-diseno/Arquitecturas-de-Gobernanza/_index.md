@@ -1,7 +1,7 @@
 ---
 date: '2025-03-01T16:55:34-03:00'
 draft: false
-title: 'Arquitecturas de Gobernanza'
+title: 'Arquitecturas de gobernanza'
 weight: 2_000
 ---
 

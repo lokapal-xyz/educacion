@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Gestión de Cuentas y Claves'
+title: 'Gestión de cuentas y claves'
 weight: 6_000
 ---
 

@@ -15,14 +15,14 @@ Piensa en el diseño de una DAO como el plano de un edificio. Un buen plano hace
 
 ---
 
-## Aspectos Clave del Diseño de una DAO
+## Aspectos clave del diseño de una DAO
 
-* **Definiendo los Objetivos de las DAOs:**
+* **Definiendo los objetivos de las DAOs:**
   * ¿Cuál es el objetivo principal de la DAO? (p. ej., financiar proyectos, gestionar software, invertir).
   * ¿Qué problemas resuelve?
   * Tener objetivos claros ayuda a todos a mantenerse enfocados.
 
-* **Arquitecturas de Gobernanza:**
+* **Arquitecturas de gobernanza:**
   * ¿Cómo se toman las decisiones? (p. ej., votar con tokens).
   * ¿Quién vota?
   * ¿Pueden las personas delegar sus votos?

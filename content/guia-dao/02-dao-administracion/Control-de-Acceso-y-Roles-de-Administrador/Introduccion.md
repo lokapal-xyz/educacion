@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Control de Acceso y Roles de Administrador: Introducción'
+title: 'Control de acceso y roles de administrador: introducción'
 weight: 28_000
 ---
 
@@ -9,13 +9,13 @@ Un control de acceso eficaz y la gestión de roles son fundamentales para garant
 
 Esta sección explora los siguientes aspectos:
 
-- **Asignación, Gestión y Revocación de Permisos Administrativos**
+- **Asignación, gestión y revocación de permisos administrativos**
     Abordaremos las mejores prácticas para asignar roles, gestionar permisos administrativos y revocar el acceso cuando sea necesario. Garantizar que solo los participantes de confianza tengan control administrativo es fundamental para la integridad y la seguridad de la DAO.
 
-- **Estructuras de Gobernanza Multisig**
+- **Estructuras de gobernanza multisig**
     Las billeteras multifirma son un método popular para distribuir el poder de decisión y proteger las acciones administrativas. Esta sección examinará cómo se puede implementar la gobernanza multifirma para garantizar que múltiples partes participen en decisiones importantes, reduciendo el riesgo de centralización.
 
-- **Gestión de Roles Jerárquica vs. Horizontal**
+- **Gestión de roles jerárquica vs. horizontal**
     En la gobernanza de una DAO, los roles pueden estructurarse jerárquicamente o de forma horizontal. Exploraremos las ventajas y los desafíos de cada enfoque, y cómo diseñar un sistema de gestión de roles que se alinee con los objetivos y la filosofía de gobernanza de la DAO.
 
 Al finalizar esta sección, comprenderá claramente cómo diseñar e implementar estructuras efectivas de control de acceso y roles de administrador para su DAO, equilibrando la seguridad, la flexibilidad y la descentralización.

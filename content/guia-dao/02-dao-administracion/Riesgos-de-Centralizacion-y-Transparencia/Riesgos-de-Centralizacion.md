@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Identificación de Riesgos de Centralización en la Gobernanza'
+title: 'Identificación de riesgos de centralización en la gobernanza'
 weight: 37_000
 ---
 
@@ -9,34 +9,34 @@ La gobernanza descentralizada busca distribuir el poder de forma justa, pero los
 
 ---
 
-## **Formas Comunes de Centralización en las DAOs**
+## **Formas comunes de centralización en las DAOs**
 
-### **Concentración del Poder de Voto**
+### **Concentración del poder de voto**
 - **Dominio de las ballenas:** Un pequeño número de poseedores de tokens controla la gobernanza.
 - **Baja participación electoral:** La apatía lleva a que las decisiones las tomen unos pocos miembros activos.
 - **Trampas de delegación:** El poder se acumula en delegados populares sin supervisión.
 
-### **Control Administrativo**
+### **Control administrativo**
 - **Cuellos de botella de las multifirmas:** Un pequeño grupo tiene poder de veto sobre las decisiones de tesorería y gobernanza.
 - **Roles de administración opacos:** Las estructuras de autoridad poco claras generan dependencia de personas con información privilegiada.
 - **Roles privilegiados codificados:** Los permisos de los contratos inteligentes favorecen a ciertos actores.
 
-### **Dependencia de Desarrollo e Infraestructura**
+### **Dependencia de desarrollo e infraestructura**
 - **Dependencia de un solo equipo:** Un equipo mantiene y actualiza los contratos inteligentes principales.
 - **Herramientas propietarias:** La infraestructura crítica de gobernanza está controlada por entidades centralizadas.
 - **Dominio de la gobernanza off-chain:** Se toman demasiadas decisiones fuera de la cadena sin su cumplimiento dentro de la cadena.
 
 ---
 
-## **Medición de los Riesgos de la Centralización**
+## **Medición de los riesgos de la centralización**
 
-### **Indicadores Clave**
-- **Informes de Distribución de Tokens**: Analizan cómo se distribuye el poder de voto.
-- **Análisis de Participantes Multisig**: Revisan la diversidad y redundancia de firmantes.
-- **Informes de Toma de Decisiones**: Monitorean la participación en la votación y la influencia en las propuestas.
-- **Auditorías de Contratos Inteligentes**: Identifican funciones privilegiadas y actualizan permisos.
+### **Indicadores clave**
+- **Informes de distribución de tokens**: Analizan cómo se distribuye el poder de voto.
+- **Análisis de participantes multisig**: Revisan la diversidad y redundancia de firmantes.
+- **Informes de toma de decisiones**: Monitorean la participación en la votación y la influencia en las propuestas.
+- **Auditorías de contratos inteligentes**: Identifican funciones privilegiadas y actualizan permisos.
 
-### **Señales de Alerta**
+### **Señales de alerta**
 - Algunas billeteras poseen más del 50% del poder de voto.
 - Tesorería controlada por una multisig pequeña y cerrada. 
 - Roles de administrador con poder irrestricto sobre los parámetros de gobernanza.
@@ -44,23 +44,23 @@ La gobernanza descentralizada busca distribuir el poder de forma justa, pero los
 
 ---
 
-## **Impacto de la Centralización en la Salud de las DAOs**
+## **Impacto de la centralización en la salud de las DAOs**
 
-### **Pérdida de Credibilidad**
+### **Pérdida de credibilidad**
 - Una DAO que se comporta como una empresa con control vertical pierde legitimidad.
 - El control centralizado puede provocar la desconexión de la comunidad y la apatía de los votantes.
 
-### **Riesgos de Seguridad**
+### **Riesgos de seguridad**
 - Las vulnerabilidades de las claves de administrador pueden poner en peligro la integridad de la gobernanza.
 - Las multifirmas centralizadas se convierten en un punto único de fallo.
 
-### **Censura y Manipulación de la Gobernanza**
+### **Censura y manipulación de la gobernanza**
 - Los grandes tenedores pueden bloquear o forzar propuestas.
 - Los administradores pueden anular las votaciones o retrasar la ejecución.
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 - Los riesgos sobre la descentralización existen incluso en DAOs bienintencionadas. 
 - Identificar patrones de centralización en la votación, el control administrativo y la infraestructura.
 - Monitorear las métricas de gobernanza y realizar auditorías periódicas para detectar riesgos de forma temprana.

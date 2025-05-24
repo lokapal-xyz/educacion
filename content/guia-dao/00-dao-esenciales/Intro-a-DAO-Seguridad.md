@@ -15,21 +15,21 @@ La seguridad de una DAO es como tener una cerradura robusta en la puerta. Se tra
 
 ---
 
-## Aspectos Clave de la Seguridad de las DAOs
+## Aspectos clave de la seguridad de las DAOs
 
-* **Mejores Prácticas de Seguridad:**
+* **Mejores prácticas de seguridad:**
   * Estas son las reglas básicas para mantenerse seguro.
   * **Auditorías de contratos inteligentes:** Revisar el código informático para detectar problemas.
   * **Controles de acceso:** Limitar quién puede hacer qué.
   * Es como usar contraseñas seguras y bloquear tu computadora.
 
-* **Seguridad Proactiva:**
+* **Seguridad proactiva:**
   * Se trata de prevenir problemas antes de que ocurran.
   * **Monitoreo continuo:** Detectar cualquier elemento sospechoso.
   * **Testeo:** Buscar vulnerabilidades antes de que alguien más lo haga.
   * Es como revisar tu casa en busca de goteras antes de una tormenta.
 
-* **Seguridad Reactiva:**
+* **Seguridad reactiva:**
   * Se trata de qué hacer si algo sale mal.
   * Tener un plan para responder a ataques de seguridad.
   * Saber cómo solucionar problemas rápidamente.

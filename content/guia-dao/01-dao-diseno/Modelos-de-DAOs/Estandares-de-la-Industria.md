@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Estándares de la Industria'
+title: 'Estándares de la industria'
 weight: 20_000
 ---
 
@@ -9,20 +9,20 @@ A medida que las DAOs han evolucionado, ciertos marcos, plataformas y herramient
 
 ---
 
-## **¿Por Qué Son Importantes los Estándares de la Industria?**
+## **¿Por qué son importantes los estándares de la industria?**
 
 Usar marcos de DAO consolidados ofrece varias ventajas:
 
 - **Seguridad**: Los contratos auditados y probados en campo reducen el riesgo de vulnerabilidades.
 - **Eficiencia**: El uso de soluciones predefinidas acelera la implementación y los procesos de gobernanza de las DAOs.
 - **Interoperabilidad**: Muchos marcos estándar se integran bien con herramientas externas y extensiones de gobernanza.
-- **Comunidad y Soporte**: Los marcos más utilizados cuentan con sólidas comunidades de desarrolladores, lo que facilita la búsqueda de recursos y asistencia.
+- **Comunidad y soporte**: Los marcos más utilizados cuentan con sólidas comunidades de desarrolladores, lo que facilita la búsqueda de recursos y asistencia.
 
 Sin embargo, basarse en los estándares del sector también implica heredar las desventajas de sus decisiones de diseño, que pueden no adaptarse a las necesidades específicas de cada DAO.
 
 ---
 
-## **Selección de Marcos y Plataformas DAO**
+## **Selección de marcos y plataformas DAO**
 
 ### **Marco MolochDAO**
 
@@ -66,7 +66,7 @@ Tally es una interfaz de gobernanza compatible con DAOs basadas en el Gobernador
 
 ---
 
-## **Elegir el Estándar Adecuado Para su DAO**
+## **Elegir el estándar adecuado para su DAO**
 
 El mejor marco depende de las necesidades de la DAO, su estructura de gobernanza y su nivel de descentralización. Algunas consideraciones:
 
@@ -79,6 +79,6 @@ Algunas DAO utilizan una combinación de estas herramientas, combinando una teso
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 Los estándares de la industria proporcionan a las DAOs modelos de gobernanza fiables y probados que pueden adoptarse tal cual o personalizarse para adaptarse a necesidades específicas. Si bien estos marcos simplifican la creación y gobernanza de las DAOs, cada uno tiene sus propias compensaciones, y elegir el correcto depende de los objetivos de la DAO, sus necesidades de seguridad y su filosofía de gobernanza.

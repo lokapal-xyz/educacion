@@ -15,29 +15,29 @@ La gobernanza de una DAO es como el reglamento que rige la toma de decisiones de
 
 ---
 
-## Aspectos Clave de la Gobernanza de una DAO
+## Aspectos clave de la gobernanza de una DAO
 
-* **Sistema de Votación:**
+* **Sistema de votación:**
   * ¿Cómo se toman las decisiones?
   * **Votación basada en tokens:** Más tokens = mayor poder de voto.
   * **Votación cuadrática:** Hace que los votos más pequeños tengan mayor impacto.
   * **Votación por convicción:** Muestra apoyo a largo plazo.
   * Cada sistema tiene sus propias fortalezas.
 
-* **Ciclo de Vida y Ejecución de Propuestas:**
+* **Ciclo de vida y ejecución de propuestas:**
   * ¿Cómo se hacen realidad las ideas?
   * Alguien sugiere una idea (propuesta).
   * Se discute y se vota sobre ella.
   * Si se aprueba, se implementa.
   * Esta es una forma estructurada de realizar cambios.
 
-* **Delegación y Representación:**
+* **Delegación y representación:**
   * Puedes ceder tu derecho de voto a otra persona.
   * Esto es útil si no tienes tiempo para votar sobre todo.
   * Los representantes pueden especializarse en ciertas áreas.
   * Ayuda a que la DAO funcione de forma más eficiente.
 
-* **Poderes de Veto y Medidas de Emergencia:**
+* **Poderes de veto y medidas de emergencia:**
   * ¿Qué pasa si alguien intenta hacer algo malo?
   * Los poderes de veto pueden detener propuestas perjudiciales.
   * Las medidas de emergencia permiten actuar con rapidez en caso de crisis.

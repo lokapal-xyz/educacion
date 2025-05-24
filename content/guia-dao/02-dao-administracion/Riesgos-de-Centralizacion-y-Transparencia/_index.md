@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Riesgos de Centralización y Transparencia'
+title: 'Riesgos de centralización y transparencia'
 weight: 7_000
 ---
 

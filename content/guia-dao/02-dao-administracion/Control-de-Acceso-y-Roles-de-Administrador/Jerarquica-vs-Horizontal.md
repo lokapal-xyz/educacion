@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:55:34-03:00'
 draft: false
-title: 'Gestión de Roles Jerárquica vs. Horizontal'
+title: 'Gestión de roles jerárquica vs. horizontal'
 weight: 31_000
 ---
 
@@ -9,40 +9,40 @@ Las estructuras de gobernanza de las DAOs se pueden clasificar, a grandes rasgos
 
 ---
 
-## **Gestión Jerárquica de Roles**
+## **Gestión jerárquica de roles**
 
 Una estructura jerárquica asigna diferentes niveles de autoridad a los participantes de la DAO.
 
-### **Modelos Jerárquicos Comunes**
-- **Equipo Central y Delegación**: Un equipo central supervisa las decisiones, pero delega tareas a grupos de trabajo.
-- **Control de Acceso Basado en Roles (RBAC)**: Los diferentes roles (p. ej., administrador, miembro, proponente) tienen permisos predefinidos.
-- **Voto Multinivel**: Algunos miembros tienen mayor poder de voto o tienen poder de veto.
+### **Modelos jerárquicos comunes**
+- **Equipo central y delegación**: Un equipo central supervisa las decisiones, pero delega tareas a grupos de trabajo.
+- **Control de acceso basado en roles (RBAC)**: Los diferentes roles (p. ej., administrador, miembro, proponente) tienen permisos predefinidos.
+- **Voto multinivel**: Algunos miembros tienen mayor poder de voto o tienen poder de veto.
 
 ### **Ventajas**
 - **Eficiencia**: Toma de decisiones más rápida gracias a un liderazgo claro.
 - **Seguridad**: Reduce el riesgo de ataques a la gobernanza o de una toma de decisiones caótica. 
-- **Rendición de Cuentas** – Responsabilidades claras previenen el estancamiento de la gobernanza.
+- **Rendición de cuentas** – Responsabilidades claras previenen el estancamiento de la gobernanza.
 
 ### **Desafíos**
-- **Riesgos de Centralización** – Un modelo jerárquico puede contradecir los objetivos de descentralización.
-- **Participación Reducida** – Los miembros pueden sentirse excluidos de una gobernanza significativa.
-- **Desequilibrio de Poder** – Ciertos roles pueden dominar la toma de decisiones.
+- **Riesgos de centralización** – Un modelo jerárquico puede contradecir los objetivos de descentralización.
+- **Participación reducida** – Los miembros pueden sentirse excluidos de una gobernanza significativa.
+- **Desequilibrio de poder** – Ciertos roles pueden dominar la toma de decisiones.
 
-### **Ejemplo: Jerarquía de gobernanza de Compound**
+### **Ejemplo: jerarquía de gobernanza de Compound**
 - Los **titulares de tokens de gobernanza** votan sobre las propuestas.
 - Los **delegados** representan a los titulares de tokens en la toma de decisiones.
 - Los **administradores multifirma** gestionan las actualizaciones de protocolo de emergencia.
 
 ---
 
-## **Gestión Horizontal de Roles**
+## **Gestión horizontal de roles**
 
 Una estructura de gobernanza horizontal otorga los mismos derechos de participación a todos los miembros.
 
-### **Modelos Horizontales Comunes**
+### **Modelos horizontales comunes**
 - **Una persona, un voto** – Todos los miembros tienen el mismo poder de voto. 
-- **Democracia Directa**: Las propuestas se deciden por mayoría simple.
-- **Roles Flexibles**: Los miembros se autoasignan tareas en lugar de roles fijos.
+- **Democracia directa**: Las propuestas se deciden por mayoría simple.
+- **Roles flexibles**: Los miembros se autoasignan tareas en lugar de roles fijos.
 
 ### **Ventajas**
 
@@ -52,11 +52,11 @@ Una estructura de gobernanza horizontal otorga los mismos derechos de participac
 
 ### **Desafíos**
 
-- **Obstáculos en la Toma de Decisiones**: La participación a gran escala puede ralentizar los procesos.
-- **Problemas de Coordinación**: La falta de roles estructurados puede causar ineficiencias.
-- **Fatiga de Gobernanza**: La participación activa de todos los miembros puede no ser sostenible.
+- **Obstáculos en la toma de decisiones**: La participación a gran escala puede ralentizar los procesos.
+- **Problemas de coordinación**: La falta de roles estructurados puede causar ineficiencias.
+- **Fatiga de gobernanza**: La participación activa de todos los miembros puede no ser sostenible.
 
-### **Ejemplo: Gobernanza Horizontal de Nouns DAO**
+### **Ejemplo: gobernanza horizontal de Nouns DAO**
 
 - Sin jerarquía de liderazgo.
 - Todos los titulares de NFT de Nouns tienen el mismo derecho a voto. 
@@ -64,9 +64,9 @@ Una estructura de gobernanza horizontal otorga los mismos derechos de participac
 
 ---
 
-## **Comparación de Modelos Jerárquicos y Horizontal**
+## **Comparación de modelos jerárquicos y horizontal**
 
-| **Característica** | **Modelo Jerárquico** | **Modelo Horizontal** |
+| **Característica** | **Modelo jerárquico** | **Modelo horizontal** |
 |-------------------|------------------|-----------|
 | **Descentralización** | Menor | Mayor |
 | **Eficiencia** | Mayor | Menor |
@@ -80,21 +80,21 @@ El diseño de gobernanza de una DAO debe reflejar su misión principal:
 
 ---
 
-## **¿Enfoques Híbridos: Lo Mejor de Ambos Mundos?**
+## **¿Enfoques híbridos: lo mejor de ambos mundos?**
 
 Muchas DAOs adoptan modelos de gobernanza híbridos que combinan elementos jerárquicos y horizontales:
 
-- **Gobernanza Delegada**: Los miembros eligen a sus representantes, equilibrando la descentralización con la eficiencia (p. ej., Compound, Uniswap).
-- **Voto Autorizado**: Algunas votaciones requieren la aprobación de expertos antes de su ejecución (p. ej., el Programa Steward de Gitcoin).
-- **SubDAO Para Especialización**: Una DAO principal supervisa a las SubDAOs independientes que gestionan funciones específicas.
+- **Gobernanza delegada**: Los miembros eligen a sus representantes, equilibrando la descentralización con la eficiencia (p. ej., Compound, Uniswap).
+- **Voto autorizado**: Algunas votaciones requieren la aprobación de expertos antes de su ejecución (p. ej., el Programa Steward de Gitcoin).
+- **SubDAO para especialización**: Una DAO principal supervisa a las SubDAOs independientes que gestionan funciones específicas.
 
-### **Ejemplo: Gobernanza híbrida de MakerDAO**
+### **Ejemplo: gobernanza híbrida de MakerDAO**
 - Los **titulares de tokens** votan en decisiones clave.
 - Los **delegados** se especializan en análisis de riesgos y actualizaciones de protocolo.
-- Las **SubDAOs** gestionan las estrategias de activos reales de Maker.
+- Las **subDAOs** gestionan las estrategias de activos reales de Maker.
 
 ---
 
-## **Reflexiones Finales**
+## **Reflexiones finales**
 
 Las DAOs deben diseñar cuidadosamente su estructura de gestión de roles en función de sus objetivos, tamaño y filosofía de gobernanza. Un modelo híbrido equilibrado suele ofrecer la mejor combinación de descentralización, eficiencia y seguridad.
